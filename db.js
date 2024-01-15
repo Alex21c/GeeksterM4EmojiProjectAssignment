@@ -11,8 +11,8 @@ let db = [
       "smile"
     , "happy"
     ]
-  , "unicode_version": "6.1"
-  , "ios_version": "6.0"
+  , "unicode version": "6.1"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "😃"
@@ -26,8 +26,8 @@ let db = [
     , "joy"
     , "haha"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "😄"
@@ -42,8 +42,8 @@ let db = [
     , "laugh"
     , "pleased"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "😁"
@@ -54,8 +54,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "😆"
@@ -69,21 +69,21 @@ let db = [
       "happy"
     , "haha"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "😅"
   , "description": "grinning face with sweat"
   , "category": "Smileys & Emotion"
   , "aliases": [
-      "sweat_smile"
+      "sweat smile"
     ]
   , "tags": [
       "hot"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🤣"
@@ -96,8 +96,8 @@ let db = [
       "lol"
     , "laughing"
     ]
-  , "unicode_version": "9.0"
-  , "ios_version": "10.2"
+  , "unicode version": "9.0"
+  , "ios version": "10.2"
   }
 , {
     "emoji": "😂"
@@ -109,32 +109,32 @@ let db = [
   , "tags": [
       "tears"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🙂"
   , "description": "slightly smiling face"
   , "category": "Smileys & Emotion"
   , "aliases": [
-      "slightly_smiling_face"
+      "slightly smiling face"
     ]
   , "tags": [
     ]
-  , "unicode_version": "7.0"
-  , "ios_version": "9.1"
+  , "unicode version": "7.0"
+  , "ios version": "9.1"
   }
 , {
     "emoji": "🙃"
   , "description": "upside-down face"
   , "category": "Smileys & Emotion"
   , "aliases": [
-      "upside_down_face"
+      "upside down face"
     ]
   , "tags": [
     ]
-  , "unicode_version": "8.0"
-  , "ios_version": "9.1"
+  , "unicode version": "8.0"
+  , "ios version": "9.1"
   }
 , {
     "emoji": "😉"
@@ -146,8 +146,8 @@ let db = [
   , "tags": [
       "flirt"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "😊"
@@ -159,8 +159,8 @@ let db = [
   , "tags": [
       "proud"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "😇"
@@ -172,61 +172,61 @@ let db = [
   , "tags": [
       "angel"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🥰"
   , "description": "smiling face with hearts"
   , "category": "Smileys & Emotion"
   , "aliases": [
-      "smiling_face_with_three_hearts"
+      "smiling face with three hearts"
     ]
   , "tags": [
       "love"
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
   }
 , {
     "emoji": "😍"
   , "description": "smiling face with heart-eyes"
   , "category": "Smileys & Emotion"
   , "aliases": [
-      "heart_eyes"
+      "heart eyes"
     ]
   , "tags": [
       "love"
     , "crush"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🤩"
   , "description": "star-struck"
   , "category": "Smileys & Emotion"
   , "aliases": [
-      "star_struck"
+      "star struck"
     ]
   , "tags": [
       "eyes"
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
   }
 , {
     "emoji": "😘"
   , "description": "face blowing a kiss"
   , "category": "Smileys & Emotion"
   , "aliases": [
-      "kissing_heart"
+      "kissing heart"
     ]
   , "tags": [
       "flirt"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "😗"
@@ -237,8 +237,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.1"
-  , "ios_version": "6.0"
+  , "unicode version": "6.1"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "☺️"
@@ -251,45 +251,33 @@ let db = [
       "blush"
     , "pleased"
     ]
-  , "unicode_version": ""
-  , "ios_version": "6.0"
+  , "unicode version": ""
+  , "ios version": "6.0"
   }
 , {
     "emoji": "😚"
   , "description": "kissing face with closed eyes"
   , "category": "Smileys & Emotion"
   , "aliases": [
-      "kissing_closed_eyes"
+      "kissing closed eyes"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "😙"
   , "description": "kissing face with smiling eyes"
   , "category": "Smileys & Emotion"
   , "aliases": [
-      "kissing_smiling_eyes"
+      "kissing smiling eyes"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.1"
-  , "ios_version": "6.0"
-  }
-, {
-    "emoji": "🥲"
-  , "description": "smiling face with tear"
-  , "category": "Smileys & Emotion"
-  , "aliases": [
-      "smiling_face_with_tear"
-    ]
-  , "tags": [
-    ]
-  , "unicode_version": "13.0"
-  , "ios_version": "14.0"
-  }
+  , "unicode version": "6.1"
+  , "ios version": "6.0"
+  },
 , {
     "emoji": "😋"
   , "description": "face savoring food"
@@ -301,74 +289,74 @@ let db = [
       "tongue"
     , "lick"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "😛"
   , "description": "face with tongue"
   , "category": "Smileys & Emotion"
   , "aliases": [
-      "stuck_out_tongue"
+      "stuck out tongue"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.1"
-  , "ios_version": "6.0"
+  , "unicode version": "6.1"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "😜"
   , "description": "winking face with tongue"
   , "category": "Smileys & Emotion"
   , "aliases": [
-      "stuck_out_tongue_winking_eye"
+      "stuck out tongue winking eye"
     ]
   , "tags": [
       "prank"
     , "silly"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🤪"
   , "description": "zany face"
   , "category": "Smileys & Emotion"
   , "aliases": [
-      "zany_face"
+      "zany face"
     ]
   , "tags": [
       "goofy"
     , "wacky"
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
   }
 , {
     "emoji": "😝"
   , "description": "squinting face with tongue"
   , "category": "Smileys & Emotion"
   , "aliases": [
-      "stuck_out_tongue_closed_eyes"
+      "stuck out tongue closed eyes"
     ]
   , "tags": [
       "prank"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🤑"
   , "description": "money-mouth face"
   , "category": "Smileys & Emotion"
   , "aliases": [
-      "money_mouth_face"
+      "money mouth face"
     ]
   , "tags": [
       "rich"
     ]
-  , "unicode_version": "8.0"
-  , "ios_version": "9.1"
+  , "unicode version": "8.0"
+  , "ios version": "9.1"
   }
 , {
     "emoji": "🤗"
@@ -379,36 +367,36 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "8.0"
-  , "ios_version": "9.1"
+  , "unicode version": "8.0"
+  , "ios version": "9.1"
   }
 , {
     "emoji": "🤭"
   , "description": "face with hand over mouth"
   , "category": "Smileys & Emotion"
   , "aliases": [
-      "hand_over_mouth"
+      "hand over mouth"
     ]
   , "tags": [
       "quiet"
     , "whoops"
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
   }
 , {
     "emoji": "🤫"
   , "description": "shushing face"
   , "category": "Smileys & Emotion"
   , "aliases": [
-      "shushing_face"
+      "shushing face"
     ]
   , "tags": [
       "silence"
     , "quiet"
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
   }
 , {
     "emoji": "🤔"
@@ -419,48 +407,48 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "8.0"
-  , "ios_version": "9.1"
+  , "unicode version": "8.0"
+  , "ios version": "9.1"
   }
 , {
     "emoji": "🤐"
   , "description": "zipper-mouth face"
   , "category": "Smileys & Emotion"
   , "aliases": [
-      "zipper_mouth_face"
+      "zipper mouth face"
     ]
   , "tags": [
       "silence"
     , "hush"
     ]
-  , "unicode_version": "8.0"
-  , "ios_version": "9.1"
+  , "unicode version": "8.0"
+  , "ios version": "9.1"
   }
 , {
     "emoji": "🤨"
   , "description": "face with raised eyebrow"
   , "category": "Smileys & Emotion"
   , "aliases": [
-      "raised_eyebrow"
+      "raised eyebrow"
     ]
   , "tags": [
       "suspicious"
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
   }
 , {
     "emoji": "😐"
   , "description": "neutral face"
   , "category": "Smileys & Emotion"
   , "aliases": [
-      "neutral_face"
+      "neutral face"
     ]
   , "tags": [
       "meh"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "😑"
@@ -471,34 +459,34 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.1"
-  , "ios_version": "6.0"
+  , "unicode version": "6.1"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "😶"
   , "description": "face without mouth"
   , "category": "Smileys & Emotion"
   , "aliases": [
-      "no_mouth"
+      "no mouth"
     ]
   , "tags": [
       "mute"
     , "silence"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "😶‍🌫️"
   , "description": "face in clouds"
   , "category": "Smileys & Emotion"
   , "aliases": [
-      "face_in_clouds"
+      "face in clouds"
     ]
   , "tags": [
     ]
-  , "unicode_version": "13.1"
-  , "ios_version": "14.0"
+  , "unicode version": "13.1"
+  , "ios version": "14.0"
   }
 , {
     "emoji": "😏"
@@ -510,8 +498,8 @@ let db = [
   , "tags": [
       "smug"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "😒"
@@ -523,20 +511,20 @@ let db = [
   , "tags": [
       "meh"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🙄"
   , "description": "face with rolling eyes"
   , "category": "Smileys & Emotion"
   , "aliases": [
-      "roll_eyes"
+      "roll eyes"
     ]
   , "tags": [
     ]
-  , "unicode_version": "8.0"
-  , "ios_version": "9.1"
+  , "unicode version": "8.0"
+  , "ios version": "9.1"
   }
 , {
     "emoji": "😬"
@@ -547,33 +535,33 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.1"
-  , "ios_version": "6.0"
+  , "unicode version": "6.1"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "😮‍💨"
   , "description": "face exhaling"
   , "category": "Smileys & Emotion"
   , "aliases": [
-      "face_exhaling"
+      "face exhaling"
     ]
   , "tags": [
     ]
-  , "unicode_version": "13.1"
-  , "ios_version": "14.0"
+  , "unicode version": "13.1"
+  , "ios version": "14.0"
   }
 , {
     "emoji": "🤥"
   , "description": "lying face"
   , "category": "Smileys & Emotion"
   , "aliases": [
-      "lying_face"
+      "lying face"
     ]
   , "tags": [
       "liar"
     ]
-  , "unicode_version": "9.0"
-  , "ios_version": "10.2"
+  , "unicode version": "9.0"
+  , "ios version": "10.2"
   }
 , {
     "emoji": "😌"
@@ -585,8 +573,8 @@ let db = [
   , "tags": [
       "whew"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "😔"
@@ -597,8 +585,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "😪"
@@ -610,20 +598,20 @@ let db = [
   , "tags": [
       "tired"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🤤"
   , "description": "drooling face"
   , "category": "Smileys & Emotion"
   , "aliases": [
-      "drooling_face"
+      "drooling face"
     ]
   , "tags": [
     ]
-  , "unicode_version": "9.0"
-  , "ios_version": "10.2"
+  , "unicode version": "9.0"
+  , "ios version": "10.2"
   }
 , {
     "emoji": "😴"
@@ -635,8 +623,8 @@ let db = [
   , "tags": [
       "zzz"
     ]
-  , "unicode_version": "6.1"
-  , "ios_version": "6.0"
+  , "unicode version": "6.1"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "😷"
@@ -649,195 +637,184 @@ let db = [
       "sick"
     , "ill"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🤒"
   , "description": "face with thermometer"
   , "category": "Smileys & Emotion"
   , "aliases": [
-      "face_with_thermometer"
+      "face with thermometer"
     ]
   , "tags": [
       "sick"
     ]
-  , "unicode_version": "8.0"
-  , "ios_version": "9.1"
+  , "unicode version": "8.0"
+  , "ios version": "9.1"
   }
 , {
     "emoji": "🤕"
   , "description": "face with head-bandage"
   , "category": "Smileys & Emotion"
   , "aliases": [
-      "face_with_head_bandage"
+      "face with head bandage"
     ]
   , "tags": [
       "hurt"
     ]
-  , "unicode_version": "8.0"
-  , "ios_version": "9.1"
+  , "unicode version": "8.0"
+  , "ios version": "9.1"
   }
 , {
     "emoji": "🤢"
   , "description": "nauseated face"
   , "category": "Smileys & Emotion"
   , "aliases": [
-      "nauseated_face"
+      "nauseated face"
     ]
   , "tags": [
       "sick"
     , "barf"
     , "disgusted"
     ]
-  , "unicode_version": "9.0"
-  , "ios_version": "10.2"
+  , "unicode version": "9.0"
+  , "ios version": "10.2"
   }
 , {
     "emoji": "🤮"
   , "description": "face vomiting"
   , "category": "Smileys & Emotion"
   , "aliases": [
-      "vomiting_face"
+      "vomiting face"
     ]
   , "tags": [
       "barf"
     , "sick"
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
   }
 , {
     "emoji": "🤧"
   , "description": "sneezing face"
   , "category": "Smileys & Emotion"
   , "aliases": [
-      "sneezing_face"
+      "sneezing face"
     ]
   , "tags": [
       "achoo"
     , "sick"
     ]
-  , "unicode_version": "9.0"
-  , "ios_version": "10.2"
+  , "unicode version": "9.0"
+  , "ios version": "10.2"
   }
 , {
     "emoji": "🥵"
   , "description": "hot face"
   , "category": "Smileys & Emotion"
   , "aliases": [
-      "hot_face"
+      "hot face"
     ]
   , "tags": [
       "heat"
     , "sweating"
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
   }
 , {
     "emoji": "🥶"
   , "description": "cold face"
   , "category": "Smileys & Emotion"
   , "aliases": [
-      "cold_face"
+      "cold face"
     ]
   , "tags": [
       "freezing"
     , "ice"
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
   }
 , {
     "emoji": "🥴"
   , "description": "woozy face"
   , "category": "Smileys & Emotion"
   , "aliases": [
-      "woozy_face"
+      "woozy face"
     ]
   , "tags": [
       "groggy"
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
   }
 , {
     "emoji": "😵"
   , "description": "knocked-out face"
   , "category": "Smileys & Emotion"
   , "aliases": [
-      "dizzy_face"
+      "dizzy face"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "😵‍💫"
   , "description": "face with spiral eyes"
   , "category": "Smileys & Emotion"
   , "aliases": [
-      "face_with_spiral_eyes"
+      "face with spiral eyes"
     ]
   , "tags": [
     ]
-  , "unicode_version": "13.1"
-  , "ios_version": "14.0"
+  , "unicode version": "13.1"
+  , "ios version": "14.0"
   }
 , {
     "emoji": "🤯"
   , "description": "exploding head"
   , "category": "Smileys & Emotion"
   , "aliases": [
-      "exploding_head"
+      "exploding head"
     ]
   , "tags": [
       "mind"
     , "blown"
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
   }
 , {
     "emoji": "🤠"
   , "description": "cowboy hat face"
   , "category": "Smileys & Emotion"
   , "aliases": [
-      "cowboy_hat_face"
+      "cowboy hat face"
     ]
   , "tags": [
     ]
-  , "unicode_version": "9.0"
-  , "ios_version": "10.2"
+  , "unicode version": "9.0"
+  , "ios version": "10.2"
   }
 , {
     "emoji": "🥳"
   , "description": "partying face"
   , "category": "Smileys & Emotion"
   , "aliases": [
-      "partying_face"
+      "partying face"
     ]
   , "tags": [
       "celebration"
     , "birthday"
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
   }
-, {
-    "emoji": "🥸"
-  , "description": "disguised face"
-  , "category": "Smileys & Emotion"
-  , "aliases": [
-      "disguised_face"
-    ]
-  , "tags": [
-    ]
-  , "unicode_version": "13.0"
-  , "ios_version": "14.0"
-  }
+
 , {
     "emoji": "😎"
   , "description": "smiling face with sunglasses"
@@ -848,34 +825,34 @@ let db = [
   , "tags": [
       "cool"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🤓"
   , "description": "nerd face"
   , "category": "Smileys & Emotion"
   , "aliases": [
-      "nerd_face"
+      "nerd face"
     ]
   , "tags": [
       "geek"
     , "glasses"
     ]
-  , "unicode_version": "8.0"
-  , "ios_version": "9.1"
+  , "unicode version": "8.0"
+  , "ios version": "9.1"
   }
 , {
     "emoji": "🧐"
   , "description": "face with monocle"
   , "category": "Smileys & Emotion"
   , "aliases": [
-      "monocle_face"
+      "monocle face"
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
   }
 , {
     "emoji": "😕"
@@ -886,8 +863,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.1"
-  , "ios_version": "6.0"
+  , "unicode version": "6.1"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "😟"
@@ -899,47 +876,47 @@ let db = [
   , "tags": [
       "nervous"
     ]
-  , "unicode_version": "6.1"
-  , "ios_version": "6.0"
+  , "unicode version": "6.1"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🙁"
   , "description": "slightly frowning face"
   , "category": "Smileys & Emotion"
   , "aliases": [
-      "slightly_frowning_face"
+      "slightly frowning face"
     ]
   , "tags": [
     ]
-  , "unicode_version": "7.0"
-  , "ios_version": "9.1"
+  , "unicode version": "7.0"
+  , "ios version": "9.1"
   }
 , {
     "emoji": "☹️"
   , "description": "frowning face"
   , "category": "Smileys & Emotion"
   , "aliases": [
-      "frowning_face"
+      "frowning face"
     ]
   , "tags": [
     ]
-  , "unicode_version": ""
-  , "ios_version": "9.1"
+  , "unicode version": ""
+  , "ios version": "9.1"
   }
 , {
     "emoji": "😮"
   , "description": "face with open mouth"
   , "category": "Smileys & Emotion"
   , "aliases": [
-      "open_mouth"
+      "open mouth"
     ]
   , "tags": [
       "surprise"
     , "impressed"
     , "wow"
     ]
-  , "unicode_version": "6.1"
-  , "ios_version": "6.0"
+  , "unicode version": "6.1"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "😯"
@@ -952,8 +929,8 @@ let db = [
       "silence"
     , "speechless"
     ]
-  , "unicode_version": "6.1"
-  , "ios_version": "6.0"
+  , "unicode version": "6.1"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "😲"
@@ -966,8 +943,8 @@ let db = [
       "amazed"
     , "gasp"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "😳"
@@ -978,22 +955,22 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🥺"
   , "description": "pleading face"
   , "category": "Smileys & Emotion"
   , "aliases": [
-      "pleading_face"
+      "pleading face"
     ]
   , "tags": [
       "puppy"
     , "eyes"
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
   }
 , {
     "emoji": "😦"
@@ -1004,8 +981,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.1"
-  , "ios_version": "6.0"
+  , "unicode version": "6.1"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "😧"
@@ -1017,8 +994,8 @@ let db = [
   , "tags": [
       "stunned"
     ]
-  , "unicode_version": "6.1"
-  , "ios_version": "6.0"
+  , "unicode version": "6.1"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "😨"
@@ -1032,36 +1009,36 @@ let db = [
     , "shocked"
     , "oops"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "😰"
   , "description": "anxious face with sweat"
   , "category": "Smileys & Emotion"
   , "aliases": [
-      "cold_sweat"
+      "cold sweat"
     ]
   , "tags": [
       "nervous"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "😥"
   , "description": "sad but relieved face"
   , "category": "Smileys & Emotion"
   , "aliases": [
-      "disappointed_relieved"
+      "disappointed relieved"
     ]
   , "tags": [
       "phew"
     , "sweat"
     , "nervous"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "😢"
@@ -1074,8 +1051,8 @@ let db = [
       "sad"
     , "tear"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "😭"
@@ -1089,8 +1066,8 @@ let db = [
     , "cry"
     , "bawling"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "😱"
@@ -1103,8 +1080,8 @@ let db = [
       "horror"
     , "shocked"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "😖"
@@ -1115,8 +1092,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "😣"
@@ -1128,8 +1105,8 @@ let db = [
   , "tags": [
       "struggling"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "😞"
@@ -1141,8 +1118,8 @@ let db = [
   , "tags": [
       "sad"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "😓"
@@ -1153,8 +1130,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "😩"
@@ -1166,34 +1143,34 @@ let db = [
   , "tags": [
       "tired"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "😫"
   , "description": "tired face"
   , "category": "Smileys & Emotion"
   , "aliases": [
-      "tired_face"
+      "tired face"
     ]
   , "tags": [
       "upset"
     , "whine"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🥱"
   , "description": "yawning face"
   , "category": "Smileys & Emotion"
   , "aliases": [
-      "yawning_face"
+      "yawning face"
     ]
   , "tags": [
     ]
-  , "unicode_version": "12.0"
-  , "ios_version": "13.0"
+  , "unicode version": "12.0"
+  , "ios version": "13.0"
   }
 , {
     "emoji": "😤"
@@ -1205,8 +1182,8 @@ let db = [
   , "tags": [
       "smug"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "😡"
@@ -1219,8 +1196,8 @@ let db = [
   , "tags": [
       "angry"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "😠"
@@ -1233,36 +1210,36 @@ let db = [
       "mad"
     , "annoyed"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🤬"
   , "description": "face with symbols on mouth"
   , "category": "Smileys & Emotion"
   , "aliases": [
-      "cursing_face"
+      "cursing face"
     ]
   , "tags": [
       "foul"
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
   }
 , {
     "emoji": "😈"
   , "description": "smiling face with horns"
   , "category": "Smileys & Emotion"
   , "aliases": [
-      "smiling_imp"
+      "smiling imp"
     ]
   , "tags": [
       "devil"
     , "evil"
     , "horns"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "👿"
@@ -1277,8 +1254,8 @@ let db = [
     , "evil"
     , "horns"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "💀"
@@ -1292,22 +1269,22 @@ let db = [
     , "danger"
     , "poison"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "☠️"
   , "description": "skull and crossbones"
   , "category": "Smileys & Emotion"
   , "aliases": [
-      "skull_and_crossbones"
+      "skull and crossbones"
     ]
   , "tags": [
       "danger"
     , "pirate"
     ]
-  , "unicode_version": ""
-  , "ios_version": "9.1"
+  , "unicode version": ""
+  , "ios version": "9.1"
   }
 , {
     "emoji": "💩"
@@ -1321,45 +1298,45 @@ let db = [
   , "tags": [
       "crap"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🤡"
   , "description": "clown face"
   , "category": "Smileys & Emotion"
   , "aliases": [
-      "clown_face"
+      "clown face"
     ]
   , "tags": [
     ]
-  , "unicode_version": "9.0"
-  , "ios_version": "10.2"
+  , "unicode version": "9.0"
+  , "ios version": "10.2"
   }
 , {
     "emoji": "👹"
   , "description": "ogre"
   , "category": "Smileys & Emotion"
   , "aliases": [
-      "japanese_ogre"
+      "japanese ogre"
     ]
   , "tags": [
       "monster"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "👺"
   , "description": "goblin"
   , "category": "Smileys & Emotion"
   , "aliases": [
-      "japanese_goblin"
+      "japanese goblin"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "👻"
@@ -1371,8 +1348,8 @@ let db = [
   , "tags": [
       "halloween"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "👽"
@@ -1384,22 +1361,22 @@ let db = [
   , "tags": [
       "ufo"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "👾"
   , "description": "alien monster"
   , "category": "Smileys & Emotion"
   , "aliases": [
-      "space_invader"
+      "space invader"
     ]
   , "tags": [
       "game"
     , "retro"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🤖"
@@ -1410,163 +1387,163 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "8.0"
-  , "ios_version": "9.1"
+  , "unicode version": "8.0"
+  , "ios version": "9.1"
   }
 , {
     "emoji": "😺"
   , "description": "grinning cat"
   , "category": "Smileys & Emotion"
   , "aliases": [
-      "smiley_cat"
+      "smiley cat"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "😸"
   , "description": "grinning cat with smiling eyes"
   , "category": "Smileys & Emotion"
   , "aliases": [
-      "smile_cat"
+      "smile cat"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "😹"
   , "description": "cat with tears of joy"
   , "category": "Smileys & Emotion"
   , "aliases": [
-      "joy_cat"
+      "joy cat"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "😻"
   , "description": "smiling cat with heart-eyes"
   , "category": "Smileys & Emotion"
   , "aliases": [
-      "heart_eyes_cat"
+      "heart eyes cat"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "😼"
   , "description": "cat with wry smile"
   , "category": "Smileys & Emotion"
   , "aliases": [
-      "smirk_cat"
+      "smirk cat"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "😽"
   , "description": "kissing cat"
   , "category": "Smileys & Emotion"
   , "aliases": [
-      "kissing_cat"
+      "kissing cat"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🙀"
   , "description": "weary cat"
   , "category": "Smileys & Emotion"
   , "aliases": [
-      "scream_cat"
+      "scream cat"
     ]
   , "tags": [
       "horror"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "😿"
   , "description": "crying cat"
   , "category": "Smileys & Emotion"
   , "aliases": [
-      "crying_cat_face"
+      "crying cat face"
     ]
   , "tags": [
       "sad"
     , "tear"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "😾"
   , "description": "pouting cat"
   , "category": "Smileys & Emotion"
   , "aliases": [
-      "pouting_cat"
+      "pouting cat"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🙈"
   , "description": "see-no-evil monkey"
   , "category": "Smileys & Emotion"
   , "aliases": [
-      "see_no_evil"
+      "see no evil"
     ]
   , "tags": [
       "monkey"
     , "blind"
     , "ignore"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🙉"
   , "description": "hear-no-evil monkey"
   , "category": "Smileys & Emotion"
   , "aliases": [
-      "hear_no_evil"
+      "hear no evil"
     ]
   , "tags": [
       "monkey"
     , "deaf"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🙊"
   , "description": "speak-no-evil monkey"
   , "category": "Smileys & Emotion"
   , "aliases": [
-      "speak_no_evil"
+      "speak no evil"
     ]
   , "tags": [
       "monkey"
     , "mute"
     , "hush"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "💋"
@@ -1578,22 +1555,22 @@ let db = [
   , "tags": [
       "lipstick"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "💌"
   , "description": "love letter"
   , "category": "Smileys & Emotion"
   , "aliases": [
-      "love_letter"
+      "love letter"
     ]
   , "tags": [
       "email"
     , "envelope"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "💘"
@@ -1606,33 +1583,33 @@ let db = [
       "love"
     , "heart"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "💝"
   , "description": "heart with ribbon"
   , "category": "Smileys & Emotion"
   , "aliases": [
-      "gift_heart"
+      "gift heart"
     ]
   , "tags": [
       "chocolates"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "💖"
   , "description": "sparkling heart"
   , "category": "Smileys & Emotion"
   , "aliases": [
-      "sparkling_heart"
+      "sparkling heart"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "💗"
@@ -1643,8 +1620,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "💓"
@@ -1655,92 +1632,92 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "💞"
   , "description": "revolving hearts"
   , "category": "Smileys & Emotion"
   , "aliases": [
-      "revolving_hearts"
+      "revolving hearts"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "💕"
   , "description": "two hearts"
   , "category": "Smileys & Emotion"
   , "aliases": [
-      "two_hearts"
+      "two hearts"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "💟"
   , "description": "heart decoration"
   , "category": "Smileys & Emotion"
   , "aliases": [
-      "heart_decoration"
+      "heart decoration"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "❣️"
   , "description": "heart exclamation"
   , "category": "Smileys & Emotion"
   , "aliases": [
-      "heavy_heart_exclamation"
+      "heavy heart exclamation"
     ]
   , "tags": [
     ]
-  , "unicode_version": ""
-  , "ios_version": "9.1"
+  , "unicode version": ""
+  , "ios version": "9.1"
   }
 , {
     "emoji": "💔"
   , "description": "broken heart"
   , "category": "Smileys & Emotion"
   , "aliases": [
-      "broken_heart"
+      "broken heart"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "❤️‍🔥"
   , "description": "heart on fire"
   , "category": "Smileys & Emotion"
   , "aliases": [
-      "heart_on_fire"
+      "heart on fire"
     ]
   , "tags": [
     ]
-  , "unicode_version": "13.1"
-  , "ios_version": "14.0"
+  , "unicode version": "13.1"
+  , "ios version": "14.0"
   }
 , {
     "emoji": "❤️‍🩹"
   , "description": "mending heart"
   , "category": "Smileys & Emotion"
   , "aliases": [
-      "mending_heart"
+      "mending heart"
     ]
   , "tags": [
     ]
-  , "unicode_version": "13.1"
-  , "ios_version": "14.0"
+  , "unicode version": "13.1"
+  , "ios version": "14.0"
   }
 , {
     "emoji": "❤️"
@@ -1752,104 +1729,104 @@ let db = [
   , "tags": [
       "love"
     ]
-  , "unicode_version": ""
-  , "ios_version": "6.0"
+  , "unicode version": ""
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🧡"
   , "description": "orange heart"
   , "category": "Smileys & Emotion"
   , "aliases": [
-      "orange_heart"
+      "orange heart"
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
   }
 , {
     "emoji": "💛"
   , "description": "yellow heart"
   , "category": "Smileys & Emotion"
   , "aliases": [
-      "yellow_heart"
+      "yellow heart"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "💚"
   , "description": "green heart"
   , "category": "Smileys & Emotion"
   , "aliases": [
-      "green_heart"
+      "green heart"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "💙"
   , "description": "blue heart"
   , "category": "Smileys & Emotion"
   , "aliases": [
-      "blue_heart"
+      "blue heart"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "💜"
   , "description": "purple heart"
   , "category": "Smileys & Emotion"
   , "aliases": [
-      "purple_heart"
+      "purple heart"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🤎"
   , "description": "brown heart"
   , "category": "Smileys & Emotion"
   , "aliases": [
-      "brown_heart"
+      "brown heart"
     ]
   , "tags": [
     ]
-  , "unicode_version": "12.0"
-  , "ios_version": "13.0"
+  , "unicode version": "12.0"
+  , "ios version": "13.0"
   }
 , {
     "emoji": "🖤"
   , "description": "black heart"
   , "category": "Smileys & Emotion"
   , "aliases": [
-      "black_heart"
+      "black heart"
     ]
   , "tags": [
     ]
-  , "unicode_version": "9.0"
-  , "ios_version": "10.2"
+  , "unicode version": "9.0"
+  , "ios version": "10.2"
   }
 , {
     "emoji": "🤍"
   , "description": "white heart"
   , "category": "Smileys & Emotion"
   , "aliases": [
-      "white_heart"
+      "white heart"
     ]
   , "tags": [
     ]
-  , "unicode_version": "12.0"
-  , "ios_version": "13.0"
+  , "unicode version": "12.0"
+  , "ios version": "13.0"
   }
 , {
     "emoji": "💯"
@@ -1862,8 +1839,8 @@ let db = [
       "score"
     , "perfect"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "💢"
@@ -1875,8 +1852,8 @@ let db = [
   , "tags": [
       "angry"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "💥"
@@ -1889,8 +1866,8 @@ let db = [
   , "tags": [
       "explode"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "💫"
@@ -1902,22 +1879,22 @@ let db = [
   , "tags": [
       "star"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "💦"
   , "description": "sweat droplets"
   , "category": "Smileys & Emotion"
   , "aliases": [
-      "sweat_drops"
+      "sweat drops"
     ]
   , "tags": [
       "water"
     , "workout"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "💨"
@@ -1931,8 +1908,8 @@ let db = [
     , "blow"
     , "fast"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🕳️"
@@ -1943,8 +1920,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "7.0"
-  , "ios_version": "9.1"
+  , "unicode version": "7.0"
+  , "ios version": "9.1"
   }
 , {
     "emoji": "💣"
@@ -1956,70 +1933,70 @@ let db = [
   , "tags": [
       "boom"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "💬"
   , "description": "speech balloon"
   , "category": "Smileys & Emotion"
   , "aliases": [
-      "speech_balloon"
+      "speech balloon"
     ]
   , "tags": [
       "comment"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "👁️‍🗨️"
   , "description": "eye in speech bubble"
   , "category": "Smileys & Emotion"
   , "aliases": [
-      "eye_speech_bubble"
+      "eye speech bubble"
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
   }
 , {
     "emoji": "🗨️"
   , "description": "left speech bubble"
   , "category": "Smileys & Emotion"
   , "aliases": [
-      "left_speech_bubble"
+      "left speech bubble"
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
   }
 , {
     "emoji": "🗯️"
   , "description": "right anger bubble"
   , "category": "Smileys & Emotion"
   , "aliases": [
-      "right_anger_bubble"
+      "right anger bubble"
     ]
   , "tags": [
     ]
-  , "unicode_version": "7.0"
-  , "ios_version": "9.1"
+  , "unicode version": "7.0"
+  , "ios version": "9.1"
   }
 , {
     "emoji": "💭"
   , "description": "thought balloon"
   , "category": "Smileys & Emotion"
   , "aliases": [
-      "thought_balloon"
+      "thought balloon"
     ]
   , "tags": [
       "thinking"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "💤"
@@ -2031,8 +2008,8 @@ let db = [
   , "tags": [
       "sleeping"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "👋"
@@ -2044,35 +2021,35 @@ let db = [
   , "tags": [
       "goodbye"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
-  , "skin_tones": true
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
+  , "skin tones": true
   }
 , {
     "emoji": "🤚"
   , "description": "raised back of hand"
   , "category": "People & Body"
   , "aliases": [
-      "raised_back_of_hand"
+      "raised back of hand"
     ]
   , "tags": [
     ]
-  , "unicode_version": "9.0"
-  , "ios_version": "10.2"
-  , "skin_tones": true
+  , "unicode version": "9.0"
+  , "ios version": "10.2"
+  , "skin tones": true
   }
 , {
     "emoji": "🖐️"
   , "description": "hand with fingers splayed"
   , "category": "People & Body"
   , "aliases": [
-      "raised_hand_with_fingers_splayed"
+      "raised hand with fingers splayed"
     ]
   , "tags": [
     ]
-  , "unicode_version": "7.0"
-  , "ios_version": "9.1"
-  , "skin_tones": true
+  , "unicode version": "7.0"
+  , "ios version": "9.1"
+  , "skin tones": true
   }
 , {
     "emoji": "✋"
@@ -2080,69 +2057,69 @@ let db = [
   , "category": "People & Body"
   , "aliases": [
       "hand"
-    , "raised_hand"
+    , "raised hand"
     ]
   , "tags": [
       "highfive"
     , "stop"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
-  , "skin_tones": true
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
+  , "skin tones": true
   }
 , {
     "emoji": "🖖"
   , "description": "vulcan salute"
   , "category": "People & Body"
   , "aliases": [
-      "vulcan_salute"
+      "vulcan salute"
     ]
   , "tags": [
       "prosper"
     , "spock"
     ]
-  , "unicode_version": "7.0"
-  , "ios_version": "8.3"
-  , "skin_tones": true
+  , "unicode version": "7.0"
+  , "ios version": "8.3"
+  , "skin tones": true
   }
 , {
     "emoji": "👌"
   , "description": "OK hand"
   , "category": "People & Body"
   , "aliases": [
-      "ok_hand"
+      "ok hand"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
-  , "skin_tones": true
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
+  , "skin tones": true
   }
 , {
     "emoji": "🤌"
   , "description": "pinched fingers"
   , "category": "People & Body"
   , "aliases": [
-      "pinched_fingers"
+      "pinched fingers"
     ]
   , "tags": [
     ]
-  , "unicode_version": "13.0"
-  , "ios_version": "14.0"
-  , "skin_tones": true
+  , "unicode version": "13.0"
+  , "ios version": "14.0"
+  , "skin tones": true
   }
 , {
     "emoji": "🤏"
   , "description": "pinching hand"
   , "category": "People & Body"
   , "aliases": [
-      "pinching_hand"
+      "pinching hand"
     ]
   , "tags": [
     ]
-  , "unicode_version": "12.0"
-  , "ios_version": "13.0"
-  , "skin_tones": true
+  , "unicode version": "12.0"
+  , "ios version": "13.0"
+  , "skin tones": true
   }
 , {
     "emoji": "✌️"
@@ -2155,37 +2132,37 @@ let db = [
       "victory"
     , "peace"
     ]
-  , "unicode_version": ""
-  , "ios_version": "6.0"
-  , "skin_tones": true
+  , "unicode version": ""
+  , "ios version": "6.0"
+  , "skin tones": true
   }
 , {
     "emoji": "🤞"
   , "description": "crossed fingers"
   , "category": "People & Body"
   , "aliases": [
-      "crossed_fingers"
+      "crossed fingers"
     ]
   , "tags": [
       "luck"
     , "hopeful"
     ]
-  , "unicode_version": "9.0"
-  , "ios_version": "10.2"
-  , "skin_tones": true
+  , "unicode version": "9.0"
+  , "ios version": "10.2"
+  , "skin tones": true
   }
 , {
     "emoji": "🤟"
   , "description": "love-you gesture"
   , "category": "People & Body"
   , "aliases": [
-      "love_you_gesture"
+      "love you gesture"
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
-  , "skin_tones": true
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
+  , "skin tones": true
   }
 , {
     "emoji": "🤘"
@@ -2196,101 +2173,101 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "8.0"
-  , "ios_version": "9.1"
-  , "skin_tones": true
+  , "unicode version": "8.0"
+  , "ios version": "9.1"
+  , "skin tones": true
   }
 , {
     "emoji": "🤙"
   , "description": "call me hand"
   , "category": "People & Body"
   , "aliases": [
-      "call_me_hand"
+      "call me hand"
     ]
   , "tags": [
     ]
-  , "unicode_version": "9.0"
-  , "ios_version": "10.2"
-  , "skin_tones": true
+  , "unicode version": "9.0"
+  , "ios version": "10.2"
+  , "skin tones": true
   }
 , {
     "emoji": "👈"
   , "description": "backhand index pointing left"
   , "category": "People & Body"
   , "aliases": [
-      "point_left"
+      "point left"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
-  , "skin_tones": true
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
+  , "skin tones": true
   }
 , {
     "emoji": "👉"
   , "description": "backhand index pointing right"
   , "category": "People & Body"
   , "aliases": [
-      "point_right"
+      "point right"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
-  , "skin_tones": true
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
+  , "skin tones": true
   }
 , {
     "emoji": "👆"
   , "description": "backhand index pointing up"
   , "category": "People & Body"
   , "aliases": [
-      "point_up_2"
+      "point up 2"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
-  , "skin_tones": true
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
+  , "skin tones": true
   }
 , {
     "emoji": "🖕"
   , "description": "middle finger"
   , "category": "People & Body"
   , "aliases": [
-      "middle_finger"
+      "middle finger"
     , "fu"
     ]
   , "tags": [
     ]
-  , "unicode_version": "7.0"
-  , "ios_version": "9.1"
-  , "skin_tones": true
+  , "unicode version": "7.0"
+  , "ios version": "9.1"
+  , "skin tones": true
   }
 , {
     "emoji": "👇"
   , "description": "backhand index pointing down"
   , "category": "People & Body"
   , "aliases": [
-      "point_down"
+      "point down"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
-  , "skin_tones": true
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
+  , "skin tones": true
   }
 , {
     "emoji": "☝️"
   , "description": "index pointing up"
   , "category": "People & Body"
   , "aliases": [
-      "point_up"
+      "point up"
     ]
   , "tags": [
     ]
-  , "unicode_version": ""
-  , "ios_version": "6.0"
-  , "skin_tones": true
+  , "unicode version": ""
+  , "ios version": "6.0"
+  , "skin tones": true
   }
 , {
     "emoji": "👍"
@@ -2304,9 +2281,9 @@ let db = [
       "approve"
     , "ok"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
-  , "skin_tones": true
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
+  , "skin tones": true
   }
 , {
     "emoji": "👎"
@@ -2320,66 +2297,66 @@ let db = [
       "disapprove"
     , "bury"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
-  , "skin_tones": true
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
+  , "skin tones": true
   }
 , {
     "emoji": "✊"
   , "description": "raised fist"
   , "category": "People & Body"
   , "aliases": [
-      "fist_raised"
+      "fist raised"
     , "fist"
     ]
   , "tags": [
       "power"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
-  , "skin_tones": true
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
+  , "skin tones": true
   }
 , {
     "emoji": "👊"
   , "description": "oncoming fist"
   , "category": "People & Body"
   , "aliases": [
-      "fist_oncoming"
+      "fist oncoming"
     , "facepunch"
     , "punch"
     ]
   , "tags": [
       "attack"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
-  , "skin_tones": true
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
+  , "skin tones": true
   }
 , {
     "emoji": "🤛"
   , "description": "left-facing fist"
   , "category": "People & Body"
   , "aliases": [
-      "fist_left"
+      "fist left"
     ]
   , "tags": [
     ]
-  , "unicode_version": "9.0"
-  , "ios_version": "10.2"
-  , "skin_tones": true
+  , "unicode version": "9.0"
+  , "ios version": "10.2"
+  , "skin tones": true
   }
 , {
     "emoji": "🤜"
   , "description": "right-facing fist"
   , "category": "People & Body"
   , "aliases": [
-      "fist_right"
+      "fist right"
     ]
   , "tags": [
     ]
-  , "unicode_version": "9.0"
-  , "ios_version": "10.2"
-  , "skin_tones": true
+  , "unicode version": "9.0"
+  , "ios version": "10.2"
+  , "skin tones": true
   }
 , {
     "emoji": "👏"
@@ -2392,49 +2369,49 @@ let db = [
       "praise"
     , "applause"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
-  , "skin_tones": true
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
+  , "skin tones": true
   }
 , {
     "emoji": "🙌"
   , "description": "raising hands"
   , "category": "People & Body"
   , "aliases": [
-      "raised_hands"
+      "raised hands"
     ]
   , "tags": [
       "hooray"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
-  , "skin_tones": true
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
+  , "skin tones": true
   }
 , {
     "emoji": "👐"
   , "description": "open hands"
   , "category": "People & Body"
   , "aliases": [
-      "open_hands"
+      "open hands"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
-  , "skin_tones": true
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
+  , "skin tones": true
   }
 , {
     "emoji": "🤲"
   , "description": "palms up together"
   , "category": "People & Body"
   , "aliases": [
-      "palms_up_together"
+      "palms up together"
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
-  , "skin_tones": true
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
+  , "skin tones": true
   }
 , {
     "emoji": "🤝"
@@ -2446,8 +2423,8 @@ let db = [
   , "tags": [
       "deal"
     ]
-  , "unicode_version": "9.0"
-  , "ios_version": "10.2"
+  , "unicode version": "9.0"
+  , "ios version": "10.2"
   }
 , {
     "emoji": "🙏"
@@ -2461,37 +2438,37 @@ let db = [
     , "hope"
     , "wish"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
-  , "skin_tones": true
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
+  , "skin tones": true
   }
 , {
     "emoji": "✍️"
   , "description": "writing hand"
   , "category": "People & Body"
   , "aliases": [
-      "writing_hand"
+      "writing hand"
     ]
   , "tags": [
     ]
-  , "unicode_version": ""
-  , "ios_version": "9.1"
-  , "skin_tones": true
+  , "unicode version": ""
+  , "ios version": "9.1"
+  , "skin tones": true
   }
 , {
     "emoji": "💅"
   , "description": "nail polish"
   , "category": "People & Body"
   , "aliases": [
-      "nail_care"
+      "nail care"
     ]
   , "tags": [
       "beauty"
     , "manicure"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
-  , "skin_tones": true
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
+  , "skin tones": true
   }
 , {
     "emoji": "🤳"
@@ -2502,9 +2479,9 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "9.0"
-  , "ios_version": "10.2"
-  , "skin_tones": true
+  , "unicode version": "9.0"
+  , "ios version": "10.2"
+  , "skin tones": true
   }
 , {
     "emoji": "💪"
@@ -2519,33 +2496,33 @@ let db = [
     , "strong"
     , "workout"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
-  , "skin_tones": true
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
+  , "skin tones": true
   }
 , {
     "emoji": "🦾"
   , "description": "mechanical arm"
   , "category": "People & Body"
   , "aliases": [
-      "mechanical_arm"
+      "mechanical arm"
     ]
   , "tags": [
     ]
-  , "unicode_version": "12.0"
-  , "ios_version": "13.0"
+  , "unicode version": "12.0"
+  , "ios version": "13.0"
   }
 , {
     "emoji": "🦿"
   , "description": "mechanical leg"
   , "category": "People & Body"
   , "aliases": [
-      "mechanical_leg"
+      "mechanical leg"
     ]
   , "tags": [
     ]
-  , "unicode_version": "12.0"
-  , "ios_version": "13.0"
+  , "unicode version": "12.0"
+  , "ios version": "13.0"
   }
 , {
     "emoji": "🦵"
@@ -2556,9 +2533,9 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
-  , "skin_tones": true
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
+  , "skin tones": true
   }
 , {
     "emoji": "🦶"
@@ -2569,9 +2546,9 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
-  , "skin_tones": true
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
+  , "skin tones": true
   }
 , {
     "emoji": "👂"
@@ -2585,22 +2562,22 @@ let db = [
     , "sound"
     , "listen"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
-  , "skin_tones": true
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
+  , "skin tones": true
   }
 , {
     "emoji": "🦻"
   , "description": "ear with hearing aid"
   , "category": "People & Body"
   , "aliases": [
-      "ear_with_hearing_aid"
+      "ear with hearing aid"
     ]
   , "tags": [
     ]
-  , "unicode_version": "12.0"
-  , "ios_version": "13.0"
-  , "skin_tones": true
+  , "unicode version": "12.0"
+  , "ios version": "13.0"
+  , "skin tones": true
   }
 , {
     "emoji": "👃"
@@ -2612,9 +2589,9 @@ let db = [
   , "tags": [
       "smell"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
-  , "skin_tones": true
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
+  , "skin tones": true
   }
 , {
     "emoji": "🧠"
@@ -2625,21 +2602,10 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
   }
-, {
-    "emoji": "🫀"
-  , "description": "anatomical heart"
-  , "category": "People & Body"
-  , "aliases": [
-      "anatomical_heart"
-    ]
-  , "tags": [
-    ]
-  , "unicode_version": "13.0"
-  , "ios_version": "14.0"
-  }
+
 , {
     "emoji": "🫁"
   , "description": "lungs"
@@ -2649,8 +2615,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "13.0"
-  , "ios_version": "14.0"
+  , "unicode version": "13.0"
+  , "ios version": "14.0"
   }
 , {
     "emoji": "🦷"
@@ -2661,8 +2627,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
   }
 , {
     "emoji": "🦴"
@@ -2673,8 +2639,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
   }
 , {
     "emoji": "👀"
@@ -2688,8 +2654,8 @@ let db = [
     , "see"
     , "watch"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "👁️"
@@ -2700,8 +2666,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "7.0"
-  , "ios_version": "9.1"
+  , "unicode version": "7.0"
+  , "ios version": "9.1"
   }
 , {
     "emoji": "👅"
@@ -2713,8 +2679,8 @@ let db = [
   , "tags": [
       "taste"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "👄"
@@ -2726,8 +2692,8 @@ let db = [
   , "tags": [
       "kiss"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "👶"
@@ -2740,9 +2706,9 @@ let db = [
       "child"
     , "newborn"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
-  , "skin_tones": true
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
+  , "skin tones": true
   }
 , {
     "emoji": "🧒"
@@ -2753,9 +2719,9 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
-  , "skin_tones": true
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
+  , "skin tones": true
   }
 , {
     "emoji": "👦"
@@ -2767,9 +2733,9 @@ let db = [
   , "tags": [
       "child"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
-  , "skin_tones": true
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
+  , "skin tones": true
   }
 , {
     "emoji": "👧"
@@ -2781,9 +2747,9 @@ let db = [
   , "tags": [
       "child"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
-  , "skin_tones": true
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
+  , "skin tones": true
   }
 , {
     "emoji": "🧑"
@@ -2794,22 +2760,22 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
-  , "skin_tones": true
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
+  , "skin tones": true
   }
 , {
     "emoji": "👱"
   , "description": "person: blond hair"
   , "category": "People & Body"
   , "aliases": [
-      "blond_haired_person"
+      "blond haired person"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
-  , "skin_tones": true
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
+  , "skin tones": true
   }
 , {
     "emoji": "👨"
@@ -2823,100 +2789,100 @@ let db = [
     , "father"
     , "dad"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
-  , "skin_tones": true
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
+  , "skin tones": true
   }
 , {
     "emoji": "🧔"
   , "description": "person: beard"
   , "category": "People & Body"
   , "aliases": [
-      "bearded_person"
+      "bearded person"
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
-  , "skin_tones": true
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
+  , "skin tones": true
   }
 , {
     "emoji": "🧔‍♂️"
   , "description": "man: beard"
   , "category": "People & Body"
   , "aliases": [
-      "man_beard"
+      "man beard"
     ]
   , "tags": [
     ]
-  , "unicode_version": "13.1"
-  , "ios_version": "14.0"
-  , "skin_tones": true
+  , "unicode version": "13.1"
+  , "ios version": "14.0"
+  , "skin tones": true
   }
 , {
     "emoji": "🧔‍♀️"
   , "description": "woman: beard"
   , "category": "People & Body"
   , "aliases": [
-      "woman_beard"
+      "woman beard"
     ]
   , "tags": [
     ]
-  , "unicode_version": "13.1"
-  , "ios_version": "14.0"
-  , "skin_tones": true
+  , "unicode version": "13.1"
+  , "ios version": "14.0"
+  , "skin tones": true
   }
 , {
     "emoji": "👨‍🦰"
   , "description": "man: red hair"
   , "category": "People & Body"
   , "aliases": [
-      "red_haired_man"
+      "red haired man"
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
-  , "skin_tones": true
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
+  , "skin tones": true
   }
 , {
     "emoji": "👨‍🦱"
   , "description": "man: curly hair"
   , "category": "People & Body"
   , "aliases": [
-      "curly_haired_man"
+      "curly haired man"
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
-  , "skin_tones": true
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
+  , "skin tones": true
   }
 , {
     "emoji": "👨‍🦳"
   , "description": "man: white hair"
   , "category": "People & Body"
   , "aliases": [
-      "white_haired_man"
+      "white haired man"
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
-  , "skin_tones": true
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
+  , "skin tones": true
   }
 , {
     "emoji": "👨‍🦲"
   , "description": "man: bald"
   , "category": "People & Body"
   , "aliases": [
-      "bald_man"
+      "bald man"
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
-  , "skin_tones": true
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
+  , "skin tones": true
   }
 , {
     "emoji": "👩"
@@ -2928,468 +2894,468 @@ let db = [
   , "tags": [
       "girls"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
-  , "skin_tones": true
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
+  , "skin tones": true
   }
 , {
     "emoji": "👩‍🦰"
   , "description": "woman: red hair"
   , "category": "People & Body"
   , "aliases": [
-      "red_haired_woman"
+      "red haired woman"
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
-  , "skin_tones": true
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
+  , "skin tones": true
   }
 , {
     "emoji": "🧑‍🦰"
   , "description": "person: red hair"
   , "category": "People & Body"
   , "aliases": [
-      "person_red_hair"
+      "person red hair"
     ]
   , "tags": [
     ]
-  , "unicode_version": "12.1"
-  , "ios_version": "13.2"
-  , "skin_tones": true
+  , "unicode version": "12.1"
+  , "ios version": "13.2"
+  , "skin tones": true
   }
 , {
     "emoji": "👩‍🦱"
   , "description": "woman: curly hair"
   , "category": "People & Body"
   , "aliases": [
-      "curly_haired_woman"
+      "curly haired woman"
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
-  , "skin_tones": true
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
+  , "skin tones": true
   }
 , {
     "emoji": "🧑‍🦱"
   , "description": "person: curly hair"
   , "category": "People & Body"
   , "aliases": [
-      "person_curly_hair"
+      "person curly hair"
     ]
   , "tags": [
     ]
-  , "unicode_version": "12.1"
-  , "ios_version": "13.2"
-  , "skin_tones": true
+  , "unicode version": "12.1"
+  , "ios version": "13.2"
+  , "skin tones": true
   }
 , {
     "emoji": "👩‍🦳"
   , "description": "woman: white hair"
   , "category": "People & Body"
   , "aliases": [
-      "white_haired_woman"
+      "white haired woman"
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
-  , "skin_tones": true
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
+  , "skin tones": true
   }
 , {
     "emoji": "🧑‍🦳"
   , "description": "person: white hair"
   , "category": "People & Body"
   , "aliases": [
-      "person_white_hair"
+      "person white hair"
     ]
   , "tags": [
     ]
-  , "unicode_version": "12.1"
-  , "ios_version": "13.2"
-  , "skin_tones": true
+  , "unicode version": "12.1"
+  , "ios version": "13.2"
+  , "skin tones": true
   }
 , {
     "emoji": "👩‍🦲"
   , "description": "woman: bald"
   , "category": "People & Body"
   , "aliases": [
-      "bald_woman"
+      "bald woman"
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
-  , "skin_tones": true
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
+  , "skin tones": true
   }
 , {
     "emoji": "🧑‍🦲"
   , "description": "person: bald"
   , "category": "People & Body"
   , "aliases": [
-      "person_bald"
+      "person bald"
     ]
   , "tags": [
     ]
-  , "unicode_version": "12.1"
-  , "ios_version": "13.2"
-  , "skin_tones": true
+  , "unicode version": "12.1"
+  , "ios version": "13.2"
+  , "skin tones": true
   }
 , {
     "emoji": "👱‍♀️"
   , "description": "woman: blond hair"
   , "category": "People & Body"
   , "aliases": [
-      "blond_haired_woman"
-    , "blonde_woman"
+      "blond haired woman"
+    , "blonde woman"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "10.0"
-  , "skin_tones": true
+  , "unicode version": "6.0"
+  , "ios version": "10.0"
+  , "skin tones": true
   }
 , {
     "emoji": "👱‍♂️"
   , "description": "man: blond hair"
   , "category": "People & Body"
   , "aliases": [
-      "blond_haired_man"
+      "blond haired man"
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
-  , "skin_tones": true
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
+  , "skin tones": true
   }
 , {
     "emoji": "🧓"
   , "description": "older person"
   , "category": "People & Body"
   , "aliases": [
-      "older_adult"
+      "older adult"
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
-  , "skin_tones": true
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
+  , "skin tones": true
   }
 , {
     "emoji": "👴"
   , "description": "old man"
   , "category": "People & Body"
   , "aliases": [
-      "older_man"
+      "older man"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
-  , "skin_tones": true
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
+  , "skin tones": true
   }
 , {
     "emoji": "👵"
   , "description": "old woman"
   , "category": "People & Body"
   , "aliases": [
-      "older_woman"
+      "older woman"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
-  , "skin_tones": true
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
+  , "skin tones": true
   }
 , {
     "emoji": "🙍"
   , "description": "person frowning"
   , "category": "People & Body"
   , "aliases": [
-      "frowning_person"
+      "frowning person"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
-  , "skin_tones": true
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
+  , "skin tones": true
   }
 , {
     "emoji": "🙍‍♂️"
   , "description": "man frowning"
   , "category": "People & Body"
   , "aliases": [
-      "frowning_man"
+      "frowning man"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "10.0"
-  , "skin_tones": true
+  , "unicode version": "6.0"
+  , "ios version": "10.0"
+  , "skin tones": true
   }
 , {
     "emoji": "🙍‍♀️"
   , "description": "woman frowning"
   , "category": "People & Body"
   , "aliases": [
-      "frowning_woman"
+      "frowning woman"
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
-  , "skin_tones": true
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
+  , "skin tones": true
   }
 , {
     "emoji": "🙎"
   , "description": "person pouting"
   , "category": "People & Body"
   , "aliases": [
-      "pouting_face"
+      "pouting face"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
-  , "skin_tones": true
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
+  , "skin tones": true
   }
 , {
     "emoji": "🙎‍♂️"
   , "description": "man pouting"
   , "category": "People & Body"
   , "aliases": [
-      "pouting_man"
+      "pouting man"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "10.0"
-  , "skin_tones": true
+  , "unicode version": "6.0"
+  , "ios version": "10.0"
+  , "skin tones": true
   }
 , {
     "emoji": "🙎‍♀️"
   , "description": "woman pouting"
   , "category": "People & Body"
   , "aliases": [
-      "pouting_woman"
+      "pouting woman"
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
-  , "skin_tones": true
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
+  , "skin tones": true
   }
 , {
     "emoji": "🙅"
   , "description": "person gesturing NO"
   , "category": "People & Body"
   , "aliases": [
-      "no_good"
+      "no good"
     ]
   , "tags": [
       "stop"
     , "halt"
     , "denied"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
-  , "skin_tones": true
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
+  , "skin tones": true
   }
 , {
     "emoji": "🙅‍♂️"
   , "description": "man gesturing NO"
   , "category": "People & Body"
   , "aliases": [
-      "no_good_man"
-    , "ng_man"
+      "no good man"
+    , "ng man"
     ]
   , "tags": [
       "stop"
     , "halt"
     , "denied"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "10.0"
-  , "skin_tones": true
+  , "unicode version": "6.0"
+  , "ios version": "10.0"
+  , "skin tones": true
   }
 , {
     "emoji": "🙅‍♀️"
   , "description": "woman gesturing NO"
   , "category": "People & Body"
   , "aliases": [
-      "no_good_woman"
-    , "ng_woman"
+      "no good woman"
+    , "ng woman"
     ]
   , "tags": [
       "stop"
     , "halt"
     , "denied"
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
-  , "skin_tones": true
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
+  , "skin tones": true
   }
 , {
     "emoji": "🙆"
   , "description": "person gesturing OK"
   , "category": "People & Body"
   , "aliases": [
-      "ok_person"
+      "ok person"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
-  , "skin_tones": true
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
+  , "skin tones": true
   }
 , {
     "emoji": "🙆‍♂️"
   , "description": "man gesturing OK"
   , "category": "People & Body"
   , "aliases": [
-      "ok_man"
+      "ok man"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "10.0"
-  , "skin_tones": true
+  , "unicode version": "6.0"
+  , "ios version": "10.0"
+  , "skin tones": true
   }
 , {
     "emoji": "🙆‍♀️"
   , "description": "woman gesturing OK"
   , "category": "People & Body"
   , "aliases": [
-      "ok_woman"
+      "ok woman"
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
-  , "skin_tones": true
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
+  , "skin tones": true
   }
 , {
     "emoji": "💁"
   , "description": "person tipping hand"
   , "category": "People & Body"
   , "aliases": [
-      "tipping_hand_person"
-    , "information_desk_person"
+      "tipping hand person"
+    , "information desk person"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
-  , "skin_tones": true
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
+  , "skin tones": true
   }
 , {
     "emoji": "💁‍♂️"
   , "description": "man tipping hand"
   , "category": "People & Body"
   , "aliases": [
-      "tipping_hand_man"
-    , "sassy_man"
+      "tipping hand man"
+    , "sassy man"
     ]
   , "tags": [
       "information"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "10.0"
-  , "skin_tones": true
+  , "unicode version": "6.0"
+  , "ios version": "10.0"
+  , "skin tones": true
   }
 , {
     "emoji": "💁‍♀️"
   , "description": "woman tipping hand"
   , "category": "People & Body"
   , "aliases": [
-      "tipping_hand_woman"
-    , "sassy_woman"
+      "tipping hand woman"
+    , "sassy woman"
     ]
   , "tags": [
       "information"
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
-  , "skin_tones": true
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
+  , "skin tones": true
   }
 , {
     "emoji": "🙋"
   , "description": "person raising hand"
   , "category": "People & Body"
   , "aliases": [
-      "raising_hand"
+      "raising hand"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
-  , "skin_tones": true
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
+  , "skin tones": true
   }
 , {
     "emoji": "🙋‍♂️"
   , "description": "man raising hand"
   , "category": "People & Body"
   , "aliases": [
-      "raising_hand_man"
+      "raising hand man"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "10.0"
-  , "skin_tones": true
+  , "unicode version": "6.0"
+  , "ios version": "10.0"
+  , "skin tones": true
   }
 , {
     "emoji": "🙋‍♀️"
   , "description": "woman raising hand"
   , "category": "People & Body"
   , "aliases": [
-      "raising_hand_woman"
+      "raising hand woman"
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
-  , "skin_tones": true
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
+  , "skin tones": true
   }
 , {
     "emoji": "🧏"
   , "description": "deaf person"
   , "category": "People & Body"
   , "aliases": [
-      "deaf_person"
+      "deaf person"
     ]
   , "tags": [
     ]
-  , "unicode_version": "12.0"
-  , "ios_version": "13.0"
-  , "skin_tones": true
+  , "unicode version": "12.0"
+  , "ios version": "13.0"
+  , "skin tones": true
   }
 , {
     "emoji": "🧏‍♂️"
   , "description": "deaf man"
   , "category": "People & Body"
   , "aliases": [
-      "deaf_man"
+      "deaf man"
     ]
   , "tags": [
     ]
-  , "unicode_version": "12.0"
-  , "ios_version": "13.0"
-  , "skin_tones": true
+  , "unicode version": "12.0"
+  , "ios version": "13.0"
+  , "skin tones": true
   }
 , {
     "emoji": "🧏‍♀️"
   , "description": "deaf woman"
   , "category": "People & Body"
   , "aliases": [
-      "deaf_woman"
+      "deaf woman"
     ]
   , "tags": [
     ]
-  , "unicode_version": "12.0"
-  , "ios_version": "13.0"
-  , "skin_tones": true
+  , "unicode version": "12.0"
+  , "ios version": "13.0"
+  , "skin tones": true
   }
 , {
     "emoji": "🙇"
@@ -3402,39 +3368,39 @@ let db = [
       "respect"
     , "thanks"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
-  , "skin_tones": true
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
+  , "skin tones": true
   }
 , {
     "emoji": "🙇‍♂️"
   , "description": "man bowing"
   , "category": "People & Body"
   , "aliases": [
-      "bowing_man"
+      "bowing man"
     ]
   , "tags": [
       "respect"
     , "thanks"
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
-  , "skin_tones": true
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
+  , "skin tones": true
   }
 , {
     "emoji": "🙇‍♀️"
   , "description": "woman bowing"
   , "category": "People & Body"
   , "aliases": [
-      "bowing_woman"
+      "bowing woman"
     ]
   , "tags": [
       "respect"
     , "thanks"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "10.0"
-  , "skin_tones": true
+  , "unicode version": "6.0"
+  , "ios version": "10.0"
+  , "skin tones": true
   }
 , {
     "emoji": "🤦"
@@ -3445,35 +3411,35 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
-  , "skin_tones": true
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
+  , "skin tones": true
   }
 , {
     "emoji": "🤦‍♂️"
   , "description": "man facepalming"
   , "category": "People & Body"
   , "aliases": [
-      "man_facepalming"
+      "man facepalming"
     ]
   , "tags": [
     ]
-  , "unicode_version": "9.0"
-  , "ios_version": "10.2"
-  , "skin_tones": true
+  , "unicode version": "9.0"
+  , "ios version": "10.2"
+  , "skin tones": true
   }
 , {
     "emoji": "🤦‍♀️"
   , "description": "woman facepalming"
   , "category": "People & Body"
   , "aliases": [
-      "woman_facepalming"
+      "woman facepalming"
     ]
   , "tags": [
     ]
-  , "unicode_version": "9.0"
-  , "ios_version": "10.2"
-  , "skin_tones": true
+  , "unicode version": "9.0"
+  , "ios version": "10.2"
+  , "skin tones": true
   }
 , {
     "emoji": "🤷"
@@ -3484,78 +3450,78 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
-  , "skin_tones": true
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
+  , "skin tones": true
   }
 , {
     "emoji": "🤷‍♂️"
   , "description": "man shrugging"
   , "category": "People & Body"
   , "aliases": [
-      "man_shrugging"
+      "man shrugging"
     ]
   , "tags": [
     ]
-  , "unicode_version": "9.0"
-  , "ios_version": "10.2"
-  , "skin_tones": true
+  , "unicode version": "9.0"
+  , "ios version": "10.2"
+  , "skin tones": true
   }
 , {
     "emoji": "🤷‍♀️"
   , "description": "woman shrugging"
   , "category": "People & Body"
   , "aliases": [
-      "woman_shrugging"
+      "woman shrugging"
     ]
   , "tags": [
     ]
-  , "unicode_version": "9.0"
-  , "ios_version": "10.2"
-  , "skin_tones": true
+  , "unicode version": "9.0"
+  , "ios version": "10.2"
+  , "skin tones": true
   }
 , {
     "emoji": "🧑‍⚕️"
   , "description": "health worker"
   , "category": "People & Body"
   , "aliases": [
-      "health_worker"
+      "health worker"
     ]
   , "tags": [
     ]
-  , "unicode_version": "12.1"
-  , "ios_version": "13.2"
-  , "skin_tones": true
+  , "unicode version": "12.1"
+  , "ios version": "13.2"
+  , "skin tones": true
   }
 , {
     "emoji": "👨‍⚕️"
   , "description": "man health worker"
   , "category": "People & Body"
   , "aliases": [
-      "man_health_worker"
+      "man health worker"
     ]
   , "tags": [
       "doctor"
     , "nurse"
     ]
-  , "unicode_version": ""
-  , "ios_version": "10.2"
-  , "skin_tones": true
+  , "unicode version": ""
+  , "ios version": "10.2"
+  , "skin tones": true
   }
 , {
     "emoji": "👩‍⚕️"
   , "description": "woman health worker"
   , "category": "People & Body"
   , "aliases": [
-      "woman_health_worker"
+      "woman health worker"
     ]
   , "tags": [
       "doctor"
     , "nurse"
     ]
-  , "unicode_version": ""
-  , "ios_version": "10.2"
-  , "skin_tones": true
+  , "unicode version": ""
+  , "ios version": "10.2"
+  , "skin tones": true
   }
 , {
     "emoji": "🧑‍🎓"
@@ -3566,37 +3532,37 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "12.1"
-  , "ios_version": "13.2"
-  , "skin_tones": true
+  , "unicode version": "12.1"
+  , "ios version": "13.2"
+  , "skin tones": true
   }
 , {
     "emoji": "👨‍🎓"
   , "description": "man student"
   , "category": "People & Body"
   , "aliases": [
-      "man_student"
+      "man student"
     ]
   , "tags": [
       "graduation"
     ]
-  , "unicode_version": ""
-  , "ios_version": "10.2"
-  , "skin_tones": true
+  , "unicode version": ""
+  , "ios version": "10.2"
+  , "skin tones": true
   }
 , {
     "emoji": "👩‍🎓"
   , "description": "woman student"
   , "category": "People & Body"
   , "aliases": [
-      "woman_student"
+      "woman student"
     ]
   , "tags": [
       "graduation"
     ]
-  , "unicode_version": ""
-  , "ios_version": "10.2"
-  , "skin_tones": true
+  , "unicode version": ""
+  , "ios version": "10.2"
+  , "skin tones": true
   }
 , {
     "emoji": "🧑‍🏫"
@@ -3607,39 +3573,39 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "12.1"
-  , "ios_version": "13.2"
-  , "skin_tones": true
+  , "unicode version": "12.1"
+  , "ios version": "13.2"
+  , "skin tones": true
   }
 , {
     "emoji": "👨‍🏫"
   , "description": "man teacher"
   , "category": "People & Body"
   , "aliases": [
-      "man_teacher"
+      "man teacher"
     ]
   , "tags": [
       "school"
     , "professor"
     ]
-  , "unicode_version": ""
-  , "ios_version": "10.2"
-  , "skin_tones": true
+  , "unicode version": ""
+  , "ios version": "10.2"
+  , "skin tones": true
   }
 , {
     "emoji": "👩‍🏫"
   , "description": "woman teacher"
   , "category": "People & Body"
   , "aliases": [
-      "woman_teacher"
+      "woman teacher"
     ]
   , "tags": [
       "school"
     , "professor"
     ]
-  , "unicode_version": ""
-  , "ios_version": "10.2"
-  , "skin_tones": true
+  , "unicode version": ""
+  , "ios version": "10.2"
+  , "skin tones": true
   }
 , {
     "emoji": "🧑‍⚖️"
@@ -3650,37 +3616,37 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "12.1"
-  , "ios_version": "13.2"
-  , "skin_tones": true
+  , "unicode version": "12.1"
+  , "ios version": "13.2"
+  , "skin tones": true
   }
 , {
     "emoji": "👨‍⚖️"
   , "description": "man judge"
   , "category": "People & Body"
   , "aliases": [
-      "man_judge"
+      "man judge"
     ]
   , "tags": [
       "justice"
     ]
-  , "unicode_version": ""
-  , "ios_version": "10.2"
-  , "skin_tones": true
+  , "unicode version": ""
+  , "ios version": "10.2"
+  , "skin tones": true
   }
 , {
     "emoji": "👩‍⚖️"
   , "description": "woman judge"
   , "category": "People & Body"
   , "aliases": [
-      "woman_judge"
+      "woman judge"
     ]
   , "tags": [
       "justice"
     ]
-  , "unicode_version": ""
-  , "ios_version": "10.2"
-  , "skin_tones": true
+  , "unicode version": ""
+  , "ios version": "10.2"
+  , "skin tones": true
   }
 , {
     "emoji": "🧑‍🌾"
@@ -3691,35 +3657,35 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "12.1"
-  , "ios_version": "13.2"
-  , "skin_tones": true
+  , "unicode version": "12.1"
+  , "ios version": "13.2"
+  , "skin tones": true
   }
 , {
     "emoji": "👨‍🌾"
   , "description": "man farmer"
   , "category": "People & Body"
   , "aliases": [
-      "man_farmer"
+      "man farmer"
     ]
   , "tags": [
     ]
-  , "unicode_version": ""
-  , "ios_version": "10.2"
-  , "skin_tones": true
+  , "unicode version": ""
+  , "ios version": "10.2"
+  , "skin tones": true
   }
 , {
     "emoji": "👩‍🌾"
   , "description": "woman farmer"
   , "category": "People & Body"
   , "aliases": [
-      "woman_farmer"
+      "woman farmer"
     ]
   , "tags": [
     ]
-  , "unicode_version": ""
-  , "ios_version": "10.2"
-  , "skin_tones": true
+  , "unicode version": ""
+  , "ios version": "10.2"
+  , "skin tones": true
   }
 , {
     "emoji": "🧑‍🍳"
@@ -3730,37 +3696,37 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "12.1"
-  , "ios_version": "13.2"
-  , "skin_tones": true
+  , "unicode version": "12.1"
+  , "ios version": "13.2"
+  , "skin tones": true
   }
 , {
     "emoji": "👨‍🍳"
   , "description": "man cook"
   , "category": "People & Body"
   , "aliases": [
-      "man_cook"
+      "man cook"
     ]
   , "tags": [
       "chef"
     ]
-  , "unicode_version": ""
-  , "ios_version": "10.2"
-  , "skin_tones": true
+  , "unicode version": ""
+  , "ios version": "10.2"
+  , "skin tones": true
   }
 , {
     "emoji": "👩‍🍳"
   , "description": "woman cook"
   , "category": "People & Body"
   , "aliases": [
-      "woman_cook"
+      "woman cook"
     ]
   , "tags": [
       "chef"
     ]
-  , "unicode_version": ""
-  , "ios_version": "10.2"
-  , "skin_tones": true
+  , "unicode version": ""
+  , "ios version": "10.2"
+  , "skin tones": true
   }
 , {
     "emoji": "🧑‍🔧"
@@ -3771,115 +3737,115 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "12.1"
-  , "ios_version": "13.2"
-  , "skin_tones": true
+  , "unicode version": "12.1"
+  , "ios version": "13.2"
+  , "skin tones": true
   }
 , {
     "emoji": "👨‍🔧"
   , "description": "man mechanic"
   , "category": "People & Body"
   , "aliases": [
-      "man_mechanic"
+      "man mechanic"
     ]
   , "tags": [
     ]
-  , "unicode_version": ""
-  , "ios_version": "10.2"
-  , "skin_tones": true
+  , "unicode version": ""
+  , "ios version": "10.2"
+  , "skin tones": true
   }
 , {
     "emoji": "👩‍🔧"
   , "description": "woman mechanic"
   , "category": "People & Body"
   , "aliases": [
-      "woman_mechanic"
+      "woman mechanic"
     ]
   , "tags": [
     ]
-  , "unicode_version": ""
-  , "ios_version": "10.2"
-  , "skin_tones": true
+  , "unicode version": ""
+  , "ios version": "10.2"
+  , "skin tones": true
   }
 , {
     "emoji": "🧑‍🏭"
   , "description": "factory worker"
   , "category": "People & Body"
   , "aliases": [
-      "factory_worker"
+      "factory worker"
     ]
   , "tags": [
     ]
-  , "unicode_version": "12.1"
-  , "ios_version": "13.2"
-  , "skin_tones": true
+  , "unicode version": "12.1"
+  , "ios version": "13.2"
+  , "skin tones": true
   }
 , {
     "emoji": "👨‍🏭"
   , "description": "man factory worker"
   , "category": "People & Body"
   , "aliases": [
-      "man_factory_worker"
+      "man factory worker"
     ]
   , "tags": [
     ]
-  , "unicode_version": ""
-  , "ios_version": "10.2"
-  , "skin_tones": true
+  , "unicode version": ""
+  , "ios version": "10.2"
+  , "skin tones": true
   }
 , {
     "emoji": "👩‍🏭"
   , "description": "woman factory worker"
   , "category": "People & Body"
   , "aliases": [
-      "woman_factory_worker"
+      "woman factory worker"
     ]
   , "tags": [
     ]
-  , "unicode_version": ""
-  , "ios_version": "10.2"
-  , "skin_tones": true
+  , "unicode version": ""
+  , "ios version": "10.2"
+  , "skin tones": true
   }
 , {
     "emoji": "🧑‍💼"
   , "description": "office worker"
   , "category": "People & Body"
   , "aliases": [
-      "office_worker"
+      "office worker"
     ]
   , "tags": [
     ]
-  , "unicode_version": "12.1"
-  , "ios_version": "13.2"
-  , "skin_tones": true
+  , "unicode version": "12.1"
+  , "ios version": "13.2"
+  , "skin tones": true
   }
 , {
     "emoji": "👨‍💼"
   , "description": "man office worker"
   , "category": "People & Body"
   , "aliases": [
-      "man_office_worker"
+      "man office worker"
     ]
   , "tags": [
       "business"
     ]
-  , "unicode_version": ""
-  , "ios_version": "10.2"
-  , "skin_tones": true
+  , "unicode version": ""
+  , "ios version": "10.2"
+  , "skin tones": true
   }
 , {
     "emoji": "👩‍💼"
   , "description": "woman office worker"
   , "category": "People & Body"
   , "aliases": [
-      "woman_office_worker"
+      "woman office worker"
     ]
   , "tags": [
       "business"
     ]
-  , "unicode_version": ""
-  , "ios_version": "10.2"
-  , "skin_tones": true
+  , "unicode version": ""
+  , "ios version": "10.2"
+  , "skin tones": true
   }
 , {
     "emoji": "🧑‍🔬"
@@ -3890,37 +3856,37 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "12.1"
-  , "ios_version": "13.2"
-  , "skin_tones": true
+  , "unicode version": "12.1"
+  , "ios version": "13.2"
+  , "skin tones": true
   }
 , {
     "emoji": "👨‍🔬"
   , "description": "man scientist"
   , "category": "People & Body"
   , "aliases": [
-      "man_scientist"
+      "man scientist"
     ]
   , "tags": [
       "research"
     ]
-  , "unicode_version": ""
-  , "ios_version": "10.2"
-  , "skin_tones": true
+  , "unicode version": ""
+  , "ios version": "10.2"
+  , "skin tones": true
   }
 , {
     "emoji": "👩‍🔬"
   , "description": "woman scientist"
   , "category": "People & Body"
   , "aliases": [
-      "woman_scientist"
+      "woman scientist"
     ]
   , "tags": [
       "research"
     ]
-  , "unicode_version": ""
-  , "ios_version": "10.2"
-  , "skin_tones": true
+  , "unicode version": ""
+  , "ios version": "10.2"
+  , "skin tones": true
   }
 , {
     "emoji": "🧑‍💻"
@@ -3931,37 +3897,37 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "12.1"
-  , "ios_version": "13.2"
-  , "skin_tones": true
+  , "unicode version": "12.1"
+  , "ios version": "13.2"
+  , "skin tones": true
   }
 , {
     "emoji": "👨‍💻"
   , "description": "man technologist"
   , "category": "People & Body"
   , "aliases": [
-      "man_technologist"
+      "man technologist"
     ]
   , "tags": [
       "coder"
     ]
-  , "unicode_version": ""
-  , "ios_version": "10.2"
-  , "skin_tones": true
+  , "unicode version": ""
+  , "ios version": "10.2"
+  , "skin tones": true
   }
 , {
     "emoji": "👩‍💻"
   , "description": "woman technologist"
   , "category": "People & Body"
   , "aliases": [
-      "woman_technologist"
+      "woman technologist"
     ]
   , "tags": [
       "coder"
     ]
-  , "unicode_version": ""
-  , "ios_version": "10.2"
-  , "skin_tones": true
+  , "unicode version": ""
+  , "ios version": "10.2"
+  , "skin tones": true
   }
 , {
     "emoji": "🧑‍🎤"
@@ -3972,37 +3938,37 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "12.1"
-  , "ios_version": "13.2"
-  , "skin_tones": true
+  , "unicode version": "12.1"
+  , "ios version": "13.2"
+  , "skin tones": true
   }
 , {
     "emoji": "👨‍🎤"
   , "description": "man singer"
   , "category": "People & Body"
   , "aliases": [
-      "man_singer"
+      "man singer"
     ]
   , "tags": [
       "rockstar"
     ]
-  , "unicode_version": ""
-  , "ios_version": "10.2"
-  , "skin_tones": true
+  , "unicode version": ""
+  , "ios version": "10.2"
+  , "skin tones": true
   }
 , {
     "emoji": "👩‍🎤"
   , "description": "woman singer"
   , "category": "People & Body"
   , "aliases": [
-      "woman_singer"
+      "woman singer"
     ]
   , "tags": [
       "rockstar"
     ]
-  , "unicode_version": ""
-  , "ios_version": "10.2"
-  , "skin_tones": true
+  , "unicode version": ""
+  , "ios version": "10.2"
+  , "skin tones": true
   }
 , {
     "emoji": "🧑‍🎨"
@@ -4013,37 +3979,37 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "12.1"
-  , "ios_version": "13.2"
-  , "skin_tones": true
+  , "unicode version": "12.1"
+  , "ios version": "13.2"
+  , "skin tones": true
   }
 , {
     "emoji": "👨‍🎨"
   , "description": "man artist"
   , "category": "People & Body"
   , "aliases": [
-      "man_artist"
+      "man artist"
     ]
   , "tags": [
       "painter"
     ]
-  , "unicode_version": ""
-  , "ios_version": "10.2"
-  , "skin_tones": true
+  , "unicode version": ""
+  , "ios version": "10.2"
+  , "skin tones": true
   }
 , {
     "emoji": "👩‍🎨"
   , "description": "woman artist"
   , "category": "People & Body"
   , "aliases": [
-      "woman_artist"
+      "woman artist"
     ]
   , "tags": [
       "painter"
     ]
-  , "unicode_version": ""
-  , "ios_version": "10.2"
-  , "skin_tones": true
+  , "unicode version": ""
+  , "ios version": "10.2"
+  , "skin tones": true
   }
 , {
     "emoji": "🧑‍✈️"
@@ -4054,35 +4020,35 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "12.1"
-  , "ios_version": "13.2"
-  , "skin_tones": true
+  , "unicode version": "12.1"
+  , "ios version": "13.2"
+  , "skin tones": true
   }
 , {
     "emoji": "👨‍✈️"
   , "description": "man pilot"
   , "category": "People & Body"
   , "aliases": [
-      "man_pilot"
+      "man pilot"
     ]
   , "tags": [
     ]
-  , "unicode_version": ""
-  , "ios_version": "10.2"
-  , "skin_tones": true
+  , "unicode version": ""
+  , "ios version": "10.2"
+  , "skin tones": true
   }
 , {
     "emoji": "👩‍✈️"
   , "description": "woman pilot"
   , "category": "People & Body"
   , "aliases": [
-      "woman_pilot"
+      "woman pilot"
     ]
   , "tags": [
     ]
-  , "unicode_version": ""
-  , "ios_version": "10.2"
-  , "skin_tones": true
+  , "unicode version": ""
+  , "ios version": "10.2"
+  , "skin tones": true
   }
 , {
     "emoji": "🧑‍🚀"
@@ -4093,37 +4059,37 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "12.1"
-  , "ios_version": "13.2"
-  , "skin_tones": true
+  , "unicode version": "12.1"
+  , "ios version": "13.2"
+  , "skin tones": true
   }
 , {
     "emoji": "👨‍🚀"
   , "description": "man astronaut"
   , "category": "People & Body"
   , "aliases": [
-      "man_astronaut"
+      "man astronaut"
     ]
   , "tags": [
       "space"
     ]
-  , "unicode_version": ""
-  , "ios_version": "10.2"
-  , "skin_tones": true
+  , "unicode version": ""
+  , "ios version": "10.2"
+  , "skin tones": true
   }
 , {
     "emoji": "👩‍🚀"
   , "description": "woman astronaut"
   , "category": "People & Body"
   , "aliases": [
-      "woman_astronaut"
+      "woman astronaut"
     ]
   , "tags": [
       "space"
     ]
-  , "unicode_version": ""
-  , "ios_version": "10.2"
-  , "skin_tones": true
+  , "unicode version": ""
+  , "ios version": "10.2"
+  , "skin tones": true
   }
 , {
     "emoji": "🧑‍🚒"
@@ -4134,50 +4100,50 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "12.1"
-  , "ios_version": "13.2"
-  , "skin_tones": true
+  , "unicode version": "12.1"
+  , "ios version": "13.2"
+  , "skin tones": true
   }
 , {
     "emoji": "👨‍🚒"
   , "description": "man firefighter"
   , "category": "People & Body"
   , "aliases": [
-      "man_firefighter"
+      "man firefighter"
     ]
   , "tags": [
     ]
-  , "unicode_version": ""
-  , "ios_version": "10.2"
-  , "skin_tones": true
+  , "unicode version": ""
+  , "ios version": "10.2"
+  , "skin tones": true
   }
 , {
     "emoji": "👩‍🚒"
   , "description": "woman firefighter"
   , "category": "People & Body"
   , "aliases": [
-      "woman_firefighter"
+      "woman firefighter"
     ]
   , "tags": [
     ]
-  , "unicode_version": ""
-  , "ios_version": "10.2"
-  , "skin_tones": true
+  , "unicode version": ""
+  , "ios version": "10.2"
+  , "skin tones": true
   }
 , {
     "emoji": "👮"
   , "description": "police officer"
   , "category": "People & Body"
   , "aliases": [
-      "police_officer"
+      "police officer"
     , "cop"
     ]
   , "tags": [
       "law"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
-  , "skin_tones": true
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
+  , "skin tones": true
   }
 , {
     "emoji": "👮‍♂️"
@@ -4190,9 +4156,9 @@ let db = [
       "law"
     , "cop"
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
-  , "skin_tones": true
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
+  , "skin tones": true
   }
 , {
     "emoji": "👮‍♀️"
@@ -4205,9 +4171,9 @@ let db = [
       "law"
     , "cop"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "10.0"
-  , "skin_tones": true
+  , "unicode version": "6.0"
+  , "ios version": "10.0"
+  , "skin tones": true
   }
 , {
     "emoji": "🕵️"
@@ -4219,37 +4185,37 @@ let db = [
   , "tags": [
       "sleuth"
     ]
-  , "unicode_version": "7.0"
-  , "ios_version": "9.1"
-  , "skin_tones": true
+  , "unicode version": "7.0"
+  , "ios version": "9.1"
+  , "skin tones": true
   }
 , {
     "emoji": "🕵️‍♂️"
   , "description": "man detective"
   , "category": "People & Body"
   , "aliases": [
-      "male_detective"
+      "male detective"
     ]
   , "tags": [
       "sleuth"
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
-  , "skin_tones": true
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
+  , "skin tones": true
   }
 , {
     "emoji": "🕵️‍♀️"
   , "description": "woman detective"
   , "category": "People & Body"
   , "aliases": [
-      "female_detective"
+      "female detective"
     ]
   , "tags": [
       "sleuth"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "10.0"
-  , "skin_tones": true
+  , "unicode version": "6.0"
+  , "ios version": "10.0"
+  , "skin tones": true
   }
 , {
     "emoji": "💂"
@@ -4260,9 +4226,9 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
-  , "skin_tones": true
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
+  , "skin tones": true
   }
 , {
     "emoji": "💂‍♂️"
@@ -4273,9 +4239,9 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
-  , "skin_tones": true
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
+  , "skin tones": true
   }
 , {
     "emoji": "💂‍♀️"
@@ -4286,9 +4252,9 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "10.0"
-  , "skin_tones": true
+  , "unicode version": "6.0"
+  , "ios version": "10.0"
+  , "skin tones": true
   }
 , {
     "emoji": "🥷"
@@ -4299,51 +4265,51 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "13.0"
-  , "ios_version": "14.0"
-  , "skin_tones": true
+  , "unicode version": "13.0"
+  , "ios version": "14.0"
+  , "skin tones": true
   }
 , {
     "emoji": "👷"
   , "description": "construction worker"
   , "category": "People & Body"
   , "aliases": [
-      "construction_worker"
+      "construction worker"
     ]
   , "tags": [
       "helmet"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
-  , "skin_tones": true
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
+  , "skin tones": true
   }
 , {
     "emoji": "👷‍♂️"
   , "description": "man construction worker"
   , "category": "People & Body"
   , "aliases": [
-      "construction_worker_man"
+      "construction worker man"
     ]
   , "tags": [
       "helmet"
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
-  , "skin_tones": true
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
+  , "skin tones": true
   }
 , {
     "emoji": "👷‍♀️"
   , "description": "woman construction worker"
   , "category": "People & Body"
   , "aliases": [
-      "construction_worker_woman"
+      "construction worker woman"
     ]
   , "tags": [
       "helmet"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "10.0"
-  , "skin_tones": true
+  , "unicode version": "6.0"
+  , "ios version": "10.0"
+  , "skin tones": true
   }
 , {
     "emoji": "🤴"
@@ -4356,9 +4322,9 @@ let db = [
       "crown"
     , "royal"
     ]
-  , "unicode_version": "9.0"
-  , "ios_version": "10.2"
-  , "skin_tones": true
+  , "unicode version": "9.0"
+  , "ios version": "10.2"
+  , "skin tones": true
   }
 , {
     "emoji": "👸"
@@ -4371,225 +4337,225 @@ let db = [
       "crown"
     , "royal"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
-  , "skin_tones": true
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
+  , "skin tones": true
   }
 , {
     "emoji": "👳"
   , "description": "person wearing turban"
   , "category": "People & Body"
   , "aliases": [
-      "person_with_turban"
+      "person with turban"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
-  , "skin_tones": true
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
+  , "skin tones": true
   }
 , {
     "emoji": "👳‍♂️"
   , "description": "man wearing turban"
   , "category": "People & Body"
   , "aliases": [
-      "man_with_turban"
+      "man with turban"
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
-  , "skin_tones": true
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
+  , "skin tones": true
   }
 , {
     "emoji": "👳‍♀️"
   , "description": "woman wearing turban"
   , "category": "People & Body"
   , "aliases": [
-      "woman_with_turban"
+      "woman with turban"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "10.0"
-  , "skin_tones": true
+  , "unicode version": "6.0"
+  , "ios version": "10.0"
+  , "skin tones": true
   }
 , {
     "emoji": "👲"
   , "description": "person with skullcap"
   , "category": "People & Body"
   , "aliases": [
-      "man_with_gua_pi_mao"
+      "man with gua pi mao"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
-  , "skin_tones": true
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
+  , "skin tones": true
   }
 , {
     "emoji": "🧕"
   , "description": "woman with headscarf"
   , "category": "People & Body"
   , "aliases": [
-      "woman_with_headscarf"
+      "woman with headscarf"
     ]
   , "tags": [
       "hijab"
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
-  , "skin_tones": true
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
+  , "skin tones": true
   }
 , {
     "emoji": "🤵"
   , "description": "person in tuxedo"
   , "category": "People & Body"
   , "aliases": [
-      "person_in_tuxedo"
+      "person in tuxedo"
     ]
   , "tags": [
       "groom"
     , "marriage"
     , "wedding"
     ]
-  , "unicode_version": "9.0"
-  , "ios_version": "10.2"
-  , "skin_tones": true
+  , "unicode version": "9.0"
+  , "ios version": "10.2"
+  , "skin tones": true
   }
 , {
     "emoji": "🤵‍♂️"
   , "description": "man in tuxedo"
   , "category": "People & Body"
   , "aliases": [
-      "man_in_tuxedo"
+      "man in tuxedo"
     ]
   , "tags": [
     ]
-  , "unicode_version": "13.0"
-  , "ios_version": "14.0"
-  , "skin_tones": true
+  , "unicode version": "13.0"
+  , "ios version": "14.0"
+  , "skin tones": true
   }
 , {
     "emoji": "🤵‍♀️"
   , "description": "woman in tuxedo"
   , "category": "People & Body"
   , "aliases": [
-      "woman_in_tuxedo"
+      "woman in tuxedo"
     ]
   , "tags": [
     ]
-  , "unicode_version": "13.0"
-  , "ios_version": "14.0"
-  , "skin_tones": true
+  , "unicode version": "13.0"
+  , "ios version": "14.0"
+  , "skin tones": true
   }
 , {
     "emoji": "👰"
   , "description": "person with veil"
   , "category": "People & Body"
   , "aliases": [
-      "person_with_veil"
+      "person with veil"
     ]
   , "tags": [
       "marriage"
     , "wedding"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
-  , "skin_tones": true
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
+  , "skin tones": true
   }
 , {
     "emoji": "👰‍♂️"
   , "description": "man with veil"
   , "category": "People & Body"
   , "aliases": [
-      "man_with_veil"
+      "man with veil"
     ]
   , "tags": [
     ]
-  , "unicode_version": "13.0"
-  , "ios_version": "14.0"
-  , "skin_tones": true
+  , "unicode version": "13.0"
+  , "ios version": "14.0"
+  , "skin tones": true
   }
 , {
     "emoji": "👰‍♀️"
   , "description": "woman with veil"
   , "category": "People & Body"
   , "aliases": [
-      "woman_with_veil"
-    , "bride_with_veil"
+      "woman with veil"
+    , "bride with veil"
     ]
   , "tags": [
     ]
-  , "unicode_version": "13.0"
-  , "ios_version": "14.0"
-  , "skin_tones": true
+  , "unicode version": "13.0"
+  , "ios version": "14.0"
+  , "skin tones": true
   }
 , {
     "emoji": "🤰"
   , "description": "pregnant woman"
   , "category": "People & Body"
   , "aliases": [
-      "pregnant_woman"
+      "pregnant woman"
     ]
   , "tags": [
     ]
-  , "unicode_version": "9.0"
-  , "ios_version": "10.2"
-  , "skin_tones": true
+  , "unicode version": "9.0"
+  , "ios version": "10.2"
+  , "skin tones": true
   }
 , {
     "emoji": "🤱"
   , "description": "breast-feeding"
   , "category": "People & Body"
   , "aliases": [
-      "breast_feeding"
+      "breast feeding"
     ]
   , "tags": [
       "nursing"
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
-  , "skin_tones": true
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
+  , "skin tones": true
   }
 , {
     "emoji": "👩‍🍼"
   , "description": "woman feeding baby"
   , "category": "People & Body"
   , "aliases": [
-      "woman_feeding_baby"
+      "woman feeding baby"
     ]
   , "tags": [
     ]
-  , "unicode_version": "13.0"
-  , "ios_version": "14.0"
-  , "skin_tones": true
+  , "unicode version": "13.0"
+  , "ios version": "14.0"
+  , "skin tones": true
   }
 , {
     "emoji": "👨‍🍼"
   , "description": "man feeding baby"
   , "category": "People & Body"
   , "aliases": [
-      "man_feeding_baby"
+      "man feeding baby"
     ]
   , "tags": [
     ]
-  , "unicode_version": "13.0"
-  , "ios_version": "14.0"
-  , "skin_tones": true
+  , "unicode version": "13.0"
+  , "ios version": "14.0"
+  , "skin tones": true
   }
 , {
     "emoji": "🧑‍🍼"
   , "description": "person feeding baby"
   , "category": "People & Body"
   , "aliases": [
-      "person_feeding_baby"
+      "person feeding baby"
     ]
   , "tags": [
     ]
-  , "unicode_version": "13.0"
-  , "ios_version": "14.0"
-  , "skin_tones": true
+  , "unicode version": "13.0"
+  , "ios version": "14.0"
+  , "skin tones": true
   }
 , {
     "emoji": "👼"
@@ -4600,9 +4566,9 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
-  , "skin_tones": true
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
+  , "skin tones": true
   }
 , {
     "emoji": "🎅"
@@ -4614,36 +4580,36 @@ let db = [
   , "tags": [
       "christmas"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
-  , "skin_tones": true
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
+  , "skin tones": true
   }
 , {
     "emoji": "🤶"
   , "description": "Mrs. Claus"
   , "category": "People & Body"
   , "aliases": [
-      "mrs_claus"
+      "mrs claus"
     ]
   , "tags": [
       "santa"
     ]
-  , "unicode_version": "9.0"
-  , "ios_version": "10.2"
-  , "skin_tones": true
+  , "unicode version": "9.0"
+  , "ios version": "10.2"
+  , "skin tones": true
   }
 , {
     "emoji": "🧑‍🎄"
   , "description": "mx claus"
   , "category": "People & Body"
   , "aliases": [
-      "mx_claus"
+      "mx claus"
     ]
   , "tags": [
     ]
-  , "unicode_version": "13.0"
-  , "ios_version": "14.0"
-  , "skin_tones": true
+  , "unicode version": "13.0"
+  , "ios version": "14.0"
+  , "skin tones": true
   }
 , {
     "emoji": "🦸"
@@ -4654,35 +4620,35 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
-  , "skin_tones": true
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
+  , "skin tones": true
   }
 , {
     "emoji": "🦸‍♂️"
   , "description": "man superhero"
   , "category": "People & Body"
   , "aliases": [
-      "superhero_man"
+      "superhero man"
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
-  , "skin_tones": true
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
+  , "skin tones": true
   }
 , {
     "emoji": "🦸‍♀️"
   , "description": "woman superhero"
   , "category": "People & Body"
   , "aliases": [
-      "superhero_woman"
+      "superhero woman"
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
-  , "skin_tones": true
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
+  , "skin tones": true
   }
 , {
     "emoji": "🦹"
@@ -4693,35 +4659,35 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
-  , "skin_tones": true
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
+  , "skin tones": true
   }
 , {
     "emoji": "🦹‍♂️"
   , "description": "man supervillain"
   , "category": "People & Body"
   , "aliases": [
-      "supervillain_man"
+      "supervillain man"
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
-  , "skin_tones": true
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
+  , "skin tones": true
   }
 , {
     "emoji": "🦹‍♀️"
   , "description": "woman supervillain"
   , "category": "People & Body"
   , "aliases": [
-      "supervillain_woman"
+      "supervillain woman"
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
-  , "skin_tones": true
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
+  , "skin tones": true
   }
 , {
     "emoji": "🧙"
@@ -4733,37 +4699,37 @@ let db = [
   , "tags": [
       "wizard"
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
-  , "skin_tones": true
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
+  , "skin tones": true
   }
 , {
     "emoji": "🧙‍♂️"
   , "description": "man mage"
   , "category": "People & Body"
   , "aliases": [
-      "mage_man"
+      "mage man"
     ]
   , "tags": [
       "wizard"
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
-  , "skin_tones": true
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
+  , "skin tones": true
   }
 , {
     "emoji": "🧙‍♀️"
   , "description": "woman mage"
   , "category": "People & Body"
   , "aliases": [
-      "mage_woman"
+      "mage woman"
     ]
   , "tags": [
       "wizard"
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
-  , "skin_tones": true
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
+  , "skin tones": true
   }
 , {
     "emoji": "🧚"
@@ -4774,35 +4740,35 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
-  , "skin_tones": true
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
+  , "skin tones": true
   }
 , {
     "emoji": "🧚‍♂️"
   , "description": "man fairy"
   , "category": "People & Body"
   , "aliases": [
-      "fairy_man"
+      "fairy man"
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
-  , "skin_tones": true
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
+  , "skin tones": true
   }
 , {
     "emoji": "🧚‍♀️"
   , "description": "woman fairy"
   , "category": "People & Body"
   , "aliases": [
-      "fairy_woman"
+      "fairy woman"
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
-  , "skin_tones": true
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
+  , "skin tones": true
   }
 , {
     "emoji": "🧛"
@@ -4813,35 +4779,35 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
-  , "skin_tones": true
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
+  , "skin tones": true
   }
 , {
     "emoji": "🧛‍♂️"
   , "description": "man vampire"
   , "category": "People & Body"
   , "aliases": [
-      "vampire_man"
+      "vampire man"
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
-  , "skin_tones": true
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
+  , "skin tones": true
   }
 , {
     "emoji": "🧛‍♀️"
   , "description": "woman vampire"
   , "category": "People & Body"
   , "aliases": [
-      "vampire_woman"
+      "vampire woman"
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
-  , "skin_tones": true
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
+  , "skin tones": true
   }
 , {
     "emoji": "🧜"
@@ -4852,9 +4818,9 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
-  , "skin_tones": true
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
+  , "skin tones": true
   }
 , {
     "emoji": "🧜‍♂️"
@@ -4865,9 +4831,9 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
-  , "skin_tones": true
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
+  , "skin tones": true
   }
 , {
     "emoji": "🧜‍♀️"
@@ -4878,9 +4844,9 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
-  , "skin_tones": true
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
+  , "skin tones": true
   }
 , {
     "emoji": "🧝"
@@ -4891,35 +4857,35 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
-  , "skin_tones": true
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
+  , "skin tones": true
   }
 , {
     "emoji": "🧝‍♂️"
   , "description": "man elf"
   , "category": "People & Body"
   , "aliases": [
-      "elf_man"
+      "elf man"
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
-  , "skin_tones": true
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
+  , "skin tones": true
   }
 , {
     "emoji": "🧝‍♀️"
   , "description": "woman elf"
   , "category": "People & Body"
   , "aliases": [
-      "elf_woman"
+      "elf woman"
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
-  , "skin_tones": true
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
+  , "skin tones": true
   }
 , {
     "emoji": "🧞"
@@ -4930,32 +4896,32 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
   }
 , {
     "emoji": "🧞‍♂️"
   , "description": "man genie"
   , "category": "People & Body"
   , "aliases": [
-      "genie_man"
+      "genie man"
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
   }
 , {
     "emoji": "🧞‍♀️"
   , "description": "woman genie"
   , "category": "People & Body"
   , "aliases": [
-      "genie_woman"
+      "genie woman"
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
   }
 , {
     "emoji": "🧟"
@@ -4966,32 +4932,32 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
   }
 , {
     "emoji": "🧟‍♂️"
   , "description": "man zombie"
   , "category": "People & Body"
   , "aliases": [
-      "zombie_man"
+      "zombie man"
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
   }
 , {
     "emoji": "🧟‍♀️"
   , "description": "woman zombie"
   , "category": "People & Body"
   , "aliases": [
-      "zombie_woman"
+      "zombie woman"
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
   }
 , {
     "emoji": "💆"
@@ -5003,37 +4969,37 @@ let db = [
   , "tags": [
       "spa"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
-  , "skin_tones": true
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
+  , "skin tones": true
   }
 , {
     "emoji": "💆‍♂️"
   , "description": "man getting massage"
   , "category": "People & Body"
   , "aliases": [
-      "massage_man"
+      "massage man"
     ]
   , "tags": [
       "spa"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "10.0"
-  , "skin_tones": true
+  , "unicode version": "6.0"
+  , "ios version": "10.0"
+  , "skin tones": true
   }
 , {
     "emoji": "💆‍♀️"
   , "description": "woman getting massage"
   , "category": "People & Body"
   , "aliases": [
-      "massage_woman"
+      "massage woman"
     ]
   , "tags": [
       "spa"
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
-  , "skin_tones": true
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
+  , "skin tones": true
   }
 , {
     "emoji": "💇"
@@ -5045,35 +5011,35 @@ let db = [
   , "tags": [
       "beauty"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
-  , "skin_tones": true
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
+  , "skin tones": true
   }
 , {
     "emoji": "💇‍♂️"
   , "description": "man getting haircut"
   , "category": "People & Body"
   , "aliases": [
-      "haircut_man"
+      "haircut man"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "10.0"
-  , "skin_tones": true
+  , "unicode version": "6.0"
+  , "ios version": "10.0"
+  , "skin tones": true
   }
 , {
     "emoji": "💇‍♀️"
   , "description": "woman getting haircut"
   , "category": "People & Body"
   , "aliases": [
-      "haircut_woman"
+      "haircut woman"
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
-  , "skin_tones": true
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
+  , "skin tones": true
   }
 , {
     "emoji": "🚶"
@@ -5084,230 +5050,230 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
-  , "skin_tones": true
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
+  , "skin tones": true
   }
 , {
     "emoji": "🚶‍♂️"
   , "description": "man walking"
   , "category": "People & Body"
   , "aliases": [
-      "walking_man"
+      "walking man"
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
-  , "skin_tones": true
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
+  , "skin tones": true
   }
 , {
     "emoji": "🚶‍♀️"
   , "description": "woman walking"
   , "category": "People & Body"
   , "aliases": [
-      "walking_woman"
+      "walking woman"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "10.0"
-  , "skin_tones": true
+  , "unicode version": "6.0"
+  , "ios version": "10.0"
+  , "skin tones": true
   }
 , {
     "emoji": "🧍"
   , "description": "person standing"
   , "category": "People & Body"
   , "aliases": [
-      "standing_person"
+      "standing person"
     ]
   , "tags": [
     ]
-  , "unicode_version": "12.0"
-  , "ios_version": "13.0"
-  , "skin_tones": true
+  , "unicode version": "12.0"
+  , "ios version": "13.0"
+  , "skin tones": true
   }
 , {
     "emoji": "🧍‍♂️"
   , "description": "man standing"
   , "category": "People & Body"
   , "aliases": [
-      "standing_man"
+      "standing man"
     ]
   , "tags": [
     ]
-  , "unicode_version": "12.0"
-  , "ios_version": "13.0"
-  , "skin_tones": true
+  , "unicode version": "12.0"
+  , "ios version": "13.0"
+  , "skin tones": true
   }
 , {
     "emoji": "🧍‍♀️"
   , "description": "woman standing"
   , "category": "People & Body"
   , "aliases": [
-      "standing_woman"
+      "standing woman"
     ]
   , "tags": [
     ]
-  , "unicode_version": "12.0"
-  , "ios_version": "13.0"
-  , "skin_tones": true
+  , "unicode version": "12.0"
+  , "ios version": "13.0"
+  , "skin tones": true
   }
 , {
     "emoji": "🧎"
   , "description": "person kneeling"
   , "category": "People & Body"
   , "aliases": [
-      "kneeling_person"
+      "kneeling person"
     ]
   , "tags": [
     ]
-  , "unicode_version": "12.0"
-  , "ios_version": "13.0"
-  , "skin_tones": true
+  , "unicode version": "12.0"
+  , "ios version": "13.0"
+  , "skin tones": true
   }
 , {
     "emoji": "🧎‍♂️"
   , "description": "man kneeling"
   , "category": "People & Body"
   , "aliases": [
-      "kneeling_man"
+      "kneeling man"
     ]
   , "tags": [
     ]
-  , "unicode_version": "12.0"
-  , "ios_version": "13.0"
-  , "skin_tones": true
+  , "unicode version": "12.0"
+  , "ios version": "13.0"
+  , "skin tones": true
   }
 , {
     "emoji": "🧎‍♀️"
   , "description": "woman kneeling"
   , "category": "People & Body"
   , "aliases": [
-      "kneeling_woman"
+      "kneeling woman"
     ]
   , "tags": [
     ]
-  , "unicode_version": "12.0"
-  , "ios_version": "13.0"
-  , "skin_tones": true
+  , "unicode version": "12.0"
+  , "ios version": "13.0"
+  , "skin tones": true
   }
 , {
     "emoji": "🧑‍🦯"
   , "description": "person with white cane"
   , "category": "People & Body"
   , "aliases": [
-      "person_with_probing_cane"
+      "person with probing cane"
     ]
   , "tags": [
     ]
-  , "unicode_version": "12.1"
-  , "ios_version": "13.2"
-  , "skin_tones": true
+  , "unicode version": "12.1"
+  , "ios version": "13.2"
+  , "skin tones": true
   }
 , {
     "emoji": "👨‍🦯"
   , "description": "man with white cane"
   , "category": "People & Body"
   , "aliases": [
-      "man_with_probing_cane"
+      "man with probing cane"
     ]
   , "tags": [
     ]
-  , "unicode_version": "12.0"
-  , "ios_version": "13.0"
-  , "skin_tones": true
+  , "unicode version": "12.0"
+  , "ios version": "13.0"
+  , "skin tones": true
   }
 , {
     "emoji": "👩‍🦯"
   , "description": "woman with white cane"
   , "category": "People & Body"
   , "aliases": [
-      "woman_with_probing_cane"
+      "woman with probing cane"
     ]
   , "tags": [
     ]
-  , "unicode_version": "12.0"
-  , "ios_version": "13.0"
-  , "skin_tones": true
+  , "unicode version": "12.0"
+  , "ios version": "13.0"
+  , "skin tones": true
   }
 , {
     "emoji": "🧑‍🦼"
   , "description": "person in motorized wheelchair"
   , "category": "People & Body"
   , "aliases": [
-      "person_in_motorized_wheelchair"
+      "person in motorized wheelchair"
     ]
   , "tags": [
     ]
-  , "unicode_version": "12.1"
-  , "ios_version": "13.2"
-  , "skin_tones": true
+  , "unicode version": "12.1"
+  , "ios version": "13.2"
+  , "skin tones": true
   }
 , {
     "emoji": "👨‍🦼"
   , "description": "man in motorized wheelchair"
   , "category": "People & Body"
   , "aliases": [
-      "man_in_motorized_wheelchair"
+      "man in motorized wheelchair"
     ]
   , "tags": [
     ]
-  , "unicode_version": "12.0"
-  , "ios_version": "13.0"
-  , "skin_tones": true
+  , "unicode version": "12.0"
+  , "ios version": "13.0"
+  , "skin tones": true
   }
 , {
     "emoji": "👩‍🦼"
   , "description": "woman in motorized wheelchair"
   , "category": "People & Body"
   , "aliases": [
-      "woman_in_motorized_wheelchair"
+      "woman in motorized wheelchair"
     ]
   , "tags": [
     ]
-  , "unicode_version": "12.0"
-  , "ios_version": "13.0"
-  , "skin_tones": true
+  , "unicode version": "12.0"
+  , "ios version": "13.0"
+  , "skin tones": true
   }
 , {
     "emoji": "🧑‍🦽"
   , "description": "person in manual wheelchair"
   , "category": "People & Body"
   , "aliases": [
-      "person_in_manual_wheelchair"
+      "person in manual wheelchair"
     ]
   , "tags": [
     ]
-  , "unicode_version": "12.1"
-  , "ios_version": "13.2"
-  , "skin_tones": true
+  , "unicode version": "12.1"
+  , "ios version": "13.2"
+  , "skin tones": true
   }
 , {
     "emoji": "👨‍🦽"
   , "description": "man in manual wheelchair"
   , "category": "People & Body"
   , "aliases": [
-      "man_in_manual_wheelchair"
+      "man in manual wheelchair"
     ]
   , "tags": [
     ]
-  , "unicode_version": "12.0"
-  , "ios_version": "13.0"
-  , "skin_tones": true
+  , "unicode version": "12.0"
+  , "ios version": "13.0"
+  , "skin tones": true
   }
 , {
     "emoji": "👩‍🦽"
   , "description": "woman in manual wheelchair"
   , "category": "People & Body"
   , "aliases": [
-      "woman_in_manual_wheelchair"
+      "woman in manual wheelchair"
     ]
   , "tags": [
     ]
-  , "unicode_version": "12.0"
-  , "ios_version": "13.0"
-  , "skin_tones": true
+  , "unicode version": "12.0"
+  , "ios version": "13.0"
+  , "skin tones": true
   }
 , {
     "emoji": "🏃"
@@ -5322,83 +5288,83 @@ let db = [
     , "workout"
     , "marathon"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
-  , "skin_tones": true
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
+  , "skin tones": true
   }
 , {
     "emoji": "🏃‍♂️"
   , "description": "man running"
   , "category": "People & Body"
   , "aliases": [
-      "running_man"
+      "running man"
     ]
   , "tags": [
       "exercise"
     , "workout"
     , "marathon"
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
-  , "skin_tones": true
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
+  , "skin tones": true
   }
 , {
     "emoji": "🏃‍♀️"
   , "description": "woman running"
   , "category": "People & Body"
   , "aliases": [
-      "running_woman"
+      "running woman"
     ]
   , "tags": [
       "exercise"
     , "workout"
     , "marathon"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "10.0"
-  , "skin_tones": true
+  , "unicode version": "6.0"
+  , "ios version": "10.0"
+  , "skin tones": true
   }
 , {
     "emoji": "💃"
   , "description": "woman dancing"
   , "category": "People & Body"
   , "aliases": [
-      "woman_dancing"
+      "woman dancing"
     , "dancer"
     ]
   , "tags": [
       "dress"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
-  , "skin_tones": true
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
+  , "skin tones": true
   }
 , {
     "emoji": "🕺"
   , "description": "man dancing"
   , "category": "People & Body"
   , "aliases": [
-      "man_dancing"
+      "man dancing"
     ]
   , "tags": [
       "dancer"
     ]
-  , "unicode_version": "9.0"
-  , "ios_version": "10.2"
-  , "skin_tones": true
+  , "unicode version": "9.0"
+  , "ios version": "10.2"
+  , "skin tones": true
   }
 , {
     "emoji": "🕴️"
   , "description": "person in suit levitating"
   , "category": "People & Body"
   , "aliases": [
-      "business_suit_levitating"
+      "business suit levitating"
     ]
   , "tags": [
     ]
-  , "unicode_version": "7.0"
-  , "ios_version": "9.1"
-  , "skin_tones": true
+  , "unicode version": "7.0"
+  , "ios version": "9.1"
+  , "skin tones": true
   }
 , {
     "emoji": "👯"
@@ -5410,76 +5376,76 @@ let db = [
   , "tags": [
       "bunny"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "👯‍♂️"
   , "description": "men with bunny ears"
   , "category": "People & Body"
   , "aliases": [
-      "dancing_men"
+      "dancing men"
     ]
   , "tags": [
       "bunny"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "10.0"
+  , "unicode version": "6.0"
+  , "ios version": "10.0"
   }
 , {
     "emoji": "👯‍♀️"
   , "description": "women with bunny ears"
   , "category": "People & Body"
   , "aliases": [
-      "dancing_women"
+      "dancing women"
     ]
   , "tags": [
       "bunny"
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
   }
 , {
     "emoji": "🧖"
   , "description": "person in steamy room"
   , "category": "People & Body"
   , "aliases": [
-      "sauna_person"
+      "sauna person"
     ]
   , "tags": [
       "steamy"
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
-  , "skin_tones": true
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
+  , "skin tones": true
   }
 , {
     "emoji": "🧖‍♂️"
   , "description": "man in steamy room"
   , "category": "People & Body"
   , "aliases": [
-      "sauna_man"
+      "sauna man"
     ]
   , "tags": [
       "steamy"
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
-  , "skin_tones": true
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
+  , "skin tones": true
   }
 , {
     "emoji": "🧖‍♀️"
   , "description": "woman in steamy room"
   , "category": "People & Body"
   , "aliases": [
-      "sauna_woman"
+      "sauna woman"
     ]
   , "tags": [
       "steamy"
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
-  , "skin_tones": true
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
+  , "skin tones": true
   }
 , {
     "emoji": "🧗"
@@ -5491,62 +5457,62 @@ let db = [
   , "tags": [
       "bouldering"
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
-  , "skin_tones": true
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
+  , "skin tones": true
   }
 , {
     "emoji": "🧗‍♂️"
   , "description": "man climbing"
   , "category": "People & Body"
   , "aliases": [
-      "climbing_man"
+      "climbing man"
     ]
   , "tags": [
       "bouldering"
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
-  , "skin_tones": true
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
+  , "skin tones": true
   }
 , {
     "emoji": "🧗‍♀️"
   , "description": "woman climbing"
   , "category": "People & Body"
   , "aliases": [
-      "climbing_woman"
+      "climbing woman"
     ]
   , "tags": [
       "bouldering"
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
-  , "skin_tones": true
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
+  , "skin tones": true
   }
 , {
     "emoji": "🤺"
   , "description": "person fencing"
   , "category": "People & Body"
   , "aliases": [
-      "person_fencing"
+      "person fencing"
     ]
   , "tags": [
     ]
-  , "unicode_version": "9.0"
-  , "ios_version": "10.2"
+  , "unicode version": "9.0"
+  , "ios version": "10.2"
   }
 , {
     "emoji": "🏇"
   , "description": "horse racing"
   , "category": "People & Body"
   , "aliases": [
-      "horse_racing"
+      "horse racing"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
-  , "skin_tones": true
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
+  , "skin tones": true
   }
 , {
     "emoji": "⛷️"
@@ -5557,8 +5523,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "5.2"
-  , "ios_version": "9.1"
+  , "unicode version": "5.2"
+  , "ios version": "9.1"
   }
 , {
     "emoji": "🏂"
@@ -5569,9 +5535,9 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
-  , "skin_tones": true
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
+  , "skin tones": true
   }
 , {
     "emoji": "🏌️"
@@ -5582,35 +5548,35 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "7.0"
-  , "ios_version": "9.1"
-  , "skin_tones": true
+  , "unicode version": "7.0"
+  , "ios version": "9.1"
+  , "skin tones": true
   }
 , {
     "emoji": "🏌️‍♂️"
   , "description": "man golfing"
   , "category": "People & Body"
   , "aliases": [
-      "golfing_man"
+      "golfing man"
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
-  , "skin_tones": true
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
+  , "skin tones": true
   }
 , {
     "emoji": "🏌️‍♀️"
   , "description": "woman golfing"
   , "category": "People & Body"
   , "aliases": [
-      "golfing_woman"
+      "golfing woman"
     ]
   , "tags": [
     ]
-  , "unicode_version": ""
-  , "ios_version": "10.0"
-  , "skin_tones": true
+  , "unicode version": ""
+  , "ios version": "10.0"
+  , "skin tones": true
   }
 , {
     "emoji": "🏄"
@@ -5621,35 +5587,35 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
-  , "skin_tones": true
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
+  , "skin tones": true
   }
 , {
     "emoji": "🏄‍♂️"
   , "description": "man surfing"
   , "category": "People & Body"
   , "aliases": [
-      "surfing_man"
+      "surfing man"
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
-  , "skin_tones": true
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
+  , "skin tones": true
   }
 , {
     "emoji": "🏄‍♀️"
   , "description": "woman surfing"
   , "category": "People & Body"
   , "aliases": [
-      "surfing_woman"
+      "surfing woman"
     ]
   , "tags": [
     ]
-  , "unicode_version": "7.0"
-  , "ios_version": "10.0"
-  , "skin_tones": true
+  , "unicode version": "7.0"
+  , "ios version": "10.0"
+  , "skin tones": true
   }
 , {
     "emoji": "🚣"
@@ -5660,35 +5626,35 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
-  , "skin_tones": true
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
+  , "skin tones": true
   }
 , {
     "emoji": "🚣‍♂️"
   , "description": "man rowing boat"
   , "category": "People & Body"
   , "aliases": [
-      "rowing_man"
+      "rowing man"
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
-  , "skin_tones": true
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
+  , "skin tones": true
   }
 , {
     "emoji": "🚣‍♀️"
   , "description": "woman rowing boat"
   , "category": "People & Body"
   , "aliases": [
-      "rowing_woman"
+      "rowing woman"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "10.0"
-  , "skin_tones": true
+  , "unicode version": "6.0"
+  , "ios version": "10.0"
+  , "skin tones": true
   }
 , {
     "emoji": "🏊"
@@ -5699,122 +5665,122 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
-  , "skin_tones": true
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
+  , "skin tones": true
   }
 , {
     "emoji": "🏊‍♂️"
   , "description": "man swimming"
   , "category": "People & Body"
   , "aliases": [
-      "swimming_man"
+      "swimming man"
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
-  , "skin_tones": true
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
+  , "skin tones": true
   }
 , {
     "emoji": "🏊‍♀️"
   , "description": "woman swimming"
   , "category": "People & Body"
   , "aliases": [
-      "swimming_woman"
+      "swimming woman"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "10.0"
-  , "skin_tones": true
+  , "unicode version": "6.0"
+  , "ios version": "10.0"
+  , "skin tones": true
   }
 , {
     "emoji": "⛹️"
   , "description": "person bouncing ball"
   , "category": "People & Body"
   , "aliases": [
-      "bouncing_ball_person"
+      "bouncing ball person"
     ]
   , "tags": [
       "basketball"
     ]
-  , "unicode_version": "5.2"
-  , "ios_version": "9.1"
-  , "skin_tones": true
+  , "unicode version": "5.2"
+  , "ios version": "9.1"
+  , "skin tones": true
   }
 , {
     "emoji": "⛹️‍♂️"
   , "description": "man bouncing ball"
   , "category": "People & Body"
   , "aliases": [
-      "bouncing_ball_man"
-    , "basketball_man"
+      "bouncing ball man"
+    , "basketball man"
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
-  , "skin_tones": true
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
+  , "skin tones": true
   }
 , {
     "emoji": "⛹️‍♀️"
   , "description": "woman bouncing ball"
   , "category": "People & Body"
   , "aliases": [
-      "bouncing_ball_woman"
-    , "basketball_woman"
+      "bouncing ball woman"
+    , "basketball woman"
     ]
   , "tags": [
     ]
-  , "unicode_version": "7.0"
-  , "ios_version": "10.0"
-  , "skin_tones": true
+  , "unicode version": "7.0"
+  , "ios version": "10.0"
+  , "skin tones": true
   }
 , {
     "emoji": "🏋️"
   , "description": "person lifting weights"
   , "category": "People & Body"
   , "aliases": [
-      "weight_lifting"
+      "weight lifting"
     ]
   , "tags": [
       "gym"
     , "workout"
     ]
-  , "unicode_version": "7.0"
-  , "ios_version": "9.1"
-  , "skin_tones": true
+  , "unicode version": "7.0"
+  , "ios version": "9.1"
+  , "skin tones": true
   }
 , {
     "emoji": "🏋️‍♂️"
   , "description": "man lifting weights"
   , "category": "People & Body"
   , "aliases": [
-      "weight_lifting_man"
+      "weight lifting man"
     ]
   , "tags": [
       "gym"
     , "workout"
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
-  , "skin_tones": true
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
+  , "skin tones": true
   }
 , {
     "emoji": "🏋️‍♀️"
   , "description": "woman lifting weights"
   , "category": "People & Body"
   , "aliases": [
-      "weight_lifting_woman"
+      "weight lifting woman"
     ]
   , "tags": [
       "gym"
     , "workout"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "10.0"
-  , "skin_tones": true
+  , "unicode version": "6.0"
+  , "ios version": "10.0"
+  , "skin tones": true
   }
 , {
     "emoji": "🚴"
@@ -5825,74 +5791,74 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
-  , "skin_tones": true
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
+  , "skin tones": true
   }
 , {
     "emoji": "🚴‍♂️"
   , "description": "man biking"
   , "category": "People & Body"
   , "aliases": [
-      "biking_man"
+      "biking man"
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
-  , "skin_tones": true
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
+  , "skin tones": true
   }
 , {
     "emoji": "🚴‍♀️"
   , "description": "woman biking"
   , "category": "People & Body"
   , "aliases": [
-      "biking_woman"
+      "biking woman"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "10.0"
-  , "skin_tones": true
+  , "unicode version": "6.0"
+  , "ios version": "10.0"
+  , "skin tones": true
   }
 , {
     "emoji": "🚵"
   , "description": "person mountain biking"
   , "category": "People & Body"
   , "aliases": [
-      "mountain_bicyclist"
+      "mountain bicyclist"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
-  , "skin_tones": true
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
+  , "skin tones": true
   }
 , {
     "emoji": "🚵‍♂️"
   , "description": "man mountain biking"
   , "category": "People & Body"
   , "aliases": [
-      "mountain_biking_man"
+      "mountain biking man"
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
-  , "skin_tones": true
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
+  , "skin tones": true
   }
 , {
     "emoji": "🚵‍♀️"
   , "description": "woman mountain biking"
   , "category": "People & Body"
   , "aliases": [
-      "mountain_biking_woman"
+      "mountain biking woman"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "10.0"
-  , "skin_tones": true
+  , "unicode version": "6.0"
+  , "ios version": "10.0"
+  , "skin tones": true
   }
 , {
     "emoji": "🤸"
@@ -5903,35 +5869,35 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
-  , "skin_tones": true
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
+  , "skin tones": true
   }
 , {
     "emoji": "🤸‍♂️"
   , "description": "man cartwheeling"
   , "category": "People & Body"
   , "aliases": [
-      "man_cartwheeling"
+      "man cartwheeling"
     ]
   , "tags": [
     ]
-  , "unicode_version": ""
-  , "ios_version": "10.2"
-  , "skin_tones": true
+  , "unicode version": ""
+  , "ios version": "10.2"
+  , "skin tones": true
   }
 , {
     "emoji": "🤸‍♀️"
   , "description": "woman cartwheeling"
   , "category": "People & Body"
   , "aliases": [
-      "woman_cartwheeling"
+      "woman cartwheeling"
     ]
   , "tags": [
     ]
-  , "unicode_version": ""
-  , "ios_version": "10.2"
-  , "skin_tones": true
+  , "unicode version": ""
+  , "ios version": "10.2"
+  , "skin tones": true
   }
 , {
     "emoji": "🤼"
@@ -5942,191 +5908,191 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
   }
 , {
     "emoji": "🤼‍♂️"
   , "description": "men wrestling"
   , "category": "People & Body"
   , "aliases": [
-      "men_wrestling"
+      "men wrestling"
     ]
   , "tags": [
     ]
-  , "unicode_version": "9.0"
-  , "ios_version": "10.2"
+  , "unicode version": "9.0"
+  , "ios version": "10.2"
   }
 , {
     "emoji": "🤼‍♀️"
   , "description": "women wrestling"
   , "category": "People & Body"
   , "aliases": [
-      "women_wrestling"
+      "women wrestling"
     ]
   , "tags": [
     ]
-  , "unicode_version": "9.0"
-  , "ios_version": "10.2"
+  , "unicode version": "9.0"
+  , "ios version": "10.2"
   }
 , {
     "emoji": "🤽"
   , "description": "person playing water polo"
   , "category": "People & Body"
   , "aliases": [
-      "water_polo"
+      "water polo"
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
-  , "skin_tones": true
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
+  , "skin tones": true
   }
 , {
     "emoji": "🤽‍♂️"
   , "description": "man playing water polo"
   , "category": "People & Body"
   , "aliases": [
-      "man_playing_water_polo"
+      "man playing water polo"
     ]
   , "tags": [
     ]
-  , "unicode_version": "9.0"
-  , "ios_version": "10.2"
-  , "skin_tones": true
+  , "unicode version": "9.0"
+  , "ios version": "10.2"
+  , "skin tones": true
   }
 , {
     "emoji": "🤽‍♀️"
   , "description": "woman playing water polo"
   , "category": "People & Body"
   , "aliases": [
-      "woman_playing_water_polo"
+      "woman playing water polo"
     ]
   , "tags": [
     ]
-  , "unicode_version": "9.0"
-  , "ios_version": "10.2"
-  , "skin_tones": true
+  , "unicode version": "9.0"
+  , "ios version": "10.2"
+  , "skin tones": true
   }
 , {
     "emoji": "🤾"
   , "description": "person playing handball"
   , "category": "People & Body"
   , "aliases": [
-      "handball_person"
+      "handball person"
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
-  , "skin_tones": true
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
+  , "skin tones": true
   }
 , {
     "emoji": "🤾‍♂️"
   , "description": "man playing handball"
   , "category": "People & Body"
   , "aliases": [
-      "man_playing_handball"
+      "man playing handball"
     ]
   , "tags": [
     ]
-  , "unicode_version": "9.0"
-  , "ios_version": "10.2"
-  , "skin_tones": true
+  , "unicode version": "9.0"
+  , "ios version": "10.2"
+  , "skin tones": true
   }
 , {
     "emoji": "🤾‍♀️"
   , "description": "woman playing handball"
   , "category": "People & Body"
   , "aliases": [
-      "woman_playing_handball"
+      "woman playing handball"
     ]
   , "tags": [
     ]
-  , "unicode_version": "9.0"
-  , "ios_version": "10.2"
-  , "skin_tones": true
+  , "unicode version": "9.0"
+  , "ios version": "10.2"
+  , "skin tones": true
   }
 , {
     "emoji": "🤹"
   , "description": "person juggling"
   , "category": "People & Body"
   , "aliases": [
-      "juggling_person"
+      "juggling person"
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
-  , "skin_tones": true
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
+  , "skin tones": true
   }
 , {
     "emoji": "🤹‍♂️"
   , "description": "man juggling"
   , "category": "People & Body"
   , "aliases": [
-      "man_juggling"
+      "man juggling"
     ]
   , "tags": [
     ]
-  , "unicode_version": "9.0"
-  , "ios_version": "10.2"
-  , "skin_tones": true
+  , "unicode version": "9.0"
+  , "ios version": "10.2"
+  , "skin tones": true
   }
 , {
     "emoji": "🤹‍♀️"
   , "description": "woman juggling"
   , "category": "People & Body"
   , "aliases": [
-      "woman_juggling"
+      "woman juggling"
     ]
   , "tags": [
     ]
-  , "unicode_version": "9.0"
-  , "ios_version": "10.2"
-  , "skin_tones": true
+  , "unicode version": "9.0"
+  , "ios version": "10.2"
+  , "skin tones": true
   }
 , {
     "emoji": "🧘"
   , "description": "person in lotus position"
   , "category": "People & Body"
   , "aliases": [
-      "lotus_position"
+      "lotus position"
     ]
   , "tags": [
       "meditation"
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
-  , "skin_tones": true
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
+  , "skin tones": true
   }
 , {
     "emoji": "🧘‍♂️"
   , "description": "man in lotus position"
   , "category": "People & Body"
   , "aliases": [
-      "lotus_position_man"
+      "lotus position man"
     ]
   , "tags": [
       "meditation"
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
-  , "skin_tones": true
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
+  , "skin tones": true
   }
 , {
     "emoji": "🧘‍♀️"
   , "description": "woman in lotus position"
   , "category": "People & Body"
   , "aliases": [
-      "lotus_position_woman"
+      "lotus position woman"
     ]
   , "tags": [
       "meditation"
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
-  , "skin_tones": true
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
+  , "skin tones": true
   }
 , {
     "emoji": "🛀"
@@ -6138,52 +6104,52 @@ let db = [
   , "tags": [
       "shower"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
-  , "skin_tones": true
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
+  , "skin tones": true
   }
 , {
     "emoji": "🛌"
   , "description": "person in bed"
   , "category": "People & Body"
   , "aliases": [
-      "sleeping_bed"
+      "sleeping bed"
     ]
   , "tags": [
     ]
-  , "unicode_version": "7.0"
-  , "ios_version": "9.1"
-  , "skin_tones": true
+  , "unicode version": "7.0"
+  , "ios version": "9.1"
+  , "skin tones": true
   }
 , {
     "emoji": "🧑‍🤝‍🧑"
   , "description": "people holding hands"
   , "category": "People & Body"
   , "aliases": [
-      "people_holding_hands"
+      "people holding hands"
     ]
   , "tags": [
       "couple"
     , "date"
     ]
-  , "unicode_version": "12.0"
-  , "ios_version": "13.0"
-  , "skin_tones": true
+  , "unicode version": "12.0"
+  , "ios version": "13.0"
+  , "skin tones": true
   }
 , {
     "emoji": "👭"
   , "description": "women holding hands"
   , "category": "People & Body"
   , "aliases": [
-      "two_women_holding_hands"
+      "two women holding hands"
     ]
   , "tags": [
       "couple"
     , "date"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
-  , "skin_tones": true
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
+  , "skin tones": true
   }
 , {
     "emoji": "👫"
@@ -6195,24 +6161,24 @@ let db = [
   , "tags": [
       "date"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
-  , "skin_tones": true
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
+  , "skin tones": true
   }
 , {
     "emoji": "👬"
   , "description": "men holding hands"
   , "category": "People & Body"
   , "aliases": [
-      "two_men_holding_hands"
+      "two men holding hands"
     ]
   , "tags": [
       "couple"
     , "date"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
-  , "skin_tones": true
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
+  , "skin tones": true
   }
 , {
     "emoji": "💏"
@@ -6223,100 +6189,100 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
-  , "skin_tones": true
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
+  , "skin tones": true
   }
 , {
     "emoji": "👩‍❤️‍💋‍👨"
   , "description": "kiss: woman, man"
   , "category": "People & Body"
   , "aliases": [
-      "couplekiss_man_woman"
+      "couplekiss man woman"
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
-  , "skin_tones": true
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
+  , "skin tones": true
   }
 , {
     "emoji": "👨‍❤️‍💋‍👨"
   , "description": "kiss: man, man"
   , "category": "People & Body"
   , "aliases": [
-      "couplekiss_man_man"
+      "couplekiss man man"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
-  , "skin_tones": true
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
+  , "skin tones": true
   }
 , {
     "emoji": "👩‍❤️‍💋‍👩"
   , "description": "kiss: woman, woman"
   , "category": "People & Body"
   , "aliases": [
-      "couplekiss_woman_woman"
+      "couplekiss woman woman"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
-  , "skin_tones": true
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
+  , "skin tones": true
   }
 , {
     "emoji": "💑"
   , "description": "couple with heart"
   , "category": "People & Body"
   , "aliases": [
-      "couple_with_heart"
+      "couple with heart"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
-  , "skin_tones": true
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
+  , "skin tones": true
   }
 , {
     "emoji": "👩‍❤️‍👨"
   , "description": "couple with heart: woman, man"
   , "category": "People & Body"
   , "aliases": [
-      "couple_with_heart_woman_man"
+      "couple with heart woman man"
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
-  , "skin_tones": true
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
+  , "skin tones": true
   }
 , {
     "emoji": "👨‍❤️‍👨"
   , "description": "couple with heart: man, man"
   , "category": "People & Body"
   , "aliases": [
-      "couple_with_heart_man_man"
+      "couple with heart man man"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
-  , "skin_tones": true
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
+  , "skin tones": true
   }
 , {
     "emoji": "👩‍❤️‍👩"
   , "description": "couple with heart: woman, woman"
   , "category": "People & Body"
   , "aliases": [
-      "couple_with_heart_woman_woman"
+      "couple with heart woman woman"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
-  , "skin_tones": true
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
+  , "skin tones": true
   }
 , {
     "emoji": "👪"
@@ -6330,360 +6296,360 @@ let db = [
     , "parents"
     , "child"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "👨‍👩‍👦"
   , "description": "family: man, woman, boy"
   , "category": "People & Body"
   , "aliases": [
-      "family_man_woman_boy"
+      "family man woman boy"
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
   }
 , {
     "emoji": "👨‍👩‍👧"
   , "description": "family: man, woman, girl"
   , "category": "People & Body"
   , "aliases": [
-      "family_man_woman_girl"
+      "family man woman girl"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "👨‍👩‍👧‍👦"
   , "description": "family: man, woman, girl, boy"
   , "category": "People & Body"
   , "aliases": [
-      "family_man_woman_girl_boy"
+      "family man woman girl boy"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "👨‍👩‍👦‍👦"
   , "description": "family: man, woman, boy, boy"
   , "category": "People & Body"
   , "aliases": [
-      "family_man_woman_boy_boy"
+      "family man woman boy boy"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "👨‍👩‍👧‍👧"
   , "description": "family: man, woman, girl, girl"
   , "category": "People & Body"
   , "aliases": [
-      "family_man_woman_girl_girl"
+      "family man woman girl girl"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "👨‍👨‍👦"
   , "description": "family: man, man, boy"
   , "category": "People & Body"
   , "aliases": [
-      "family_man_man_boy"
+      "family man man boy"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "👨‍👨‍👧"
   , "description": "family: man, man, girl"
   , "category": "People & Body"
   , "aliases": [
-      "family_man_man_girl"
+      "family man man girl"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "👨‍👨‍👧‍👦"
   , "description": "family: man, man, girl, boy"
   , "category": "People & Body"
   , "aliases": [
-      "family_man_man_girl_boy"
+      "family man man girl boy"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "👨‍👨‍👦‍👦"
   , "description": "family: man, man, boy, boy"
   , "category": "People & Body"
   , "aliases": [
-      "family_man_man_boy_boy"
+      "family man man boy boy"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "👨‍👨‍👧‍👧"
   , "description": "family: man, man, girl, girl"
   , "category": "People & Body"
   , "aliases": [
-      "family_man_man_girl_girl"
+      "family man man girl girl"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "👩‍👩‍👦"
   , "description": "family: woman, woman, boy"
   , "category": "People & Body"
   , "aliases": [
-      "family_woman_woman_boy"
+      "family woman woman boy"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "👩‍👩‍👧"
   , "description": "family: woman, woman, girl"
   , "category": "People & Body"
   , "aliases": [
-      "family_woman_woman_girl"
+      "family woman woman girl"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "👩‍👩‍👧‍👦"
   , "description": "family: woman, woman, girl, boy"
   , "category": "People & Body"
   , "aliases": [
-      "family_woman_woman_girl_boy"
+      "family woman woman girl boy"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "👩‍👩‍👦‍👦"
   , "description": "family: woman, woman, boy, boy"
   , "category": "People & Body"
   , "aliases": [
-      "family_woman_woman_boy_boy"
+      "family woman woman boy boy"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "👩‍👩‍👧‍👧"
   , "description": "family: woman, woman, girl, girl"
   , "category": "People & Body"
   , "aliases": [
-      "family_woman_woman_girl_girl"
+      "family woman woman girl girl"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "👨‍👦"
   , "description": "family: man, boy"
   , "category": "People & Body"
   , "aliases": [
-      "family_man_boy"
+      "family man boy"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "10.0"
+  , "unicode version": "6.0"
+  , "ios version": "10.0"
   }
 , {
     "emoji": "👨‍👦‍👦"
   , "description": "family: man, boy, boy"
   , "category": "People & Body"
   , "aliases": [
-      "family_man_boy_boy"
+      "family man boy boy"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "10.0"
+  , "unicode version": "6.0"
+  , "ios version": "10.0"
   }
 , {
     "emoji": "👨‍👧"
   , "description": "family: man, girl"
   , "category": "People & Body"
   , "aliases": [
-      "family_man_girl"
+      "family man girl"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "10.0"
+  , "unicode version": "6.0"
+  , "ios version": "10.0"
   }
 , {
     "emoji": "👨‍👧‍👦"
   , "description": "family: man, girl, boy"
   , "category": "People & Body"
   , "aliases": [
-      "family_man_girl_boy"
+      "family man girl boy"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "10.0"
+  , "unicode version": "6.0"
+  , "ios version": "10.0"
   }
 , {
     "emoji": "👨‍👧‍👧"
   , "description": "family: man, girl, girl"
   , "category": "People & Body"
   , "aliases": [
-      "family_man_girl_girl"
+      "family man girl girl"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "10.0"
+  , "unicode version": "6.0"
+  , "ios version": "10.0"
   }
 , {
     "emoji": "👩‍👦"
   , "description": "family: woman, boy"
   , "category": "People & Body"
   , "aliases": [
-      "family_woman_boy"
+      "family woman boy"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "10.0"
+  , "unicode version": "6.0"
+  , "ios version": "10.0"
   }
 , {
     "emoji": "👩‍👦‍👦"
   , "description": "family: woman, boy, boy"
   , "category": "People & Body"
   , "aliases": [
-      "family_woman_boy_boy"
+      "family woman boy boy"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "10.0"
+  , "unicode version": "6.0"
+  , "ios version": "10.0"
   }
 , {
     "emoji": "👩‍👧"
   , "description": "family: woman, girl"
   , "category": "People & Body"
   , "aliases": [
-      "family_woman_girl"
+      "family woman girl"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "10.0"
+  , "unicode version": "6.0"
+  , "ios version": "10.0"
   }
 , {
     "emoji": "👩‍👧‍👦"
   , "description": "family: woman, girl, boy"
   , "category": "People & Body"
   , "aliases": [
-      "family_woman_girl_boy"
+      "family woman girl boy"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "10.0"
+  , "unicode version": "6.0"
+  , "ios version": "10.0"
   }
 , {
     "emoji": "👩‍👧‍👧"
   , "description": "family: woman, girl, girl"
   , "category": "People & Body"
   , "aliases": [
-      "family_woman_girl_girl"
+      "family woman girl girl"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "10.0"
+  , "unicode version": "6.0"
+  , "ios version": "10.0"
   }
 , {
     "emoji": "🗣️"
   , "description": "speaking head"
   , "category": "People & Body"
   , "aliases": [
-      "speaking_head"
+      "speaking head"
     ]
   , "tags": [
     ]
-  , "unicode_version": "7.0"
-  , "ios_version": "9.1"
+  , "unicode version": "7.0"
+  , "ios version": "9.1"
   }
 , {
     "emoji": "👤"
   , "description": "bust in silhouette"
   , "category": "People & Body"
   , "aliases": [
-      "bust_in_silhouette"
+      "bust in silhouette"
     ]
   , "tags": [
       "user"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "👥"
   , "description": "busts in silhouette"
   , "category": "People & Body"
   , "aliases": [
-      "busts_in_silhouette"
+      "busts in silhouette"
     ]
   , "tags": [
       "users"
     , "group"
     , "team"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🫂"
   , "description": "people hugging"
   , "category": "People & Body"
   , "aliases": [
-      "people_hugging"
+      "people hugging"
     ]
   , "tags": [
     ]
-  , "unicode_version": "13.0"
-  , "ios_version": "14.0"
+  , "unicode version": "13.0"
+  , "ios version": "14.0"
   }
 , {
     "emoji": "👣"
@@ -6696,20 +6662,20 @@ let db = [
       "feet"
     , "tracks"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🐵"
   , "description": "monkey face"
   , "category": "Animals & Nature"
   , "aliases": [
-      "monkey_face"
+      "monkey face"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🐒"
@@ -6720,8 +6686,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🦍"
@@ -6732,8 +6698,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "9.0"
-  , "ios_version": "10.2"
+  , "unicode version": "9.0"
+  , "ios version": "10.2"
   }
 , {
     "emoji": "🦧"
@@ -6744,8 +6710,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "12.0"
-  , "ios_version": "13.0"
+  , "unicode version": "12.0"
+  , "ios version": "13.0"
   }
 , {
     "emoji": "🐶"
@@ -6757,8 +6723,8 @@ let db = [
   , "tags": [
       "pet"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🐕"
@@ -6769,32 +6735,32 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🦮"
   , "description": "guide dog"
   , "category": "Animals & Nature"
   , "aliases": [
-      "guide_dog"
+      "guide dog"
     ]
   , "tags": [
     ]
-  , "unicode_version": "12.0"
-  , "ios_version": "13.0"
+  , "unicode version": "12.0"
+  , "ios version": "13.0"
   }
 , {
     "emoji": "🐕‍🦺"
   , "description": "service dog"
   , "category": "Animals & Nature"
   , "aliases": [
-      "service_dog"
+      "service dog"
     ]
   , "tags": [
     ]
-  , "unicode_version": "12.0"
-  , "ios_version": "13.0"
+  , "unicode version": "12.0"
+  , "ios version": "13.0"
   }
 , {
     "emoji": "🐩"
@@ -6806,8 +6772,8 @@ let db = [
   , "tags": [
       "dog"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🐺"
@@ -6818,20 +6784,20 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🦊"
   , "description": "fox"
   , "category": "Animals & Nature"
   , "aliases": [
-      "fox_face"
+      "fox face"
     ]
   , "tags": [
     ]
-  , "unicode_version": "9.0"
-  , "ios_version": "10.2"
+  , "unicode version": "9.0"
+  , "ios version": "10.2"
   }
 , {
     "emoji": "🦝"
@@ -6842,8 +6808,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
   }
 , {
     "emoji": "🐱"
@@ -6855,8 +6821,8 @@ let db = [
   , "tags": [
       "pet"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🐈"
@@ -6867,20 +6833,20 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🐈‍⬛"
   , "description": "black cat"
   , "category": "Animals & Nature"
   , "aliases": [
-      "black_cat"
+      "black cat"
     ]
   , "tags": [
     ]
-  , "unicode_version": "13.0"
-  , "ios_version": "14.0"
+  , "unicode version": "13.0"
+  , "ios version": "14.0"
   }
 , {
     "emoji": "🦁"
@@ -6891,8 +6857,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "8.0"
-  , "ios_version": "9.1"
+  , "unicode version": "8.0"
+  , "ios version": "9.1"
   }
 , {
     "emoji": "🐯"
@@ -6903,8 +6869,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🐅"
@@ -6915,8 +6881,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🐆"
@@ -6927,8 +6893,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🐴"
@@ -6939,8 +6905,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🐎"
@@ -6952,8 +6918,8 @@ let db = [
   , "tags": [
       "speed"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🦄"
@@ -6964,8 +6930,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "8.0"
-  , "ios_version": "9.1"
+  , "unicode version": "8.0"
+  , "ios version": "9.1"
   }
 , {
     "emoji": "🦓"
@@ -6976,8 +6942,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
   }
 , {
     "emoji": "🦌"
@@ -6988,8 +6954,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "9.0"
-  , "ios_version": "10.2"
+  , "unicode version": "9.0"
+  , "ios version": "10.2"
   }
 , {
     "emoji": "🦬"
@@ -7000,8 +6966,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "13.0"
-  , "ios_version": "14.0"
+  , "unicode version": "13.0"
+  , "ios version": "14.0"
   }
 , {
     "emoji": "🐮"
@@ -7012,8 +6978,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🐂"
@@ -7024,20 +6990,20 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🐃"
   , "description": "water buffalo"
   , "category": "Animals & Nature"
   , "aliases": [
-      "water_buffalo"
+      "water buffalo"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🐄"
@@ -7048,8 +7014,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🐷"
@@ -7060,8 +7026,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🐖"
@@ -7072,8 +7038,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🐗"
@@ -7084,20 +7050,20 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🐽"
   , "description": "pig nose"
   , "category": "Animals & Nature"
   , "aliases": [
-      "pig_nose"
+      "pig nose"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🐏"
@@ -7108,8 +7074,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🐑"
@@ -7120,8 +7086,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🐐"
@@ -7132,21 +7098,21 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🐪"
   , "description": "camel"
   , "category": "Animals & Nature"
   , "aliases": [
-      "dromedary_camel"
+      "dromedary camel"
     ]
   , "tags": [
       "desert"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🐫"
@@ -7157,8 +7123,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🦙"
@@ -7169,8 +7135,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
   }
 , {
     "emoji": "🦒"
@@ -7181,8 +7147,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
   }
 , {
     "emoji": "🐘"
@@ -7193,8 +7159,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🦣"
@@ -7205,8 +7171,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "13.0"
-  , "ios_version": "14.0"
+  , "unicode version": "13.0"
+  , "ios version": "14.0"
   }
 , {
     "emoji": "🦏"
@@ -7217,8 +7183,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "9.0"
-  , "ios_version": "10.2"
+  , "unicode version": "9.0"
+  , "ios version": "10.2"
   }
 , {
     "emoji": "🦛"
@@ -7229,8 +7195,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
   }
 , {
     "emoji": "🐭"
@@ -7241,8 +7207,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🐁"
@@ -7253,8 +7219,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🐀"
@@ -7265,8 +7231,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🐹"
@@ -7278,8 +7244,8 @@ let db = [
   , "tags": [
       "pet"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🐰"
@@ -7291,8 +7257,8 @@ let db = [
   , "tags": [
       "bunny"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🐇"
@@ -7303,8 +7269,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🐿️"
@@ -7315,8 +7281,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "7.0"
-  , "ios_version": "9.1"
+  , "unicode version": "7.0"
+  , "ios version": "9.1"
   }
 , {
     "emoji": "🦫"
@@ -7327,8 +7293,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "13.0"
-  , "ios_version": "14.0"
+  , "unicode version": "13.0"
+  , "ios version": "14.0"
   }
 , {
     "emoji": "🦔"
@@ -7339,8 +7305,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
   }
 , {
     "emoji": "🦇"
@@ -7351,8 +7317,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "9.0"
-  , "ios_version": "10.2"
+  , "unicode version": "9.0"
+  , "ios version": "10.2"
   }
 , {
     "emoji": "🐻"
@@ -7363,20 +7329,20 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🐻‍❄️"
   , "description": "polar bear"
   , "category": "Animals & Nature"
   , "aliases": [
-      "polar_bear"
+      "polar bear"
     ]
   , "tags": [
     ]
-  , "unicode_version": "13.0"
-  , "ios_version": "14.0"
+  , "unicode version": "13.0"
+  , "ios version": "14.0"
   }
 , {
     "emoji": "🐨"
@@ -7387,20 +7353,20 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🐼"
   , "description": "panda"
   , "category": "Animals & Nature"
   , "aliases": [
-      "panda_face"
+      "panda face"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🦥"
@@ -7411,8 +7377,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "12.0"
-  , "ios_version": "13.0"
+  , "unicode version": "12.0"
+  , "ios version": "13.0"
   }
 , {
     "emoji": "🦦"
@@ -7423,8 +7389,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "12.0"
-  , "ios_version": "13.0"
+  , "unicode version": "12.0"
+  , "ios version": "13.0"
   }
 , {
     "emoji": "🦨"
@@ -7435,8 +7401,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "12.0"
-  , "ios_version": "13.0"
+  , "unicode version": "12.0"
+  , "ios version": "13.0"
   }
 , {
     "emoji": "🦘"
@@ -7447,8 +7413,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
   }
 , {
     "emoji": "🦡"
@@ -7459,8 +7425,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
   }
 , {
     "emoji": "🐾"
@@ -7468,12 +7434,12 @@ let db = [
   , "category": "Animals & Nature"
   , "aliases": [
       "feet"
-    , "paw_prints"
+    , "paw prints"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🦃"
@@ -7485,8 +7451,8 @@ let db = [
   , "tags": [
       "thanksgiving"
     ]
-  , "unicode_version": "8.0"
-  , "ios_version": "9.1"
+  , "unicode version": "8.0"
+  , "ios version": "9.1"
   }
 , {
     "emoji": "🐔"
@@ -7497,8 +7463,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🐓"
@@ -7509,44 +7475,44 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🐣"
   , "description": "hatching chick"
   , "category": "Animals & Nature"
   , "aliases": [
-      "hatching_chick"
+      "hatching chick"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🐤"
   , "description": "baby chick"
   , "category": "Animals & Nature"
   , "aliases": [
-      "baby_chick"
+      "baby chick"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🐥"
   , "description": "front-facing baby chick"
   , "category": "Animals & Nature"
   , "aliases": [
-      "hatched_chick"
+      "hatched chick"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🐦"
@@ -7557,8 +7523,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🐧"
@@ -7569,8 +7535,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🕊️"
@@ -7582,8 +7548,8 @@ let db = [
   , "tags": [
       "peace"
     ]
-  , "unicode_version": "7.0"
-  , "ios_version": "9.1"
+  , "unicode version": "7.0"
+  , "ios version": "9.1"
   }
 , {
     "emoji": "🦅"
@@ -7594,8 +7560,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "9.0"
-  , "ios_version": "10.2"
+  , "unicode version": "9.0"
+  , "ios version": "10.2"
   }
 , {
     "emoji": "🦆"
@@ -7606,8 +7572,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "9.0"
-  , "ios_version": "10.2"
+  , "unicode version": "9.0"
+  , "ios version": "10.2"
   }
 , {
     "emoji": "🦢"
@@ -7618,8 +7584,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
   }
 , {
     "emoji": "🦉"
@@ -7630,8 +7596,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "9.0"
-  , "ios_version": "10.2"
+  , "unicode version": "9.0"
+  , "ios version": "10.2"
   }
 , {
     "emoji": "🦤"
@@ -7642,8 +7608,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "13.0"
-  , "ios_version": "14.0"
+  , "unicode version": "13.0"
+  , "ios version": "14.0"
   }
 , {
     "emoji": "🪶"
@@ -7654,8 +7620,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "13.0"
-  , "ios_version": "14.0"
+  , "unicode version": "13.0"
+  , "ios version": "14.0"
   }
 , {
     "emoji": "🦩"
@@ -7666,8 +7632,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "12.0"
-  , "ios_version": "13.0"
+  , "unicode version": "12.0"
+  , "ios version": "13.0"
   }
 , {
     "emoji": "🦚"
@@ -7678,8 +7644,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
   }
 , {
     "emoji": "🦜"
@@ -7690,8 +7656,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
   }
 , {
     "emoji": "🐸"
@@ -7702,8 +7668,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🐊"
@@ -7714,8 +7680,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🐢"
@@ -7727,8 +7693,8 @@ let db = [
   , "tags": [
       "slow"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🦎"
@@ -7739,8 +7705,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "9.0"
-  , "ios_version": "10.2"
+  , "unicode version": "9.0"
+  , "ios version": "10.2"
   }
 , {
     "emoji": "🐍"
@@ -7751,20 +7717,20 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🐲"
   , "description": "dragon face"
   , "category": "Animals & Nature"
   , "aliases": [
-      "dragon_face"
+      "dragon face"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🐉"
@@ -7775,8 +7741,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🦕"
@@ -7788,8 +7754,8 @@ let db = [
   , "tags": [
       "dinosaur"
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
   }
 , {
     "emoji": "🦖"
@@ -7801,8 +7767,8 @@ let db = [
   , "tags": [
       "dinosaur"
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
   }
 , {
     "emoji": "🐳"
@@ -7814,8 +7780,8 @@ let db = [
   , "tags": [
       "sea"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🐋"
@@ -7826,8 +7792,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🐬"
@@ -7839,8 +7805,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🦭"
@@ -7851,8 +7817,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "13.0"
-  , "ios_version": "14.0"
+  , "unicode version": "13.0"
+  , "ios version": "14.0"
   }
 , {
     "emoji": "🐟"
@@ -7863,20 +7829,20 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🐠"
   , "description": "tropical fish"
   , "category": "Animals & Nature"
   , "aliases": [
-      "tropical_fish"
+      "tropical fish"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🐡"
@@ -7887,8 +7853,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🦈"
@@ -7899,8 +7865,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "9.0"
-  , "ios_version": "10.2"
+  , "unicode version": "9.0"
+  , "ios version": "10.2"
   }
 , {
     "emoji": "🐙"
@@ -7911,8 +7877,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🐚"
@@ -7925,8 +7891,8 @@ let db = [
       "sea"
     , "beach"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🐌"
@@ -7938,8 +7904,8 @@ let db = [
   , "tags": [
       "slow"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🦋"
@@ -7950,8 +7916,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "9.0"
-  , "ios_version": "10.2"
+  , "unicode version": "9.0"
+  , "ios version": "10.2"
   }
 , {
     "emoji": "🐛"
@@ -7962,8 +7928,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🐜"
@@ -7974,8 +7940,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🐝"
@@ -7987,8 +7953,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🪲"
@@ -7999,21 +7965,21 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "13.0"
-  , "ios_version": "14.0"
+  , "unicode version": "13.0"
+  , "ios version": "14.0"
   }
 , {
     "emoji": "🐞"
   , "description": "lady beetle"
   , "category": "Animals & Nature"
   , "aliases": [
-      "lady_beetle"
+      "lady beetle"
     ]
   , "tags": [
       "bug"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🦗"
@@ -8024,8 +7990,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
   }
 , {
     "emoji": "🪳"
@@ -8036,8 +8002,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "13.0"
-  , "ios_version": "14.0"
+  , "unicode version": "13.0"
+  , "ios version": "14.0"
   }
 , {
     "emoji": "🕷️"
@@ -8048,20 +8014,20 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "7.0"
-  , "ios_version": "9.1"
+  , "unicode version": "7.0"
+  , "ios version": "9.1"
   }
 , {
     "emoji": "🕸️"
   , "description": "spider web"
   , "category": "Animals & Nature"
   , "aliases": [
-      "spider_web"
+      "spider web"
     ]
   , "tags": [
     ]
-  , "unicode_version": "7.0"
-  , "ios_version": "9.1"
+  , "unicode version": "7.0"
+  , "ios version": "9.1"
   }
 , {
     "emoji": "🦂"
@@ -8072,8 +8038,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "8.0"
-  , "ios_version": "9.1"
+  , "unicode version": "8.0"
+  , "ios version": "9.1"
   }
 , {
     "emoji": "🦟"
@@ -8084,8 +8050,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
   }
 , {
     "emoji": "🪰"
@@ -8096,8 +8062,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "13.0"
-  , "ios_version": "14.0"
+  , "unicode version": "13.0"
+  , "ios version": "14.0"
   }
 , {
     "emoji": "🪱"
@@ -8108,8 +8074,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "13.0"
-  , "ios_version": "14.0"
+  , "unicode version": "13.0"
+  , "ios version": "14.0"
   }
 , {
     "emoji": "🦠"
@@ -8121,8 +8087,8 @@ let db = [
   , "tags": [
       "germ"
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
   }
 , {
     "emoji": "💐"
@@ -8134,34 +8100,34 @@ let db = [
   , "tags": [
       "flowers"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🌸"
   , "description": "cherry blossom"
   , "category": "Animals & Nature"
   , "aliases": [
-      "cherry_blossom"
+      "cherry blossom"
     ]
   , "tags": [
       "flower"
     , "spring"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "💮"
   , "description": "white flower"
   , "category": "Animals & Nature"
   , "aliases": [
-      "white_flower"
+      "white flower"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🏵️"
@@ -8172,8 +8138,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "7.0"
-  , "ios_version": "9.1"
+  , "unicode version": "7.0"
+  , "ios version": "9.1"
   }
 , {
     "emoji": "🌹"
@@ -8185,20 +8151,20 @@ let db = [
   , "tags": [
       "flower"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🥀"
   , "description": "wilted flower"
   , "category": "Animals & Nature"
   , "aliases": [
-      "wilted_flower"
+      "wilted flower"
     ]
   , "tags": [
     ]
-  , "unicode_version": "9.0"
-  , "ios_version": "10.2"
+  , "unicode version": "9.0"
+  , "ios version": "10.2"
   }
 , {
     "emoji": "🌺"
@@ -8209,8 +8175,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🌻"
@@ -8221,8 +8187,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🌼"
@@ -8233,8 +8199,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🌷"
@@ -8246,8 +8212,8 @@ let db = [
   , "tags": [
       "flower"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🌱"
@@ -8259,58 +8225,47 @@ let db = [
   , "tags": [
       "plant"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
-, {
-    "emoji": "🪴"
-  , "description": "potted plant"
-  , "category": "Animals & Nature"
-  , "aliases": [
-      "potted_plant"
-    ]
-  , "tags": [
-    ]
-  , "unicode_version": "13.0"
-  , "ios_version": "14.0"
-  }
+
 , {
     "emoji": "🌲"
   , "description": "evergreen tree"
   , "category": "Animals & Nature"
   , "aliases": [
-      "evergreen_tree"
+      "evergreen tree"
     ]
   , "tags": [
       "wood"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🌳"
   , "description": "deciduous tree"
   , "category": "Animals & Nature"
   , "aliases": [
-      "deciduous_tree"
+      "deciduous tree"
     ]
   , "tags": [
       "wood"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🌴"
   , "description": "palm tree"
   , "category": "Animals & Nature"
   , "aliases": [
-      "palm_tree"
+      "palm tree"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🌵"
@@ -8321,20 +8276,20 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🌾"
   , "description": "sheaf of rice"
   , "category": "Animals & Nature"
   , "aliases": [
-      "ear_of_rice"
+      "ear of rice"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🌿"
@@ -8345,8 +8300,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "☘️"
@@ -8357,47 +8312,47 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "4.1"
-  , "ios_version": "9.1"
+  , "unicode version": "4.1"
+  , "ios version": "9.1"
   }
 , {
     "emoji": "🍀"
   , "description": "four leaf clover"
   , "category": "Animals & Nature"
   , "aliases": [
-      "four_leaf_clover"
+      "four leaf clover"
     ]
   , "tags": [
       "luck"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🍁"
   , "description": "maple leaf"
   , "category": "Animals & Nature"
   , "aliases": [
-      "maple_leaf"
+      "maple leaf"
     ]
   , "tags": [
       "canada"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🍂"
   , "description": "fallen leaf"
   , "category": "Animals & Nature"
   , "aliases": [
-      "fallen_leaf"
+      "fallen leaf"
     ]
   , "tags": [
       "autumn"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🍃"
@@ -8409,8 +8364,8 @@ let db = [
   , "tags": [
       "leaf"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🍇"
@@ -8421,8 +8376,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🍈"
@@ -8433,8 +8388,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🍉"
@@ -8445,8 +8400,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🍊"
@@ -8459,8 +8414,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🍋"
@@ -8471,8 +8426,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🍌"
@@ -8484,8 +8439,8 @@ let db = [
   , "tags": [
       "fruit"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🍍"
@@ -8496,8 +8451,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🥭"
@@ -8508,8 +8463,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
   }
 , {
     "emoji": "🍎"
@@ -8520,21 +8475,21 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🍏"
   , "description": "green apple"
   , "category": "Food & Drink"
   , "aliases": [
-      "green_apple"
+      "green apple"
     ]
   , "tags": [
       "fruit"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🍐"
@@ -8545,8 +8500,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🍑"
@@ -8557,8 +8512,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🍒"
@@ -8570,8 +8525,8 @@ let db = [
   , "tags": [
       "fruit"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🍓"
@@ -8583,8 +8538,8 @@ let db = [
   , "tags": [
       "fruit"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🫐"
@@ -8595,20 +8550,20 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "13.0"
-  , "ios_version": "14.0"
+  , "unicode version": "13.0"
+  , "ios version": "14.0"
   }
 , {
     "emoji": "🥝"
   , "description": "kiwi fruit"
   , "category": "Food & Drink"
   , "aliases": [
-      "kiwi_fruit"
+      "kiwi fruit"
     ]
   , "tags": [
     ]
-  , "unicode_version": "9.0"
-  , "ios_version": "10.2"
+  , "unicode version": "9.0"
+  , "ios version": "10.2"
   }
 , {
     "emoji": "🍅"
@@ -8619,8 +8574,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🫒"
@@ -8631,8 +8586,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "13.0"
-  , "ios_version": "14.0"
+  , "unicode version": "13.0"
+  , "ios version": "14.0"
   }
 , {
     "emoji": "🥥"
@@ -8643,8 +8598,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
   }
 , {
     "emoji": "🥑"
@@ -8655,8 +8610,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "9.0"
-  , "ios_version": "10.2"
+  , "unicode version": "9.0"
+  , "ios version": "10.2"
   }
 , {
     "emoji": "🍆"
@@ -8668,8 +8623,8 @@ let db = [
   , "tags": [
       "aubergine"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🥔"
@@ -8680,8 +8635,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "9.0"
-  , "ios_version": "10.2"
+  , "unicode version": "9.0"
+  , "ios version": "10.2"
   }
 , {
     "emoji": "🥕"
@@ -8692,8 +8647,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "9.0"
-  , "ios_version": "10.2"
+  , "unicode version": "9.0"
+  , "ios version": "10.2"
   }
 , {
     "emoji": "🌽"
@@ -8704,33 +8659,33 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🌶️"
   , "description": "hot pepper"
   , "category": "Food & Drink"
   , "aliases": [
-      "hot_pepper"
+      "hot pepper"
     ]
   , "tags": [
       "spicy"
     ]
-  , "unicode_version": "7.0"
-  , "ios_version": "9.1"
+  , "unicode version": "7.0"
+  , "ios version": "9.1"
   }
 , {
     "emoji": "🫑"
   , "description": "bell pepper"
   , "category": "Food & Drink"
   , "aliases": [
-      "bell_pepper"
+      "bell pepper"
     ]
   , "tags": [
     ]
-  , "unicode_version": "13.0"
-  , "ios_version": "14.0"
+  , "unicode version": "13.0"
+  , "ios version": "14.0"
   }
 , {
     "emoji": "🥒"
@@ -8741,20 +8696,20 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "9.0"
-  , "ios_version": "10.2"
+  , "unicode version": "9.0"
+  , "ios version": "10.2"
   }
 , {
     "emoji": "🥬"
   , "description": "leafy green"
   , "category": "Food & Drink"
   , "aliases": [
-      "leafy_green"
+      "leafy green"
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
   }
 , {
     "emoji": "🥦"
@@ -8765,8 +8720,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
   }
 , {
     "emoji": "🧄"
@@ -8777,8 +8732,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "12.0"
-  , "ios_version": "13.0"
+  , "unicode version": "12.0"
+  , "ios version": "13.0"
   }
 , {
     "emoji": "🧅"
@@ -8789,8 +8744,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "12.0"
-  , "ios_version": "13.0"
+  , "unicode version": "12.0"
+  , "ios version": "13.0"
   }
 , {
     "emoji": "🍄"
@@ -8801,8 +8756,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🥜"
@@ -8813,8 +8768,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "9.0"
-  , "ios_version": "10.2"
+  , "unicode version": "9.0"
+  , "ios version": "10.2"
   }
 , {
     "emoji": "🌰"
@@ -8825,8 +8780,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🍞"
@@ -8838,8 +8793,8 @@ let db = [
   , "tags": [
       "toast"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🥐"
@@ -8850,20 +8805,20 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "9.0"
-  , "ios_version": "10.2"
+  , "unicode version": "9.0"
+  , "ios version": "10.2"
   }
 , {
     "emoji": "🥖"
   , "description": "baguette bread"
   , "category": "Food & Drink"
   , "aliases": [
-      "baguette_bread"
+      "baguette bread"
     ]
   , "tags": [
     ]
-  , "unicode_version": "9.0"
-  , "ios_version": "10.2"
+  , "unicode version": "9.0"
+  , "ios version": "10.2"
   }
 , {
     "emoji": "🫓"
@@ -8874,8 +8829,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "13.0"
-  , "ios_version": "14.0"
+  , "unicode version": "13.0"
+  , "ios version": "14.0"
   }
 , {
     "emoji": "🥨"
@@ -8886,8 +8841,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
   }
 , {
     "emoji": "🥯"
@@ -8898,8 +8853,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
   }
 , {
     "emoji": "🥞"
@@ -8910,8 +8865,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "9.0"
-  , "ios_version": "10.2"
+  , "unicode version": "9.0"
+  , "ios version": "10.2"
   }
 , {
     "emoji": "🧇"
@@ -8922,8 +8877,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "12.0"
-  , "ios_version": "13.0"
+  , "unicode version": "12.0"
+  , "ios version": "13.0"
   }
 , {
     "emoji": "🧀"
@@ -8934,46 +8889,46 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "8.0"
-  , "ios_version": "9.1"
+  , "unicode version": "8.0"
+  , "ios version": "9.1"
   }
 , {
     "emoji": "🍖"
   , "description": "meat on bone"
   , "category": "Food & Drink"
   , "aliases": [
-      "meat_on_bone"
+      "meat on bone"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🍗"
   , "description": "poultry leg"
   , "category": "Food & Drink"
   , "aliases": [
-      "poultry_leg"
+      "poultry leg"
     ]
   , "tags": [
       "meat"
     , "chicken"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🥩"
   , "description": "cut of meat"
   , "category": "Food & Drink"
   , "aliases": [
-      "cut_of_meat"
+      "cut of meat"
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
   }
 , {
     "emoji": "🥓"
@@ -8984,8 +8939,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "9.0"
-  , "ios_version": "10.2"
+  , "unicode version": "9.0"
+  , "ios version": "10.2"
   }
 , {
     "emoji": "🍔"
@@ -8997,8 +8952,8 @@ let db = [
   , "tags": [
       "burger"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🍟"
@@ -9009,8 +8964,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🍕"
@@ -9021,8 +8976,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🌭"
@@ -9033,8 +8988,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "8.0"
-  , "ios_version": "9.1"
+  , "unicode version": "8.0"
+  , "ios version": "9.1"
   }
 , {
     "emoji": "🥪"
@@ -9045,8 +9000,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
   }
 , {
     "emoji": "🌮"
@@ -9057,8 +9012,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "8.0"
-  , "ios_version": "9.1"
+  , "unicode version": "8.0"
+  , "ios version": "9.1"
   }
 , {
     "emoji": "🌯"
@@ -9069,8 +9024,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "8.0"
-  , "ios_version": "9.1"
+  , "unicode version": "8.0"
+  , "ios version": "9.1"
   }
 , {
     "emoji": "🫔"
@@ -9081,20 +9036,20 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "13.0"
-  , "ios_version": "14.0"
+  , "unicode version": "13.0"
+  , "ios version": "14.0"
   }
 , {
     "emoji": "🥙"
   , "description": "stuffed flatbread"
   , "category": "Food & Drink"
   , "aliases": [
-      "stuffed_flatbread"
+      "stuffed flatbread"
     ]
   , "tags": [
     ]
-  , "unicode_version": "9.0"
-  , "ios_version": "10.2"
+  , "unicode version": "9.0"
+  , "ios version": "10.2"
   }
 , {
     "emoji": "🧆"
@@ -9105,8 +9060,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "12.0"
-  , "ios_version": "13.0"
+  , "unicode version": "12.0"
+  , "ios version": "13.0"
   }
 , {
     "emoji": "🥚"
@@ -9117,35 +9072,35 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "9.0"
-  , "ios_version": "10.2"
+  , "unicode version": "9.0"
+  , "ios version": "10.2"
   }
 , {
     "emoji": "🍳"
   , "description": "cooking"
   , "category": "Food & Drink"
   , "aliases": [
-      "fried_egg"
+      "fried egg"
     ]
   , "tags": [
       "breakfast"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🥘"
   , "description": "shallow pan of food"
   , "category": "Food & Drink"
   , "aliases": [
-      "shallow_pan_of_food"
+      "shallow pan of food"
     ]
   , "tags": [
       "paella"
     , "curry"
     ]
-  , "unicode_version": ""
-  , "ios_version": "10.2"
+  , "unicode version": ""
+  , "ios version": "10.2"
   }
 , {
     "emoji": "🍲"
@@ -9156,8 +9111,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🫕"
@@ -9168,32 +9123,32 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "13.0"
-  , "ios_version": "14.0"
+  , "unicode version": "13.0"
+  , "ios version": "14.0"
   }
 , {
     "emoji": "🥣"
   , "description": "bowl with spoon"
   , "category": "Food & Drink"
   , "aliases": [
-      "bowl_with_spoon"
+      "bowl with spoon"
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
   }
 , {
     "emoji": "🥗"
   , "description": "green salad"
   , "category": "Food & Drink"
   , "aliases": [
-      "green_salad"
+      "green salad"
     ]
   , "tags": [
     ]
-  , "unicode_version": "9.0"
-  , "ios_version": "10.2"
+  , "unicode version": "9.0"
+  , "ios version": "10.2"
   }
 , {
     "emoji": "🍿"
@@ -9204,8 +9159,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "8.0"
-  , "ios_version": "9.1"
+  , "unicode version": "8.0"
+  , "ios version": "9.1"
   }
 , {
     "emoji": "🧈"
@@ -9216,8 +9171,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "12.0"
-  , "ios_version": "13.0"
+  , "unicode version": "12.0"
+  , "ios version": "13.0"
   }
 , {
     "emoji": "🧂"
@@ -9228,20 +9183,20 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
   }
 , {
     "emoji": "🥫"
   , "description": "canned food"
   , "category": "Food & Drink"
   , "aliases": [
-      "canned_food"
+      "canned food"
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
   }
 , {
     "emoji": "🍱"
@@ -9252,32 +9207,32 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🍘"
   , "description": "rice cracker"
   , "category": "Food & Drink"
   , "aliases": [
-      "rice_cracker"
+      "rice cracker"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🍙"
   , "description": "rice ball"
   , "category": "Food & Drink"
   , "aliases": [
-      "rice_ball"
+      "rice ball"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🍚"
@@ -9288,8 +9243,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🍛"
@@ -9300,8 +9255,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🍜"
@@ -9313,8 +9268,8 @@ let db = [
   , "tags": [
       "noodle"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🍝"
@@ -9326,20 +9281,20 @@ let db = [
   , "tags": [
       "pasta"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🍠"
   , "description": "roasted sweet potato"
   , "category": "Food & Drink"
   , "aliases": [
-      "sweet_potato"
+      "sweet potato"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🍢"
@@ -9350,8 +9305,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🍣"
@@ -9362,45 +9317,45 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🍤"
   , "description": "fried shrimp"
   , "category": "Food & Drink"
   , "aliases": [
-      "fried_shrimp"
+      "fried shrimp"
     ]
   , "tags": [
       "tempura"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🍥"
   , "description": "fish cake with swirl"
   , "category": "Food & Drink"
   , "aliases": [
-      "fish_cake"
+      "fish cake"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🥮"
   , "description": "moon cake"
   , "category": "Food & Drink"
   , "aliases": [
-      "moon_cake"
+      "moon cake"
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
   }
 , {
     "emoji": "🍡"
@@ -9411,8 +9366,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🥟"
@@ -9423,32 +9378,32 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
   }
 , {
     "emoji": "🥠"
   , "description": "fortune cookie"
   , "category": "Food & Drink"
   , "aliases": [
-      "fortune_cookie"
+      "fortune cookie"
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
   }
 , {
     "emoji": "🥡"
   , "description": "takeout box"
   , "category": "Food & Drink"
   , "aliases": [
-      "takeout_box"
+      "takeout box"
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
   }
 , {
     "emoji": "🦀"
@@ -9459,8 +9414,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "8.0"
-  , "ios_version": "9.1"
+  , "unicode version": "8.0"
+  , "ios version": "9.1"
   }
 , {
     "emoji": "🦞"
@@ -9471,8 +9426,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
   }
 , {
     "emoji": "🦐"
@@ -9483,8 +9438,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "9.0"
-  , "ios_version": "10.2"
+  , "unicode version": "9.0"
+  , "ios version": "10.2"
   }
 , {
     "emoji": "🦑"
@@ -9495,8 +9450,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "9.0"
-  , "ios_version": "10.2"
+  , "unicode version": "9.0"
+  , "ios version": "10.2"
   }
 , {
     "emoji": "🦪"
@@ -9507,8 +9462,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "12.0"
-  , "ios_version": "13.0"
+  , "unicode version": "12.0"
+  , "ios version": "13.0"
   }
 , {
     "emoji": "🍦"
@@ -9519,32 +9474,32 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🍧"
   , "description": "shaved ice"
   , "category": "Food & Drink"
   , "aliases": [
-      "shaved_ice"
+      "shaved ice"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🍨"
   , "description": "ice cream"
   , "category": "Food & Drink"
   , "aliases": [
-      "ice_cream"
+      "ice cream"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🍩"
@@ -9555,8 +9510,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🍪"
@@ -9567,8 +9522,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🎂"
@@ -9580,8 +9535,8 @@ let db = [
   , "tags": [
       "party"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🍰"
@@ -9593,8 +9548,8 @@ let db = [
   , "tags": [
       "dessert"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🧁"
@@ -9605,8 +9560,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
   }
 , {
     "emoji": "🥧"
@@ -9617,20 +9572,20 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
   }
 , {
     "emoji": "🍫"
   , "description": "chocolate bar"
   , "category": "Food & Drink"
   , "aliases": [
-      "chocolate_bar"
+      "chocolate bar"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🍬"
@@ -9642,8 +9597,8 @@ let db = [
   , "tags": [
       "sweet"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🍭"
@@ -9654,8 +9609,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🍮"
@@ -9666,45 +9621,45 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🍯"
   , "description": "honey pot"
   , "category": "Food & Drink"
   , "aliases": [
-      "honey_pot"
+      "honey pot"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🍼"
   , "description": "baby bottle"
   , "category": "Food & Drink"
   , "aliases": [
-      "baby_bottle"
+      "baby bottle"
     ]
   , "tags": [
       "milk"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🥛"
   , "description": "glass of milk"
   , "category": "Food & Drink"
   , "aliases": [
-      "milk_glass"
+      "milk glass"
     ]
   , "tags": [
     ]
-  , "unicode_version": "9.0"
-  , "ios_version": "10.2"
+  , "unicode version": "9.0"
+  , "ios version": "10.2"
   }
 , {
     "emoji": "☕"
@@ -9717,8 +9672,8 @@ let db = [
       "cafe"
     , "espresso"
     ]
-  , "unicode_version": "4.0"
-  , "ios_version": "6.0"
+  , "unicode version": "4.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🫖"
@@ -9729,8 +9684,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "13.0"
-  , "ios_version": "14.0"
+  , "unicode version": "13.0"
+  , "ios version": "14.0"
   }
 , {
     "emoji": "🍵"
@@ -9743,8 +9698,8 @@ let db = [
       "green"
     , "breakfast"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🍶"
@@ -9755,8 +9710,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🍾"
@@ -9770,20 +9725,20 @@ let db = [
     , "bubbly"
     , "celebration"
     ]
-  , "unicode_version": "8.0"
-  , "ios_version": "9.1"
+  , "unicode version": "8.0"
+  , "ios version": "9.1"
   }
 , {
     "emoji": "🍷"
   , "description": "wine glass"
   , "category": "Food & Drink"
   , "aliases": [
-      "wine_glass"
+      "wine glass"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🍸"
@@ -9795,22 +9750,22 @@ let db = [
   , "tags": [
       "drink"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🍹"
   , "description": "tropical drink"
   , "category": "Food & Drink"
   , "aliases": [
-      "tropical_drink"
+      "tropical drink"
     ]
   , "tags": [
       "summer"
     , "vacation"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🍺"
@@ -9822,8 +9777,8 @@ let db = [
   , "tags": [
       "drink"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🍻"
@@ -9835,71 +9790,71 @@ let db = [
   , "tags": [
       "drinks"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🥂"
   , "description": "clinking glasses"
   , "category": "Food & Drink"
   , "aliases": [
-      "clinking_glasses"
+      "clinking glasses"
     ]
   , "tags": [
       "cheers"
     , "toast"
     ]
-  , "unicode_version": "9.0"
-  , "ios_version": "10.2"
+  , "unicode version": "9.0"
+  , "ios version": "10.2"
   }
 , {
     "emoji": "🥃"
   , "description": "tumbler glass"
   , "category": "Food & Drink"
   , "aliases": [
-      "tumbler_glass"
+      "tumbler glass"
     ]
   , "tags": [
       "whisky"
     ]
-  , "unicode_version": "9.0"
-  , "ios_version": "10.2"
+  , "unicode version": "9.0"
+  , "ios version": "10.2"
   }
 , {
     "emoji": "🥤"
   , "description": "cup with straw"
   , "category": "Food & Drink"
   , "aliases": [
-      "cup_with_straw"
+      "cup with straw"
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
   }
 , {
     "emoji": "🧋"
   , "description": "bubble tea"
   , "category": "Food & Drink"
   , "aliases": [
-      "bubble_tea"
+      "bubble tea"
     ]
   , "tags": [
     ]
-  , "unicode_version": "13.0"
-  , "ios_version": "14.0"
+  , "unicode version": "13.0"
+  , "ios version": "14.0"
   }
 , {
     "emoji": "🧃"
   , "description": "beverage box"
   , "category": "Food & Drink"
   , "aliases": [
-      "beverage_box"
+      "beverage box"
     ]
   , "tags": [
     ]
-  , "unicode_version": "12.0"
-  , "ios_version": "13.0"
+  , "unicode version": "12.0"
+  , "ios version": "13.0"
   }
 , {
     "emoji": "🧉"
@@ -9910,20 +9865,20 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "12.0"
-  , "ios_version": "13.0"
+  , "unicode version": "12.0"
+  , "ios version": "13.0"
   }
 , {
     "emoji": "🧊"
   , "description": "ice"
   , "category": "Food & Drink"
   , "aliases": [
-      "ice_cube"
+      "ice cube"
     ]
   , "tags": [
     ]
-  , "unicode_version": "12.0"
-  , "ios_version": "13.0"
+  , "unicode version": "12.0"
+  , "ios version": "13.0"
   }
 , {
     "emoji": "🥢"
@@ -9934,35 +9889,35 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
   }
 , {
     "emoji": "🍽️"
   , "description": "fork and knife with plate"
   , "category": "Food & Drink"
   , "aliases": [
-      "plate_with_cutlery"
+      "plate with cutlery"
     ]
   , "tags": [
       "dining"
     , "dinner"
     ]
-  , "unicode_version": "7.0"
-  , "ios_version": "9.1"
+  , "unicode version": "7.0"
+  , "ios version": "9.1"
   }
 , {
     "emoji": "🍴"
   , "description": "fork and knife"
   , "category": "Food & Drink"
   , "aliases": [
-      "fork_and_knife"
+      "fork and knife"
     ]
   , "tags": [
       "cutlery"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🥄"
@@ -9973,8 +9928,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "9.0"
-  , "ios_version": "10.2"
+  , "unicode version": "9.0"
+  , "ios version": "10.2"
   }
 , {
     "emoji": "🔪"
@@ -9988,8 +9943,8 @@ let db = [
       "cut"
     , "chop"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🏺"
@@ -10000,81 +9955,81 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "8.0"
-  , "ios_version": "9.1"
+  , "unicode version": "8.0"
+  , "ios version": "9.1"
   }
 , {
     "emoji": "🌍"
   , "description": "globe showing Europe-Africa"
   , "category": "Travel & Places"
   , "aliases": [
-      "earth_africa"
+      "earth africa"
     ]
   , "tags": [
       "globe"
     , "world"
     , "international"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🌎"
   , "description": "globe showing Americas"
   , "category": "Travel & Places"
   , "aliases": [
-      "earth_americas"
+      "earth americas"
     ]
   , "tags": [
       "globe"
     , "world"
     , "international"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🌏"
   , "description": "globe showing Asia-Australia"
   , "category": "Travel & Places"
   , "aliases": [
-      "earth_asia"
+      "earth asia"
     ]
   , "tags": [
       "globe"
     , "world"
     , "international"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🌐"
   , "description": "globe with meridians"
   , "category": "Travel & Places"
   , "aliases": [
-      "globe_with_meridians"
+      "globe with meridians"
     ]
   , "tags": [
       "world"
     , "global"
     , "international"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🗺️"
   , "description": "world map"
   , "category": "Travel & Places"
   , "aliases": [
-      "world_map"
+      "world map"
     ]
   , "tags": [
       "travel"
     ]
-  , "unicode_version": "7.0"
-  , "ios_version": "9.1"
+  , "unicode version": "7.0"
+  , "ios version": "9.1"
   }
 , {
     "emoji": "🗾"
@@ -10085,8 +10040,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🧭"
@@ -10097,20 +10052,20 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
   }
 , {
     "emoji": "🏔️"
   , "description": "snow-capped mountain"
   , "category": "Travel & Places"
   , "aliases": [
-      "mountain_snow"
+      "mountain snow"
     ]
   , "tags": [
     ]
-  , "unicode_version": "7.0"
-  , "ios_version": "9.1"
+  , "unicode version": "7.0"
+  , "ios version": "9.1"
   }
 , {
     "emoji": "⛰️"
@@ -10121,8 +10076,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "5.2"
-  , "ios_version": "9.1"
+  , "unicode version": "5.2"
+  , "ios version": "9.1"
   }
 , {
     "emoji": "🌋"
@@ -10133,20 +10088,20 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🗻"
   , "description": "mount fuji"
   , "category": "Travel & Places"
   , "aliases": [
-      "mount_fuji"
+      "mount fuji"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🏕️"
@@ -10157,20 +10112,20 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "7.0"
-  , "ios_version": "9.1"
+  , "unicode version": "7.0"
+  , "ios version": "9.1"
   }
 , {
     "emoji": "🏖️"
   , "description": "beach with umbrella"
   , "category": "Travel & Places"
   , "aliases": [
-      "beach_umbrella"
+      "beach umbrella"
     ]
   , "tags": [
     ]
-  , "unicode_version": "7.0"
-  , "ios_version": "9.1"
+  , "unicode version": "7.0"
+  , "ios version": "9.1"
   }
 , {
     "emoji": "🏜️"
@@ -10181,32 +10136,32 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "7.0"
-  , "ios_version": "9.1"
+  , "unicode version": "7.0"
+  , "ios version": "9.1"
   }
 , {
     "emoji": "🏝️"
   , "description": "desert island"
   , "category": "Travel & Places"
   , "aliases": [
-      "desert_island"
+      "desert island"
     ]
   , "tags": [
     ]
-  , "unicode_version": "7.0"
-  , "ios_version": "9.1"
+  , "unicode version": "7.0"
+  , "ios version": "9.1"
   }
 , {
     "emoji": "🏞️"
   , "description": "national park"
   , "category": "Travel & Places"
   , "aliases": [
-      "national_park"
+      "national park"
     ]
   , "tags": [
     ]
-  , "unicode_version": "7.0"
-  , "ios_version": "9.1"
+  , "unicode version": "7.0"
+  , "ios version": "9.1"
   }
 , {
     "emoji": "🏟️"
@@ -10217,32 +10172,32 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "7.0"
-  , "ios_version": "9.1"
+  , "unicode version": "7.0"
+  , "ios version": "9.1"
   }
 , {
     "emoji": "🏛️"
   , "description": "classical building"
   , "category": "Travel & Places"
   , "aliases": [
-      "classical_building"
+      "classical building"
     ]
   , "tags": [
     ]
-  , "unicode_version": "7.0"
-  , "ios_version": "9.1"
+  , "unicode version": "7.0"
+  , "ios version": "9.1"
   }
 , {
     "emoji": "🏗️"
   , "description": "building construction"
   , "category": "Travel & Places"
   , "aliases": [
-      "building_construction"
+      "building construction"
     ]
   , "tags": [
     ]
-  , "unicode_version": "7.0"
-  , "ios_version": "9.1"
+  , "unicode version": "7.0"
+  , "ios version": "9.1"
   }
 , {
     "emoji": "🧱"
@@ -10253,8 +10208,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
   }
 , {
     "emoji": "🪨"
@@ -10265,20 +10220,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "13.0"
-  , "ios_version": "14.0"
-  }
-, {
-    "emoji": "🪵"
-  , "description": "wood"
-  , "category": "Travel & Places"
-  , "aliases": [
-      "wood"
-    ]
-  , "tags": [
-    ]
-  , "unicode_version": "13.0"
-  , "ios_version": "14.0"
+  , "unicode version": "13.0"
+  , "ios version": "14.0"
   }
 , {
     "emoji": "🛖"
@@ -10289,8 +10232,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "13.0"
-  , "ios_version": "14.0"
+  , "unicode version": "13.0"
+  , "ios version": "14.0"
   }
 , {
     "emoji": "🏘️"
@@ -10301,20 +10244,20 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "7.0"
-  , "ios_version": "9.1"
+  , "unicode version": "7.0"
+  , "ios version": "9.1"
   }
 , {
     "emoji": "🏚️"
   , "description": "derelict house"
   , "category": "Travel & Places"
   , "aliases": [
-      "derelict_house"
+      "derelict house"
     ]
   , "tags": [
     ]
-  , "unicode_version": "7.0"
-  , "ios_version": "9.1"
+  , "unicode version": "7.0"
+  , "ios version": "9.1"
   }
 , {
     "emoji": "🏠"
@@ -10325,20 +10268,20 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🏡"
   , "description": "house with garden"
   , "category": "Travel & Places"
   , "aliases": [
-      "house_with_garden"
+      "house with garden"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🏢"
@@ -10349,32 +10292,32 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🏣"
   , "description": "Japanese post office"
   , "category": "Travel & Places"
   , "aliases": [
-      "post_office"
+      "post office"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🏤"
   , "description": "post office"
   , "category": "Travel & Places"
   , "aliases": [
-      "european_post_office"
+      "european post office"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🏥"
@@ -10385,8 +10328,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🏦"
@@ -10397,8 +10340,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🏨"
@@ -10409,32 +10352,32 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🏩"
   , "description": "love hotel"
   , "category": "Travel & Places"
   , "aliases": [
-      "love_hotel"
+      "love hotel"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🏪"
   , "description": "convenience store"
   , "category": "Travel & Places"
   , "aliases": [
-      "convenience_store"
+      "convenience store"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🏫"
@@ -10445,20 +10388,20 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🏬"
   , "description": "department store"
   , "category": "Travel & Places"
   , "aliases": [
-      "department_store"
+      "department store"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🏭"
@@ -10469,32 +10412,32 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🏯"
   , "description": "Japanese castle"
   , "category": "Travel & Places"
   , "aliases": [
-      "japanese_castle"
+      "japanese castle"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🏰"
   , "description": "castle"
   , "category": "Travel & Places"
   , "aliases": [
-      "european_castle"
+      "european castle"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "💒"
@@ -10506,32 +10449,32 @@ let db = [
   , "tags": [
       "marriage"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🗼"
   , "description": "Tokyo tower"
   , "category": "Travel & Places"
   , "aliases": [
-      "tokyo_tower"
+      "tokyo tower"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🗽"
   , "description": "Statue of Liberty"
   , "category": "Travel & Places"
   , "aliases": [
-      "statue_of_liberty"
+      "statue of liberty"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "⛪"
@@ -10542,8 +10485,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "5.2"
-  , "ios_version": "6.0"
+  , "unicode version": "5.2"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🕌"
@@ -10554,20 +10497,20 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "8.0"
-  , "ios_version": "9.1"
+  , "unicode version": "8.0"
+  , "ios version": "9.1"
   }
 , {
     "emoji": "🛕"
   , "description": "hindu temple"
   , "category": "Travel & Places"
   , "aliases": [
-      "hindu_temple"
+      "hindu temple"
     ]
   , "tags": [
     ]
-  , "unicode_version": "12.0"
-  , "ios_version": "13.0"
+  , "unicode version": "12.0"
+  , "ios version": "13.0"
   }
 , {
     "emoji": "🕍"
@@ -10578,20 +10521,20 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "8.0"
-  , "ios_version": "9.1"
+  , "unicode version": "8.0"
+  , "ios version": "9.1"
   }
 , {
     "emoji": "⛩️"
   , "description": "shinto shrine"
   , "category": "Travel & Places"
   , "aliases": [
-      "shinto_shrine"
+      "shinto shrine"
     ]
   , "tags": [
     ]
-  , "unicode_version": "5.2"
-  , "ios_version": "9.1"
+  , "unicode version": "5.2"
+  , "ios version": "9.1"
   }
 , {
     "emoji": "🕋"
@@ -10602,8 +10545,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "8.0"
-  , "ios_version": "9.1"
+  , "unicode version": "8.0"
+  , "ios version": "9.1"
   }
 , {
     "emoji": "⛲"
@@ -10614,8 +10557,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "5.2"
-  , "ios_version": "6.0"
+  , "unicode version": "5.2"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "⛺"
@@ -10627,8 +10570,8 @@ let db = [
   , "tags": [
       "camping"
     ]
-  , "unicode_version": "5.2"
-  , "ios_version": "6.0"
+  , "unicode version": "5.2"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🌁"
@@ -10640,20 +10583,20 @@ let db = [
   , "tags": [
       "karl"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🌃"
   , "description": "night with stars"
   , "category": "Travel & Places"
   , "aliases": [
-      "night_with_stars"
+      "night with stars"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🏙️"
@@ -10665,20 +10608,20 @@ let db = [
   , "tags": [
       "skyline"
     ]
-  , "unicode_version": "7.0"
-  , "ios_version": "9.1"
+  , "unicode version": "7.0"
+  , "ios version": "9.1"
   }
 , {
     "emoji": "🌄"
   , "description": "sunrise over mountains"
   , "category": "Travel & Places"
   , "aliases": [
-      "sunrise_over_mountains"
+      "sunrise over mountains"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🌅"
@@ -10689,44 +10632,44 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🌆"
   , "description": "cityscape at dusk"
   , "category": "Travel & Places"
   , "aliases": [
-      "city_sunset"
+      "city sunset"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🌇"
   , "description": "sunset"
   , "category": "Travel & Places"
   , "aliases": [
-      "city_sunrise"
+      "city sunrise"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🌉"
   , "description": "bridge at night"
   , "category": "Travel & Places"
   , "aliases": [
-      "bridge_at_night"
+      "bridge at night"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "♨️"
@@ -10737,44 +10680,44 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": ""
-  , "ios_version": "6.0"
+  , "unicode version": ""
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🎠"
   , "description": "carousel horse"
   , "category": "Travel & Places"
   , "aliases": [
-      "carousel_horse"
+      "carousel horse"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🎡"
   , "description": "ferris wheel"
   , "category": "Travel & Places"
   , "aliases": [
-      "ferris_wheel"
+      "ferris wheel"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🎢"
   , "description": "roller coaster"
   , "category": "Travel & Places"
   , "aliases": [
-      "roller_coaster"
+      "roller coaster"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "💈"
@@ -10785,71 +10728,71 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🎪"
   , "description": "circus tent"
   , "category": "Travel & Places"
   , "aliases": [
-      "circus_tent"
+      "circus tent"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🚂"
   , "description": "locomotive"
   , "category": "Travel & Places"
   , "aliases": [
-      "steam_locomotive"
+      "steam locomotive"
     ]
   , "tags": [
       "train"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🚃"
   , "description": "railway car"
   , "category": "Travel & Places"
   , "aliases": [
-      "railway_car"
+      "railway car"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🚄"
   , "description": "high-speed train"
   , "category": "Travel & Places"
   , "aliases": [
-      "bullettrain_side"
+      "bullettrain side"
     ]
   , "tags": [
       "train"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🚅"
   , "description": "bullet train"
   , "category": "Travel & Places"
   , "aliases": [
-      "bullettrain_front"
+      "bullettrain front"
     ]
   , "tags": [
       "train"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🚆"
@@ -10860,8 +10803,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🚇"
@@ -10872,20 +10815,20 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🚈"
   , "description": "light rail"
   , "category": "Travel & Places"
   , "aliases": [
-      "light_rail"
+      "light rail"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🚉"
@@ -10896,8 +10839,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🚊"
@@ -10908,8 +10851,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🚝"
@@ -10920,20 +10863,20 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🚞"
   , "description": "mountain railway"
   , "category": "Travel & Places"
   , "aliases": [
-      "mountain_railway"
+      "mountain railway"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🚋"
@@ -10944,8 +10887,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🚌"
@@ -10956,20 +10899,20 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🚍"
   , "description": "oncoming bus"
   , "category": "Travel & Places"
   , "aliases": [
-      "oncoming_bus"
+      "oncoming bus"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🚎"
@@ -10980,8 +10923,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🚐"
@@ -10992,8 +10935,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🚑"
@@ -11004,44 +10947,44 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🚒"
   , "description": "fire engine"
   , "category": "Travel & Places"
   , "aliases": [
-      "fire_engine"
+      "fire engine"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🚓"
   , "description": "police car"
   , "category": "Travel & Places"
   , "aliases": [
-      "police_car"
+      "police car"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🚔"
   , "description": "oncoming police car"
   , "category": "Travel & Places"
   , "aliases": [
-      "oncoming_police_car"
+      "oncoming police car"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🚕"
@@ -11052,20 +10995,20 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🚖"
   , "description": "oncoming taxi"
   , "category": "Travel & Places"
   , "aliases": [
-      "oncoming_taxi"
+      "oncoming taxi"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🚗"
@@ -11073,48 +11016,48 @@ let db = [
   , "category": "Travel & Places"
   , "aliases": [
       "car"
-    , "red_car"
+    , "red car"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🚘"
   , "description": "oncoming automobile"
   , "category": "Travel & Places"
   , "aliases": [
-      "oncoming_automobile"
+      "oncoming automobile"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🚙"
   , "description": "sport utility vehicle"
   , "category": "Travel & Places"
   , "aliases": [
-      "blue_car"
+      "blue car"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🛻"
   , "description": "pickup truck"
   , "category": "Travel & Places"
   , "aliases": [
-      "pickup_truck"
+      "pickup truck"
     ]
   , "tags": [
     ]
-  , "unicode_version": "13.0"
-  , "ios_version": "14.0"
+  , "unicode version": "13.0"
+  , "ios version": "14.0"
   }
 , {
     "emoji": "🚚"
@@ -11125,20 +11068,20 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🚛"
   , "description": "articulated lorry"
   , "category": "Travel & Places"
   , "aliases": [
-      "articulated_lorry"
+      "articulated lorry"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🚜"
@@ -11149,20 +11092,20 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🏎️"
   , "description": "racing car"
   , "category": "Travel & Places"
   , "aliases": [
-      "racing_car"
+      "racing car"
     ]
   , "tags": [
     ]
-  , "unicode_version": "7.0"
-  , "ios_version": "9.1"
+  , "unicode version": "7.0"
+  , "ios version": "9.1"
   }
 , {
     "emoji": "🏍️"
@@ -11173,56 +11116,56 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "7.0"
-  , "ios_version": "9.1"
+  , "unicode version": "7.0"
+  , "ios version": "9.1"
   }
 , {
     "emoji": "🛵"
   , "description": "motor scooter"
   , "category": "Travel & Places"
   , "aliases": [
-      "motor_scooter"
+      "motor scooter"
     ]
   , "tags": [
     ]
-  , "unicode_version": "9.0"
-  , "ios_version": "10.2"
+  , "unicode version": "9.0"
+  , "ios version": "10.2"
   }
 , {
     "emoji": "🦽"
   , "description": "manual wheelchair"
   , "category": "Travel & Places"
   , "aliases": [
-      "manual_wheelchair"
+      "manual wheelchair"
     ]
   , "tags": [
     ]
-  , "unicode_version": "12.0"
-  , "ios_version": "13.0"
+  , "unicode version": "12.0"
+  , "ios version": "13.0"
   }
 , {
     "emoji": "🦼"
   , "description": "motorized wheelchair"
   , "category": "Travel & Places"
   , "aliases": [
-      "motorized_wheelchair"
+      "motorized wheelchair"
     ]
   , "tags": [
     ]
-  , "unicode_version": "12.0"
-  , "ios_version": "13.0"
+  , "unicode version": "12.0"
+  , "ios version": "13.0"
   }
 , {
     "emoji": "🛺"
   , "description": "auto rickshaw"
   , "category": "Travel & Places"
   , "aliases": [
-      "auto_rickshaw"
+      "auto rickshaw"
     ]
   , "tags": [
     ]
-  , "unicode_version": "12.0"
-  , "ios_version": "13.0"
+  , "unicode version": "12.0"
+  , "ios version": "13.0"
   }
 , {
     "emoji": "🚲"
@@ -11234,20 +11177,20 @@ let db = [
   , "tags": [
       "bicycle"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🛴"
   , "description": "kick scooter"
   , "category": "Travel & Places"
   , "aliases": [
-      "kick_scooter"
+      "kick scooter"
     ]
   , "tags": [
     ]
-  , "unicode_version": "9.0"
-  , "ios_version": "10.2"
+  , "unicode version": "9.0"
+  , "ios version": "10.2"
   }
 , {
     "emoji": "🛹"
@@ -11258,20 +11201,20 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
   }
 , {
     "emoji": "🛼"
   , "description": "roller skate"
   , "category": "Travel & Places"
   , "aliases": [
-      "roller_skate"
+      "roller skate"
     ]
   , "tags": [
     ]
-  , "unicode_version": "13.0"
-  , "ios_version": "14.0"
+  , "unicode version": "13.0"
+  , "ios version": "14.0"
   }
 , {
     "emoji": "🚏"
@@ -11282,8 +11225,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🛣️"
@@ -11294,32 +11237,32 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "7.0"
-  , "ios_version": "9.1"
+  , "unicode version": "7.0"
+  , "ios version": "9.1"
   }
 , {
     "emoji": "🛤️"
   , "description": "railway track"
   , "category": "Travel & Places"
   , "aliases": [
-      "railway_track"
+      "railway track"
     ]
   , "tags": [
     ]
-  , "unicode_version": "7.0"
-  , "ios_version": "9.1"
+  , "unicode version": "7.0"
+  , "ios version": "9.1"
   }
 , {
     "emoji": "🛢️"
   , "description": "oil drum"
   , "category": "Travel & Places"
   , "aliases": [
-      "oil_drum"
+      "oil drum"
     ]
   , "tags": [
     ]
-  , "unicode_version": "7.0"
-  , "ios_version": "9.1"
+  , "unicode version": "7.0"
+  , "ios version": "9.1"
   }
 , {
     "emoji": "⛽"
@@ -11330,59 +11273,59 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "5.2"
-  , "ios_version": "6.0"
+  , "unicode version": "5.2"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🚨"
   , "description": "police car light"
   , "category": "Travel & Places"
   , "aliases": [
-      "rotating_light"
+      "rotating light"
     ]
   , "tags": [
       "911"
     , "emergency"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🚥"
   , "description": "horizontal traffic light"
   , "category": "Travel & Places"
   , "aliases": [
-      "traffic_light"
+      "traffic light"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🚦"
   , "description": "vertical traffic light"
   , "category": "Travel & Places"
   , "aliases": [
-      "vertical_traffic_light"
+      "vertical traffic light"
     ]
   , "tags": [
       "semaphore"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🛑"
   , "description": "stop sign"
   , "category": "Travel & Places"
   , "aliases": [
-      "stop_sign"
+      "stop sign"
     ]
   , "tags": [
     ]
-  , "unicode_version": "9.0"
-  , "ios_version": "10.2"
+  , "unicode version": "9.0"
+  , "ios version": "10.2"
   }
 , {
     "emoji": "🚧"
@@ -11394,8 +11337,8 @@ let db = [
   , "tags": [
       "wip"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "⚓"
@@ -11407,8 +11350,8 @@ let db = [
   , "tags": [
       "ship"
     ]
-  , "unicode_version": "4.1"
-  , "ios_version": "6.0"
+  , "unicode version": "4.1"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "⛵"
@@ -11420,8 +11363,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "5.2"
-  , "ios_version": "6.0"
+  , "unicode version": "5.2"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🛶"
@@ -11432,8 +11375,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "9.0"
-  , "ios_version": "10.2"
+  , "unicode version": "9.0"
+  , "ios version": "10.2"
   }
 , {
     "emoji": "🚤"
@@ -11445,21 +11388,21 @@ let db = [
   , "tags": [
       "ship"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🛳️"
   , "description": "passenger ship"
   , "category": "Travel & Places"
   , "aliases": [
-      "passenger_ship"
+      "passenger ship"
     ]
   , "tags": [
       "cruise"
     ]
-  , "unicode_version": "7.0"
-  , "ios_version": "9.1"
+  , "unicode version": "7.0"
+  , "ios version": "9.1"
   }
 , {
     "emoji": "⛴️"
@@ -11470,20 +11413,20 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "5.2"
-  , "ios_version": "9.1"
+  , "unicode version": "5.2"
+  , "ios version": "9.1"
   }
 , {
     "emoji": "🛥️"
   , "description": "motor boat"
   , "category": "Travel & Places"
   , "aliases": [
-      "motor_boat"
+      "motor boat"
     ]
   , "tags": [
     ]
-  , "unicode_version": "7.0"
-  , "ios_version": "9.1"
+  , "unicode version": "7.0"
+  , "ios version": "9.1"
   }
 , {
     "emoji": "🚢"
@@ -11494,8 +11437,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "✈️"
@@ -11507,45 +11450,45 @@ let db = [
   , "tags": [
       "flight"
     ]
-  , "unicode_version": ""
-  , "ios_version": "6.0"
+  , "unicode version": ""
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🛩️"
   , "description": "small airplane"
   , "category": "Travel & Places"
   , "aliases": [
-      "small_airplane"
+      "small airplane"
     ]
   , "tags": [
       "flight"
     ]
-  , "unicode_version": "7.0"
-  , "ios_version": "9.1"
+  , "unicode version": "7.0"
+  , "ios version": "9.1"
   }
 , {
     "emoji": "🛫"
   , "description": "airplane departure"
   , "category": "Travel & Places"
   , "aliases": [
-      "flight_departure"
+      "flight departure"
     ]
   , "tags": [
     ]
-  , "unicode_version": "7.0"
-  , "ios_version": "9.1"
+  , "unicode version": "7.0"
+  , "ios version": "9.1"
   }
 , {
     "emoji": "🛬"
   , "description": "airplane arrival"
   , "category": "Travel & Places"
   , "aliases": [
-      "flight_arrival"
+      "flight arrival"
     ]
   , "tags": [
     ]
-  , "unicode_version": "7.0"
-  , "ios_version": "9.1"
+  , "unicode version": "7.0"
+  , "ios version": "9.1"
   }
 , {
     "emoji": "🪂"
@@ -11556,8 +11499,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "12.0"
-  , "ios_version": "13.0"
+  , "unicode version": "12.0"
+  , "ios version": "13.0"
   }
 , {
     "emoji": "💺"
@@ -11568,8 +11511,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🚁"
@@ -11580,58 +11523,58 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🚟"
   , "description": "suspension railway"
   , "category": "Travel & Places"
   , "aliases": [
-      "suspension_railway"
+      "suspension railway"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🚠"
   , "description": "mountain cableway"
   , "category": "Travel & Places"
   , "aliases": [
-      "mountain_cableway"
+      "mountain cableway"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🚡"
   , "description": "aerial tramway"
   , "category": "Travel & Places"
   , "aliases": [
-      "aerial_tramway"
+      "aerial tramway"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🛰️"
   , "description": "satellite"
   , "category": "Travel & Places"
   , "aliases": [
-      "artificial_satellite"
+      "artificial satellite"
     ]
   , "tags": [
       "orbit"
     , "space"
     ]
-  , "unicode_version": "7.0"
-  , "ios_version": "9.1"
+  , "unicode version": "7.0"
+  , "ios version": "9.1"
   }
 , {
     "emoji": "🚀"
@@ -11644,33 +11587,33 @@ let db = [
       "ship"
     , "launch"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🛸"
   , "description": "flying saucer"
   , "category": "Travel & Places"
   , "aliases": [
-      "flying_saucer"
+      "flying saucer"
     ]
   , "tags": [
       "ufo"
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
   }
 , {
     "emoji": "🛎️"
   , "description": "bellhop bell"
   , "category": "Travel & Places"
   , "aliases": [
-      "bellhop_bell"
+      "bellhop bell"
     ]
   , "tags": [
     ]
-  , "unicode_version": "7.0"
-  , "ios_version": "9.1"
+  , "unicode version": "7.0"
+  , "ios version": "9.1"
   }
 , {
     "emoji": "🧳"
@@ -11681,8 +11624,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
   }
 , {
     "emoji": "⌛"
@@ -11694,21 +11637,21 @@ let db = [
   , "tags": [
       "time"
     ]
-  , "unicode_version": ""
-  , "ios_version": "6.0"
+  , "unicode version": ""
+  , "ios version": "6.0"
   }
 , {
     "emoji": "⏳"
   , "description": "hourglass not done"
   , "category": "Travel & Places"
   , "aliases": [
-      "hourglass_flowing_sand"
+      "hourglass flowing sand"
     ]
   , "tags": [
       "time"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "⌚"
@@ -11720,21 +11663,21 @@ let db = [
   , "tags": [
       "time"
     ]
-  , "unicode_version": ""
-  , "ios_version": "6.0"
+  , "unicode version": ""
+  , "ios version": "6.0"
   }
 , {
     "emoji": "⏰"
   , "description": "alarm clock"
   , "category": "Travel & Places"
   , "aliases": [
-      "alarm_clock"
+      "alarm clock"
     ]
   , "tags": [
       "morning"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "⏱️"
@@ -11745,32 +11688,32 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "9.1"
+  , "unicode version": "6.0"
+  , "ios version": "9.1"
   }
 , {
     "emoji": "⏲️"
   , "description": "timer clock"
   , "category": "Travel & Places"
   , "aliases": [
-      "timer_clock"
+      "timer clock"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "9.1"
+  , "unicode version": "6.0"
+  , "ios version": "9.1"
   }
 , {
     "emoji": "🕰️"
   , "description": "mantelpiece clock"
   , "category": "Travel & Places"
   , "aliases": [
-      "mantelpiece_clock"
+      "mantelpiece clock"
     ]
   , "tags": [
     ]
-  , "unicode_version": "7.0"
-  , "ios_version": "9.1"
+  , "unicode version": "7.0"
+  , "ios version": "9.1"
   }
 , {
     "emoji": "🕛"
@@ -11781,8 +11724,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🕧"
@@ -11793,8 +11736,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🕐"
@@ -11805,8 +11748,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🕜"
@@ -11817,8 +11760,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🕑"
@@ -11829,8 +11772,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🕝"
@@ -11841,8 +11784,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🕒"
@@ -11853,8 +11796,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🕞"
@@ -11865,8 +11808,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🕓"
@@ -11877,8 +11820,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🕟"
@@ -11889,8 +11832,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🕔"
@@ -11901,8 +11844,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🕠"
@@ -11913,8 +11856,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🕕"
@@ -11925,8 +11868,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🕡"
@@ -11937,8 +11880,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🕖"
@@ -11949,8 +11892,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🕢"
@@ -11961,8 +11904,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🕗"
@@ -11973,8 +11916,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🕣"
@@ -11985,8 +11928,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🕘"
@@ -11997,8 +11940,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🕤"
@@ -12009,8 +11952,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🕙"
@@ -12021,8 +11964,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🕥"
@@ -12033,8 +11976,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🕚"
@@ -12045,8 +11988,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🕦"
@@ -12057,44 +12000,44 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🌑"
   , "description": "new moon"
   , "category": "Travel & Places"
   , "aliases": [
-      "new_moon"
+      "new moon"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🌒"
   , "description": "waxing crescent moon"
   , "category": "Travel & Places"
   , "aliases": [
-      "waxing_crescent_moon"
+      "waxing crescent moon"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🌓"
   , "description": "first quarter moon"
   , "category": "Travel & Places"
   , "aliases": [
-      "first_quarter_moon"
+      "first quarter moon"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🌔"
@@ -12102,109 +12045,109 @@ let db = [
   , "category": "Travel & Places"
   , "aliases": [
       "moon"
-    , "waxing_gibbous_moon"
+    , "waxing gibbous moon"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🌕"
   , "description": "full moon"
   , "category": "Travel & Places"
   , "aliases": [
-      "full_moon"
+      "full moon"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🌖"
   , "description": "waning gibbous moon"
   , "category": "Travel & Places"
   , "aliases": [
-      "waning_gibbous_moon"
+      "waning gibbous moon"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🌗"
   , "description": "last quarter moon"
   , "category": "Travel & Places"
   , "aliases": [
-      "last_quarter_moon"
+      "last quarter moon"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🌘"
   , "description": "waning crescent moon"
   , "category": "Travel & Places"
   , "aliases": [
-      "waning_crescent_moon"
+      "waning crescent moon"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🌙"
   , "description": "crescent moon"
   , "category": "Travel & Places"
   , "aliases": [
-      "crescent_moon"
+      "crescent moon"
     ]
   , "tags": [
       "night"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🌚"
   , "description": "new moon face"
   , "category": "Travel & Places"
   , "aliases": [
-      "new_moon_with_face"
+      "new moon with face"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🌛"
   , "description": "first quarter moon face"
   , "category": "Travel & Places"
   , "aliases": [
-      "first_quarter_moon_with_face"
+      "first quarter moon with face"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🌜"
   , "description": "last quarter moon face"
   , "category": "Travel & Places"
   , "aliases": [
-      "last_quarter_moon_with_face"
+      "last quarter moon with face"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🌡️"
@@ -12215,8 +12158,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "7.0"
-  , "ios_version": "9.1"
+  , "unicode version": "7.0"
+  , "ios version": "9.1"
   }
 , {
     "emoji": "☀️"
@@ -12228,45 +12171,45 @@ let db = [
   , "tags": [
       "weather"
     ]
-  , "unicode_version": ""
-  , "ios_version": "6.0"
+  , "unicode version": ""
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🌝"
   , "description": "full moon face"
   , "category": "Travel & Places"
   , "aliases": [
-      "full_moon_with_face"
+      "full moon with face"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🌞"
   , "description": "sun with face"
   , "category": "Travel & Places"
   , "aliases": [
-      "sun_with_face"
+      "sun with face"
     ]
   , "tags": [
       "summer"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🪐"
   , "description": "ringed planet"
   , "category": "Travel & Places"
   , "aliases": [
-      "ringed_planet"
+      "ringed planet"
     ]
   , "tags": [
     ]
-  , "unicode_version": "12.0"
-  , "ios_version": "13.0"
+  , "unicode version": "12.0"
+  , "ios version": "13.0"
   }
 , {
     "emoji": "⭐"
@@ -12277,8 +12220,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "5.1"
-  , "ios_version": "6.0"
+  , "unicode version": "5.1"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🌟"
@@ -12289,8 +12232,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🌠"
@@ -12301,20 +12244,20 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🌌"
   , "description": "milky way"
   , "category": "Travel & Places"
   , "aliases": [
-      "milky_way"
+      "milky way"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "☁️"
@@ -12325,106 +12268,106 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": ""
-  , "ios_version": "6.0"
+  , "unicode version": ""
+  , "ios version": "6.0"
   }
 , {
     "emoji": "⛅"
   , "description": "sun behind cloud"
   , "category": "Travel & Places"
   , "aliases": [
-      "partly_sunny"
+      "partly sunny"
     ]
   , "tags": [
       "weather"
     , "cloud"
     ]
-  , "unicode_version": "5.2"
-  , "ios_version": "6.0"
+  , "unicode version": "5.2"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "⛈️"
   , "description": "cloud with lightning and rain"
   , "category": "Travel & Places"
   , "aliases": [
-      "cloud_with_lightning_and_rain"
+      "cloud with lightning and rain"
     ]
   , "tags": [
     ]
-  , "unicode_version": "5.2"
-  , "ios_version": "9.1"
+  , "unicode version": "5.2"
+  , "ios version": "9.1"
   }
 , {
     "emoji": "🌤️"
   , "description": "sun behind small cloud"
   , "category": "Travel & Places"
   , "aliases": [
-      "sun_behind_small_cloud"
+      "sun behind small cloud"
     ]
   , "tags": [
     ]
-  , "unicode_version": "7.0"
-  , "ios_version": "9.1"
+  , "unicode version": "7.0"
+  , "ios version": "9.1"
   }
 , {
     "emoji": "🌥️"
   , "description": "sun behind large cloud"
   , "category": "Travel & Places"
   , "aliases": [
-      "sun_behind_large_cloud"
+      "sun behind large cloud"
     ]
   , "tags": [
     ]
-  , "unicode_version": "7.0"
-  , "ios_version": "9.1"
+  , "unicode version": "7.0"
+  , "ios version": "9.1"
   }
 , {
     "emoji": "🌦️"
   , "description": "sun behind rain cloud"
   , "category": "Travel & Places"
   , "aliases": [
-      "sun_behind_rain_cloud"
+      "sun behind rain cloud"
     ]
   , "tags": [
     ]
-  , "unicode_version": "7.0"
-  , "ios_version": "9.1"
+  , "unicode version": "7.0"
+  , "ios version": "9.1"
   }
 , {
     "emoji": "🌧️"
   , "description": "cloud with rain"
   , "category": "Travel & Places"
   , "aliases": [
-      "cloud_with_rain"
+      "cloud with rain"
     ]
   , "tags": [
     ]
-  , "unicode_version": "7.0"
-  , "ios_version": "9.1"
+  , "unicode version": "7.0"
+  , "ios version": "9.1"
   }
 , {
     "emoji": "🌨️"
   , "description": "cloud with snow"
   , "category": "Travel & Places"
   , "aliases": [
-      "cloud_with_snow"
+      "cloud with snow"
     ]
   , "tags": [
     ]
-  , "unicode_version": "7.0"
-  , "ios_version": "9.1"
+  , "unicode version": "7.0"
+  , "ios version": "9.1"
   }
 , {
     "emoji": "🌩️"
   , "description": "cloud with lightning"
   , "category": "Travel & Places"
   , "aliases": [
-      "cloud_with_lightning"
+      "cloud with lightning"
     ]
   , "tags": [
     ]
-  , "unicode_version": "7.0"
-  , "ios_version": "9.1"
+  , "unicode version": "7.0"
+  , "ios version": "9.1"
   }
 , {
     "emoji": "🌪️"
@@ -12435,8 +12378,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "7.0"
-  , "ios_version": "9.1"
+  , "unicode version": "7.0"
+  , "ios version": "9.1"
   }
 , {
     "emoji": "🌫️"
@@ -12447,20 +12390,20 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "7.0"
-  , "ios_version": "9.1"
+  , "unicode version": "7.0"
+  , "ios version": "9.1"
   }
 , {
     "emoji": "🌬️"
   , "description": "wind face"
   , "category": "Travel & Places"
   , "aliases": [
-      "wind_face"
+      "wind face"
     ]
   , "tags": [
     ]
-  , "unicode_version": "7.0"
-  , "ios_version": "9.1"
+  , "unicode version": "7.0"
+  , "ios version": "9.1"
   }
 , {
     "emoji": "🌀"
@@ -12472,8 +12415,8 @@ let db = [
   , "tags": [
       "swirl"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🌈"
@@ -12484,34 +12427,34 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🌂"
   , "description": "closed umbrella"
   , "category": "Travel & Places"
   , "aliases": [
-      "closed_umbrella"
+      "closed umbrella"
     ]
   , "tags": [
       "weather"
     , "rain"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "☂️"
   , "description": "umbrella"
   , "category": "Travel & Places"
   , "aliases": [
-      "open_umbrella"
+      "open umbrella"
     ]
   , "tags": [
     ]
-  , "unicode_version": ""
-  , "ios_version": "9.1"
+  , "unicode version": ""
+  , "ios version": "9.1"
   }
 , {
     "emoji": "☔"
@@ -12524,21 +12467,21 @@ let db = [
       "rain"
     , "weather"
     ]
-  , "unicode_version": "4.0"
-  , "ios_version": "6.0"
+  , "unicode version": "4.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "⛱️"
   , "description": "umbrella on ground"
   , "category": "Travel & Places"
   , "aliases": [
-      "parasol_on_ground"
+      "parasol on ground"
     ]
   , "tags": [
-      "beach_umbrella"
+      "beach umbrella"
     ]
-  , "unicode_version": "5.2"
-  , "ios_version": "9.1"
+  , "unicode version": "5.2"
+  , "ios version": "9.1"
   }
 , {
     "emoji": "⚡"
@@ -12551,8 +12494,8 @@ let db = [
       "lightning"
     , "thunder"
     ]
-  , "unicode_version": "4.0"
-  , "ios_version": "6.0"
+  , "unicode version": "4.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "❄️"
@@ -12566,22 +12509,22 @@ let db = [
     , "cold"
     , "weather"
     ]
-  , "unicode_version": ""
-  , "ios_version": "6.0"
+  , "unicode version": ""
+  , "ios version": "6.0"
   }
 , {
     "emoji": "☃️"
   , "description": "snowman"
   , "category": "Travel & Places"
   , "aliases": [
-      "snowman_with_snow"
+      "snowman with snow"
     ]
   , "tags": [
       "winter"
     , "christmas"
     ]
-  , "unicode_version": ""
-  , "ios_version": "9.1"
+  , "unicode version": ""
+  , "ios version": "9.1"
   }
 , {
     "emoji": "⛄"
@@ -12593,8 +12536,8 @@ let db = [
   , "tags": [
       "winter"
     ]
-  , "unicode_version": "5.2"
-  , "ios_version": "6.0"
+  , "unicode version": "5.2"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "☄️"
@@ -12605,8 +12548,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": ""
-  , "ios_version": "9.1"
+  , "unicode version": ""
+  , "ios version": "9.1"
   }
 , {
     "emoji": "🔥"
@@ -12618,8 +12561,8 @@ let db = [
   , "tags": [
       "burn"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "💧"
@@ -12631,8 +12574,8 @@ let db = [
   , "tags": [
       "water"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🌊"
@@ -12644,33 +12587,33 @@ let db = [
   , "tags": [
       "sea"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🎃"
   , "description": "jack-o-lantern"
   , "category": "Activities"
   , "aliases": [
-      "jack_o_lantern"
+      "jack o lantern"
     ]
   , "tags": [
       "halloween"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🎄"
   , "description": "Christmas tree"
   , "category": "Activities"
   , "aliases": [
-      "christmas_tree"
+      "christmas tree"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🎆"
@@ -12683,8 +12626,8 @@ let db = [
       "festival"
     , "celebration"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🎇"
@@ -12695,8 +12638,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🧨"
@@ -12707,8 +12650,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
   }
 , {
     "emoji": "✨"
@@ -12720,8 +12663,8 @@ let db = [
   , "tags": [
       "shiny"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🎈"
@@ -12734,8 +12677,8 @@ let db = [
       "party"
     , "birthday"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🎉"
@@ -12748,32 +12691,32 @@ let db = [
       "hooray"
     , "party"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🎊"
   , "description": "confetti ball"
   , "category": "Activities"
   , "aliases": [
-      "confetti_ball"
+      "confetti ball"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🎋"
   , "description": "tanabata tree"
   , "category": "Activities"
   , "aliases": [
-      "tanabata_tree"
+      "tanabata tree"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🎍"
@@ -12784,8 +12727,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🎎"
@@ -12796,8 +12739,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🎏"
@@ -12808,44 +12751,44 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🎐"
   , "description": "wind chime"
   , "category": "Activities"
   , "aliases": [
-      "wind_chime"
+      "wind chime"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🎑"
   , "description": "moon viewing ceremony"
   , "category": "Activities"
   , "aliases": [
-      "rice_scene"
+      "rice scene"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🧧"
   , "description": "red envelope"
   , "category": "Activities"
   , "aliases": [
-      "red_envelope"
+      "red envelope"
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
   }
 , {
     "emoji": "🎀"
@@ -12856,8 +12799,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🎁"
@@ -12871,20 +12814,20 @@ let db = [
     , "birthday"
     , "christmas"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🎗️"
   , "description": "reminder ribbon"
   , "category": "Activities"
   , "aliases": [
-      "reminder_ribbon"
+      "reminder ribbon"
     ]
   , "tags": [
     ]
-  , "unicode_version": "7.0"
-  , "ios_version": "9.1"
+  , "unicode version": "7.0"
+  , "ios version": "9.1"
   }
 , {
     "emoji": "🎟️"
@@ -12895,8 +12838,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "7.0"
-  , "ios_version": "9.1"
+  , "unicode version": "7.0"
+  , "ios version": "9.1"
   }
 , {
     "emoji": "🎫"
@@ -12907,20 +12850,20 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🎖️"
   , "description": "military medal"
   , "category": "Activities"
   , "aliases": [
-      "medal_military"
+      "medal military"
     ]
   , "tags": [
     ]
-  , "unicode_version": "7.0"
-  , "ios_version": "9.1"
+  , "unicode version": "7.0"
+  , "ios version": "9.1"
   }
 , {
     "emoji": "🏆"
@@ -12934,61 +12877,61 @@ let db = [
     , "contest"
     , "winner"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🏅"
   , "description": "sports medal"
   , "category": "Activities"
   , "aliases": [
-      "medal_sports"
+      "medal sports"
     ]
   , "tags": [
       "gold"
     , "winner"
     ]
-  , "unicode_version": "7.0"
-  , "ios_version": "9.1"
+  , "unicode version": "7.0"
+  , "ios version": "9.1"
   }
 , {
     "emoji": "🥇"
   , "description": "1st place medal"
   , "category": "Activities"
   , "aliases": [
-      "1st_place_medal"
+      "1st place medal"
     ]
   , "tags": [
       "gold"
     ]
-  , "unicode_version": "9.0"
-  , "ios_version": "10.2"
+  , "unicode version": "9.0"
+  , "ios version": "10.2"
   }
 , {
     "emoji": "🥈"
   , "description": "2nd place medal"
   , "category": "Activities"
   , "aliases": [
-      "2nd_place_medal"
+      "2nd place medal"
     ]
   , "tags": [
       "silver"
     ]
-  , "unicode_version": "9.0"
-  , "ios_version": "10.2"
+  , "unicode version": "9.0"
+  , "ios version": "10.2"
   }
 , {
     "emoji": "🥉"
   , "description": "3rd place medal"
   , "category": "Activities"
   , "aliases": [
-      "3rd_place_medal"
+      "3rd place medal"
     ]
   , "tags": [
       "bronze"
     ]
-  , "unicode_version": "9.0"
-  , "ios_version": "10.2"
+  , "unicode version": "9.0"
+  , "ios version": "10.2"
   }
 , {
     "emoji": "⚽"
@@ -13000,8 +12943,8 @@ let db = [
   , "tags": [
       "sports"
     ]
-  , "unicode_version": "5.2"
-  , "ios_version": "6.0"
+  , "unicode version": "5.2"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "⚾"
@@ -13013,8 +12956,8 @@ let db = [
   , "tags": [
       "sports"
     ]
-  , "unicode_version": "5.2"
-  , "ios_version": "6.0"
+  , "unicode version": "5.2"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🥎"
@@ -13025,8 +12968,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
   }
 , {
     "emoji": "🏀"
@@ -13038,8 +12981,8 @@ let db = [
   , "tags": [
       "sports"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🏐"
@@ -13050,8 +12993,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "8.0"
-  , "ios_version": "9.1"
+  , "unicode version": "8.0"
+  , "ios version": "9.1"
   }
 , {
     "emoji": "🏈"
@@ -13063,20 +13006,20 @@ let db = [
   , "tags": [
       "sports"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🏉"
   , "description": "rugby football"
   , "category": "Activities"
   , "aliases": [
-      "rugby_football"
+      "rugby football"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🎾"
@@ -13088,20 +13031,20 @@ let db = [
   , "tags": [
       "sports"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🥏"
   , "description": "flying disc"
   , "category": "Activities"
   , "aliases": [
-      "flying_disc"
+      "flying disc"
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
   }
 , {
     "emoji": "🎳"
@@ -13112,44 +13055,44 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🏏"
   , "description": "cricket game"
   , "category": "Activities"
   , "aliases": [
-      "cricket_game"
+      "cricket game"
     ]
   , "tags": [
     ]
-  , "unicode_version": "8.0"
-  , "ios_version": "9.1"
+  , "unicode version": "8.0"
+  , "ios version": "9.1"
   }
 , {
     "emoji": "🏑"
   , "description": "field hockey"
   , "category": "Activities"
   , "aliases": [
-      "field_hockey"
+      "field hockey"
     ]
   , "tags": [
     ]
-  , "unicode_version": "8.0"
-  , "ios_version": "9.1"
+  , "unicode version": "8.0"
+  , "ios version": "9.1"
   }
 , {
     "emoji": "🏒"
   , "description": "ice hockey"
   , "category": "Activities"
   , "aliases": [
-      "ice_hockey"
+      "ice hockey"
     ]
   , "tags": [
     ]
-  , "unicode_version": "8.0"
-  , "ios_version": "9.1"
+  , "unicode version": "8.0"
+  , "ios version": "9.1"
   }
 , {
     "emoji": "🥍"
@@ -13160,20 +13103,20 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
   }
 , {
     "emoji": "🏓"
   , "description": "ping pong"
   , "category": "Activities"
   , "aliases": [
-      "ping_pong"
+      "ping pong"
     ]
   , "tags": [
     ]
-  , "unicode_version": "8.0"
-  , "ios_version": "9.1"
+  , "unicode version": "8.0"
+  , "ios version": "9.1"
   }
 , {
     "emoji": "🏸"
@@ -13184,44 +13127,44 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "8.0"
-  , "ios_version": "9.1"
+  , "unicode version": "8.0"
+  , "ios version": "9.1"
   }
 , {
     "emoji": "🥊"
   , "description": "boxing glove"
   , "category": "Activities"
   , "aliases": [
-      "boxing_glove"
+      "boxing glove"
     ]
   , "tags": [
     ]
-  , "unicode_version": "9.0"
-  , "ios_version": "10.2"
+  , "unicode version": "9.0"
+  , "ios version": "10.2"
   }
 , {
     "emoji": "🥋"
   , "description": "martial arts uniform"
   , "category": "Activities"
   , "aliases": [
-      "martial_arts_uniform"
+      "martial arts uniform"
     ]
   , "tags": [
     ]
-  , "unicode_version": "9.0"
-  , "ios_version": "10.2"
+  , "unicode version": "9.0"
+  , "ios version": "10.2"
   }
 , {
     "emoji": "🥅"
   , "description": "goal net"
   , "category": "Activities"
   , "aliases": [
-      "goal_net"
+      "goal net"
     ]
   , "tags": [
     ]
-  , "unicode_version": "9.0"
-  , "ios_version": "10.2"
+  , "unicode version": "9.0"
+  , "ios version": "10.2"
   }
 , {
     "emoji": "⛳"
@@ -13232,58 +13175,58 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "5.2"
-  , "ios_version": "6.0"
+  , "unicode version": "5.2"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "⛸️"
   , "description": "ice skate"
   , "category": "Activities"
   , "aliases": [
-      "ice_skate"
+      "ice skate"
     ]
   , "tags": [
       "skating"
     ]
-  , "unicode_version": "5.2"
-  , "ios_version": "9.1"
+  , "unicode version": "5.2"
+  , "ios version": "9.1"
   }
 , {
     "emoji": "🎣"
   , "description": "fishing pole"
   , "category": "Activities"
   , "aliases": [
-      "fishing_pole_and_fish"
+      "fishing pole and fish"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🤿"
   , "description": "diving mask"
   , "category": "Activities"
   , "aliases": [
-      "diving_mask"
+      "diving mask"
     ]
   , "tags": [
     ]
-  , "unicode_version": "12.0"
-  , "ios_version": "13.0"
+  , "unicode version": "12.0"
+  , "ios version": "13.0"
   }
 , {
     "emoji": "🎽"
   , "description": "running shirt"
   , "category": "Activities"
   , "aliases": [
-      "running_shirt_with_sash"
+      "running shirt with sash"
     ]
   , "tags": [
       "marathon"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🎿"
@@ -13294,8 +13237,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🛷"
@@ -13306,20 +13249,20 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
   }
 , {
     "emoji": "🥌"
   , "description": "curling stone"
   , "category": "Activities"
   , "aliases": [
-      "curling_stone"
+      "curling stone"
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
   }
 , {
     "emoji": "🎯"
@@ -13331,20 +13274,20 @@ let db = [
   , "tags": [
       "target"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🪀"
   , "description": "yo-yo"
   , "category": "Activities"
   , "aliases": [
-      "yo_yo"
+      "yo yo"
     ]
   , "tags": [
     ]
-  , "unicode_version": "12.0"
-  , "ios_version": "13.0"
+  , "unicode version": "12.0"
+  , "ios version": "13.0"
   }
 , {
     "emoji": "🪁"
@@ -13355,8 +13298,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "12.0"
-  , "ios_version": "13.0"
+  , "unicode version": "12.0"
+  , "ios version": "13.0"
   }
 , {
     "emoji": "🎱"
@@ -13369,60 +13312,60 @@ let db = [
       "pool"
     , "billiards"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🔮"
   , "description": "crystal ball"
   , "category": "Activities"
   , "aliases": [
-      "crystal_ball"
+      "crystal ball"
     ]
   , "tags": [
       "fortune"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🪄"
   , "description": "magic wand"
   , "category": "Activities"
   , "aliases": [
-      "magic_wand"
+      "magic wand"
     ]
   , "tags": [
     ]
-  , "unicode_version": "13.0"
-  , "ios_version": "14.0"
+  , "unicode version": "13.0"
+  , "ios version": "14.0"
   }
 , {
     "emoji": "🧿"
   , "description": "nazar amulet"
   , "category": "Activities"
   , "aliases": [
-      "nazar_amulet"
+      "nazar amulet"
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
   }
 , {
     "emoji": "🎮"
   , "description": "video game"
   , "category": "Activities"
   , "aliases": [
-      "video_game"
+      "video game"
     ]
   , "tags": [
       "play"
     , "controller"
     , "console"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🕹️"
@@ -13433,34 +13376,34 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "7.0"
-  , "ios_version": "9.1"
+  , "unicode version": "7.0"
+  , "ios version": "9.1"
   }
 , {
     "emoji": "🎰"
   , "description": "slot machine"
   , "category": "Activities"
   , "aliases": [
-      "slot_machine"
+      "slot machine"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🎲"
   , "description": "game die"
   , "category": "Activities"
   , "aliases": [
-      "game_die"
+      "game die"
     ]
   , "tags": [
       "dice"
     , "gambling"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🧩"
@@ -13471,20 +13414,20 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
   }
 , {
     "emoji": "🧸"
   , "description": "teddy bear"
   , "category": "Activities"
   , "aliases": [
-      "teddy_bear"
+      "teddy bear"
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
   }
 , {
     "emoji": "🪅"
@@ -13495,20 +13438,20 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "13.0"
-  , "ios_version": "14.0"
+  , "unicode version": "13.0"
+  , "ios version": "14.0"
   }
 , {
     "emoji": "🪆"
   , "description": "nesting dolls"
   , "category": "Activities"
   , "aliases": [
-      "nesting_dolls"
+      "nesting dolls"
     ]
   , "tags": [
     ]
-  , "unicode_version": "13.0"
-  , "ios_version": "14.0"
+  , "unicode version": "13.0"
+  , "ios version": "14.0"
   }
 , {
     "emoji": "♠️"
@@ -13519,8 +13462,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": ""
-  , "ios_version": "6.0"
+  , "unicode version": ""
+  , "ios version": "6.0"
   }
 , {
     "emoji": "♥️"
@@ -13531,8 +13474,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": ""
-  , "ios_version": "6.0"
+  , "unicode version": ""
+  , "ios version": "6.0"
   }
 , {
     "emoji": "♦️"
@@ -13543,8 +13486,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": ""
-  , "ios_version": "6.0"
+  , "unicode version": ""
+  , "ios version": "6.0"
   }
 , {
     "emoji": "♣️"
@@ -13555,32 +13498,32 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": ""
-  , "ios_version": "6.0"
+  , "unicode version": ""
+  , "ios version": "6.0"
   }
 , {
     "emoji": "♟️"
   , "description": "chess pawn"
   , "category": "Activities"
   , "aliases": [
-      "chess_pawn"
+      "chess pawn"
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
   }
 , {
     "emoji": "🃏"
   , "description": "joker"
   , "category": "Activities"
   , "aliases": [
-      "black_joker"
+      "black joker"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🀄"
@@ -13591,46 +13534,46 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": ""
-  , "ios_version": "6.0"
+  , "unicode version": ""
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🎴"
   , "description": "flower playing cards"
   , "category": "Activities"
   , "aliases": [
-      "flower_playing_cards"
+      "flower playing cards"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🎭"
   , "description": "performing arts"
   , "category": "Activities"
   , "aliases": [
-      "performing_arts"
+      "performing arts"
     ]
   , "tags": [
       "theater"
     , "drama"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🖼️"
   , "description": "framed picture"
   , "category": "Activities"
   , "aliases": [
-      "framed_picture"
+      "framed picture"
     ]
   , "tags": [
     ]
-  , "unicode_version": "7.0"
-  , "ios_version": "9.1"
+  , "unicode version": "7.0"
+  , "ios version": "9.1"
   }
 , {
     "emoji": "🎨"
@@ -13643,8 +13586,8 @@ let db = [
       "design"
     , "paint"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🧵"
@@ -13655,20 +13598,20 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
   }
 , {
     "emoji": "🪡"
   , "description": "sewing needle"
   , "category": "Activities"
   , "aliases": [
-      "sewing_needle"
+      "sewing needle"
     ]
   , "tags": [
     ]
-  , "unicode_version": "13.0"
-  , "ios_version": "14.0"
+  , "unicode version": "13.0"
+  , "ios version": "14.0"
   }
 , {
     "emoji": "🧶"
@@ -13679,8 +13622,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
   }
 , {
     "emoji": "🪢"
@@ -13691,8 +13634,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "13.0"
-  , "ios_version": "14.0"
+  , "unicode version": "13.0"
+  , "ios version": "14.0"
   }
 , {
     "emoji": "👓"
@@ -13704,20 +13647,20 @@ let db = [
   , "tags": [
       "glasses"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🕶️"
   , "description": "sunglasses"
   , "category": "Objects"
   , "aliases": [
-      "dark_sunglasses"
+      "dark sunglasses"
     ]
   , "tags": [
     ]
-  , "unicode_version": "7.0"
-  , "ios_version": "9.1"
+  , "unicode version": "7.0"
+  , "ios version": "9.1"
   }
 , {
     "emoji": "🥽"
@@ -13728,32 +13671,32 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
   }
 , {
     "emoji": "🥼"
   , "description": "lab coat"
   , "category": "Objects"
   , "aliases": [
-      "lab_coat"
+      "lab coat"
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
   }
 , {
     "emoji": "🦺"
   , "description": "safety vest"
   , "category": "Objects"
   , "aliases": [
-      "safety_vest"
+      "safety vest"
     ]
   , "tags": [
     ]
-  , "unicode_version": "12.0"
-  , "ios_version": "13.0"
+  , "unicode version": "12.0"
+  , "ios version": "13.0"
   }
 , {
     "emoji": "👔"
@@ -13766,8 +13709,8 @@ let db = [
       "shirt"
     , "formal"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "👕"
@@ -13779,8 +13722,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "👖"
@@ -13792,8 +13735,8 @@ let db = [
   , "tags": [
       "pants"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🧣"
@@ -13804,8 +13747,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
   }
 , {
     "emoji": "🧤"
@@ -13816,8 +13759,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
   }
 , {
     "emoji": "🧥"
@@ -13828,8 +13771,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
   }
 , {
     "emoji": "🧦"
@@ -13840,8 +13783,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
   }
 , {
     "emoji": "👗"
@@ -13852,8 +13795,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "👘"
@@ -13864,8 +13807,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🥻"
@@ -13876,32 +13819,32 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "12.0"
-  , "ios_version": "13.0"
+  , "unicode version": "12.0"
+  , "ios version": "13.0"
   }
 , {
     "emoji": "🩱"
   , "description": "one-piece swimsuit"
   , "category": "Objects"
   , "aliases": [
-      "one_piece_swimsuit"
+      "one piece swimsuit"
     ]
   , "tags": [
     ]
-  , "unicode_version": "12.0"
-  , "ios_version": "13.0"
+  , "unicode version": "12.0"
+  , "ios version": "13.0"
   }
 , {
     "emoji": "🩲"
   , "description": "briefs"
   , "category": "Objects"
   , "aliases": [
-      "swim_brief"
+      "swim brief"
     ]
   , "tags": [
     ]
-  , "unicode_version": "12.0"
-  , "ios_version": "13.0"
+  , "unicode version": "12.0"
+  , "ios version": "13.0"
   }
 , {
     "emoji": "🩳"
@@ -13912,8 +13855,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "12.0"
-  , "ios_version": "13.0"
+  , "unicode version": "12.0"
+  , "ios version": "13.0"
   }
 , {
     "emoji": "👙"
@@ -13925,20 +13868,20 @@ let db = [
   , "tags": [
       "beach"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "👚"
   , "description": "woman’s clothes"
   , "category": "Objects"
   , "aliases": [
-      "womans_clothes"
+      "womans clothes"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "👛"
@@ -13949,8 +13892,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "👜"
@@ -13962,8 +13905,8 @@ let db = [
   , "tags": [
       "bag"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "👝"
@@ -13975,8 +13918,8 @@ let db = [
   , "tags": [
       "bag"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🛍️"
@@ -13988,97 +13931,97 @@ let db = [
   , "tags": [
       "bags"
     ]
-  , "unicode_version": "7.0"
-  , "ios_version": "9.1"
+  , "unicode version": "7.0"
+  , "ios version": "9.1"
   }
 , {
     "emoji": "🎒"
   , "description": "backpack"
   , "category": "Objects"
   , "aliases": [
-      "school_satchel"
+      "school satchel"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🩴"
   , "description": "thong sandal"
   , "category": "Objects"
   , "aliases": [
-      "thong_sandal"
+      "thong sandal"
     ]
   , "tags": [
     ]
-  , "unicode_version": "13.0"
-  , "ios_version": "14.0"
+  , "unicode version": "13.0"
+  , "ios version": "14.0"
   }
 , {
     "emoji": "👞"
   , "description": "man’s shoe"
   , "category": "Objects"
   , "aliases": [
-      "mans_shoe"
+      "mans shoe"
     , "shoe"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "👟"
   , "description": "running shoe"
   , "category": "Objects"
   , "aliases": [
-      "athletic_shoe"
+      "athletic shoe"
     ]
   , "tags": [
       "sneaker"
     , "sport"
     , "running"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🥾"
   , "description": "hiking boot"
   , "category": "Objects"
   , "aliases": [
-      "hiking_boot"
+      "hiking boot"
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
   }
 , {
     "emoji": "🥿"
   , "description": "flat shoe"
   , "category": "Objects"
   , "aliases": [
-      "flat_shoe"
+      "flat shoe"
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
   }
 , {
     "emoji": "👠"
   , "description": "high-heeled shoe"
   , "category": "Objects"
   , "aliases": [
-      "high_heel"
+      "high heel"
     ]
   , "tags": [
       "shoe"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "👡"
@@ -14090,20 +14033,20 @@ let db = [
   , "tags": [
       "shoe"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🩰"
   , "description": "ballet shoes"
   , "category": "Objects"
   , "aliases": [
-      "ballet_shoes"
+      "ballet shoes"
     ]
   , "tags": [
     ]
-  , "unicode_version": "12.0"
-  , "ios_version": "13.0"
+  , "unicode version": "12.0"
+  , "ios version": "13.0"
   }
 , {
     "emoji": "👢"
@@ -14114,8 +14057,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "👑"
@@ -14129,20 +14072,20 @@ let db = [
     , "queen"
     , "royal"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "👒"
   , "description": "woman’s hat"
   , "category": "Objects"
   , "aliases": [
-      "womans_hat"
+      "womans hat"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🎩"
@@ -14155,15 +14098,15 @@ let db = [
       "hat"
     , "classy"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🎓"
   , "description": "graduation cap"
   , "category": "Objects"
   , "aliases": [
-      "mortar_board"
+      "mortar board"
     ]
   , "tags": [
       "education"
@@ -14171,56 +14114,56 @@ let db = [
     , "university"
     , "graduation"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🧢"
   , "description": "billed cap"
   , "category": "Objects"
   , "aliases": [
-      "billed_cap"
+      "billed cap"
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
   }
 , {
     "emoji": "🪖"
   , "description": "military helmet"
   , "category": "Objects"
   , "aliases": [
-      "military_helmet"
+      "military helmet"
     ]
   , "tags": [
     ]
-  , "unicode_version": "13.0"
-  , "ios_version": "14.0"
+  , "unicode version": "13.0"
+  , "ios version": "14.0"
   }
 , {
     "emoji": "⛑️"
   , "description": "rescue worker’s helmet"
   , "category": "Objects"
   , "aliases": [
-      "rescue_worker_helmet"
+      "rescue worker helmet"
     ]
   , "tags": [
     ]
-  , "unicode_version": "5.2"
-  , "ios_version": "9.1"
+  , "unicode version": "5.2"
+  , "ios version": "9.1"
   }
 , {
     "emoji": "📿"
   , "description": "prayer beads"
   , "category": "Objects"
   , "aliases": [
-      "prayer_beads"
+      "prayer beads"
     ]
   , "tags": [
     ]
-  , "unicode_version": "8.0"
-  , "ios_version": "9.1"
+  , "unicode version": "8.0"
+  , "ios version": "9.1"
   }
 , {
     "emoji": "💄"
@@ -14232,8 +14175,8 @@ let db = [
   , "tags": [
       "makeup"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "💍"
@@ -14247,8 +14190,8 @@ let db = [
     , "marriage"
     , "engaged"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "💎"
@@ -14260,8 +14203,8 @@ let db = [
   , "tags": [
       "diamond"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🔇"
@@ -14274,8 +14217,8 @@ let db = [
       "sound"
     , "volume"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🔈"
@@ -14286,8 +14229,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🔉"
@@ -14299,21 +14242,21 @@ let db = [
   , "tags": [
       "volume"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🔊"
   , "description": "speaker high volume"
   , "category": "Objects"
   , "aliases": [
-      "loud_sound"
+      "loud sound"
     ]
   , "tags": [
       "volume"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "📢"
@@ -14325,8 +14268,8 @@ let db = [
   , "tags": [
       "announcement"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "📣"
@@ -14337,20 +14280,20 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "📯"
   , "description": "postal horn"
   , "category": "Objects"
   , "aliases": [
-      "postal_horn"
+      "postal horn"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🔔"
@@ -14363,46 +14306,46 @@ let db = [
       "sound"
     , "notification"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🔕"
   , "description": "bell with slash"
   , "category": "Objects"
   , "aliases": [
-      "no_bell"
+      "no bell"
     ]
   , "tags": [
       "volume"
     , "off"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🎼"
   , "description": "musical score"
   , "category": "Objects"
   , "aliases": [
-      "musical_score"
+      "musical score"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🎵"
   , "description": "musical note"
   , "category": "Objects"
   , "aliases": [
-      "musical_note"
+      "musical note"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🎶"
@@ -14414,45 +14357,45 @@ let db = [
   , "tags": [
       "music"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🎙️"
   , "description": "studio microphone"
   , "category": "Objects"
   , "aliases": [
-      "studio_microphone"
+      "studio microphone"
     ]
   , "tags": [
       "podcast"
     ]
-  , "unicode_version": "7.0"
-  , "ios_version": "9.1"
+  , "unicode version": "7.0"
+  , "ios version": "9.1"
   }
 , {
     "emoji": "🎚️"
   , "description": "level slider"
   , "category": "Objects"
   , "aliases": [
-      "level_slider"
+      "level slider"
     ]
   , "tags": [
     ]
-  , "unicode_version": "7.0"
-  , "ios_version": "9.1"
+  , "unicode version": "7.0"
+  , "ios version": "9.1"
   }
 , {
     "emoji": "🎛️"
   , "description": "control knobs"
   , "category": "Objects"
   , "aliases": [
-      "control_knobs"
+      "control knobs"
     ]
   , "tags": [
     ]
-  , "unicode_version": "7.0"
-  , "ios_version": "9.1"
+  , "unicode version": "7.0"
+  , "ios version": "9.1"
   }
 , {
     "emoji": "🎤"
@@ -14464,8 +14407,8 @@ let db = [
   , "tags": [
       "sing"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🎧"
@@ -14478,8 +14421,8 @@ let db = [
       "music"
     , "earphones"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "📻"
@@ -14491,8 +14434,8 @@ let db = [
   , "tags": [
       "podcast"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🎷"
@@ -14503,8 +14446,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🪗"
@@ -14515,8 +14458,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "13.0"
-  , "ios_version": "14.0"
+  , "unicode version": "13.0"
+  , "ios version": "14.0"
   }
 , {
     "emoji": "🎸"
@@ -14528,21 +14471,21 @@ let db = [
   , "tags": [
       "rock"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🎹"
   , "description": "musical keyboard"
   , "category": "Objects"
   , "aliases": [
-      "musical_keyboard"
+      "musical keyboard"
     ]
   , "tags": [
       "piano"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🎺"
@@ -14553,8 +14496,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🎻"
@@ -14565,8 +14508,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🪕"
@@ -14577,8 +14520,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "12.0"
-  , "ios_version": "13.0"
+  , "unicode version": "12.0"
+  , "ios version": "13.0"
   }
 , {
     "emoji": "🥁"
@@ -14589,20 +14532,20 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": ""
-  , "ios_version": "10.2"
+  , "unicode version": ""
+  , "ios version": "10.2"
   }
 , {
     "emoji": "🪘"
   , "description": "long drum"
   , "category": "Objects"
   , "aliases": [
-      "long_drum"
+      "long drum"
     ]
   , "tags": [
     ]
-  , "unicode_version": "13.0"
-  , "ios_version": "14.0"
+  , "unicode version": "13.0"
+  , "ios version": "14.0"
   }
 , {
     "emoji": "📱"
@@ -14615,8 +14558,8 @@ let db = [
       "smartphone"
     , "mobile"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "📲"
@@ -14629,8 +14572,8 @@ let db = [
       "call"
     , "incoming"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "☎️"
@@ -14642,22 +14585,22 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": ""
-  , "ios_version": "6.0"
+  , "unicode version": ""
+  , "ios version": "6.0"
   }
 , {
     "emoji": "📞"
   , "description": "telephone receiver"
   , "category": "Objects"
   , "aliases": [
-      "telephone_receiver"
+      "telephone receiver"
     ]
   , "tags": [
       "phone"
     , "call"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "📟"
@@ -14668,8 +14611,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "📠"
@@ -14680,8 +14623,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🔋"
@@ -14693,20 +14636,20 @@ let db = [
   , "tags": [
       "power"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🔌"
   , "description": "electric plug"
   , "category": "Objects"
   , "aliases": [
-      "electric_plug"
+      "electric plug"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "💻"
@@ -14719,20 +14662,20 @@ let db = [
       "desktop"
     , "screen"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🖥️"
   , "description": "desktop computer"
   , "category": "Objects"
   , "aliases": [
-      "desktop_computer"
+      "desktop computer"
     ]
   , "tags": [
     ]
-  , "unicode_version": "7.0"
-  , "ios_version": "9.1"
+  , "unicode version": "7.0"
+  , "ios version": "9.1"
   }
 , {
     "emoji": "🖨️"
@@ -14743,8 +14686,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "7.0"
-  , "ios_version": "9.1"
+  , "unicode version": "7.0"
+  , "ios version": "9.1"
   }
 , {
     "emoji": "⌨️"
@@ -14755,20 +14698,20 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": ""
-  , "ios_version": "9.1"
+  , "unicode version": ""
+  , "ios version": "9.1"
   }
 , {
     "emoji": "🖱️"
   , "description": "computer mouse"
   , "category": "Objects"
   , "aliases": [
-      "computer_mouse"
+      "computer mouse"
     ]
   , "tags": [
     ]
-  , "unicode_version": "7.0"
-  , "ios_version": "9.1"
+  , "unicode version": "7.0"
+  , "ios version": "9.1"
   }
 , {
     "emoji": "🖲️"
@@ -14779,8 +14722,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "7.0"
-  , "ios_version": "9.1"
+  , "unicode version": "7.0"
+  , "ios version": "9.1"
   }
 , {
     "emoji": "💽"
@@ -14791,21 +14734,21 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "💾"
   , "description": "floppy disk"
   , "category": "Objects"
   , "aliases": [
-      "floppy_disk"
+      "floppy disk"
     ]
   , "tags": [
       "save"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "💿"
@@ -14816,8 +14759,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "📀"
@@ -14828,8 +14771,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🧮"
@@ -14840,46 +14783,46 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
   }
 , {
     "emoji": "🎥"
   , "description": "movie camera"
   , "category": "Objects"
   , "aliases": [
-      "movie_camera"
+      "movie camera"
     ]
   , "tags": [
       "film"
     , "video"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🎞️"
   , "description": "film frames"
   , "category": "Objects"
   , "aliases": [
-      "film_strip"
+      "film strip"
     ]
   , "tags": [
     ]
-  , "unicode_version": "7.0"
-  , "ios_version": "9.1"
+  , "unicode version": "7.0"
+  , "ios version": "9.1"
   }
 , {
     "emoji": "📽️"
   , "description": "film projector"
   , "category": "Objects"
   , "aliases": [
-      "film_projector"
+      "film projector"
     ]
   , "tags": [
     ]
-  , "unicode_version": "7.0"
-  , "ios_version": "9.1"
+  , "unicode version": "7.0"
+  , "ios version": "9.1"
   }
 , {
     "emoji": "🎬"
@@ -14891,8 +14834,8 @@ let db = [
   , "tags": [
       "film"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "📺"
@@ -14903,8 +14846,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "📷"
@@ -14916,33 +14859,33 @@ let db = [
   , "tags": [
       "photo"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "📸"
   , "description": "camera with flash"
   , "category": "Objects"
   , "aliases": [
-      "camera_flash"
+      "camera flash"
     ]
   , "tags": [
       "photo"
     ]
-  , "unicode_version": "7.0"
-  , "ios_version": "9.1"
+  , "unicode version": "7.0"
+  , "ios version": "9.1"
   }
 , {
     "emoji": "📹"
   , "description": "video camera"
   , "category": "Objects"
   , "aliases": [
-      "video_camera"
+      "video camera"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "📼"
@@ -14953,8 +14896,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🔍"
@@ -14967,20 +14910,20 @@ let db = [
       "search"
     , "zoom"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🔎"
   , "description": "magnifying glass tilted right"
   , "category": "Objects"
   , "aliases": [
-      "mag_right"
+      "mag right"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🕯️"
@@ -14991,8 +14934,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "7.0"
-  , "ios_version": "9.1"
+  , "unicode version": "7.0"
+  , "ios version": "9.1"
   }
 , {
     "emoji": "💡"
@@ -15005,8 +14948,8 @@ let db = [
       "idea"
     , "light"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🔦"
@@ -15017,57 +14960,57 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🏮"
   , "description": "red paper lantern"
   , "category": "Objects"
   , "aliases": [
-      "izakaya_lantern"
+      "izakaya lantern"
     , "lantern"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🪔"
   , "description": "diya lamp"
   , "category": "Objects"
   , "aliases": [
-      "diya_lamp"
+      "diya lamp"
     ]
   , "tags": [
     ]
-  , "unicode_version": "12.0"
-  , "ios_version": "13.0"
+  , "unicode version": "12.0"
+  , "ios version": "13.0"
   }
 , {
     "emoji": "📔"
   , "description": "notebook with decorative cover"
   , "category": "Objects"
   , "aliases": [
-      "notebook_with_decorative_cover"
+      "notebook with decorative cover"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "📕"
   , "description": "closed book"
   , "category": "Objects"
   , "aliases": [
-      "closed_book"
+      "closed book"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "📖"
@@ -15075,48 +15018,48 @@ let db = [
   , "category": "Objects"
   , "aliases": [
       "book"
-    , "open_book"
+    , "open book"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "📗"
   , "description": "green book"
   , "category": "Objects"
   , "aliases": [
-      "green_book"
+      "green book"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "📘"
   , "description": "blue book"
   , "category": "Objects"
   , "aliases": [
-      "blue_book"
+      "blue book"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "📙"
   , "description": "orange book"
   , "category": "Objects"
   , "aliases": [
-      "orange_book"
+      "orange book"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "📚"
@@ -15128,8 +15071,8 @@ let db = [
   , "tags": [
       "library"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "📓"
@@ -15140,8 +15083,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "📒"
@@ -15152,20 +15095,20 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "📃"
   , "description": "page with curl"
   , "category": "Objects"
   , "aliases": [
-      "page_with_curl"
+      "page with curl"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "📜"
@@ -15177,21 +15120,21 @@ let db = [
   , "tags": [
       "document"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "📄"
   , "description": "page facing up"
   , "category": "Objects"
   , "aliases": [
-      "page_facing_up"
+      "page facing up"
     ]
   , "tags": [
       "document"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "📰"
@@ -15203,33 +15146,33 @@ let db = [
   , "tags": [
       "press"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🗞️"
   , "description": "rolled-up newspaper"
   , "category": "Objects"
   , "aliases": [
-      "newspaper_roll"
+      "newspaper roll"
     ]
   , "tags": [
       "press"
     ]
-  , "unicode_version": "7.0"
-  , "ios_version": "9.1"
+  , "unicode version": "7.0"
+  , "ios version": "9.1"
   }
 , {
     "emoji": "📑"
   , "description": "bookmark tabs"
   , "category": "Objects"
   , "aliases": [
-      "bookmark_tabs"
+      "bookmark tabs"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🔖"
@@ -15240,8 +15183,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🏷️"
@@ -15253,8 +15196,8 @@ let db = [
   , "tags": [
       "tag"
     ]
-  , "unicode_version": "7.0"
-  , "ios_version": "9.1"
+  , "unicode version": "7.0"
+  , "ios version": "9.1"
   }
 , {
     "emoji": "💰"
@@ -15267,8 +15210,8 @@ let db = [
       "dollar"
     , "cream"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🪙"
@@ -15279,8 +15222,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "13.0"
-  , "ios_version": "14.0"
+  , "unicode version": "13.0"
+  , "ios version": "14.0"
   }
 , {
     "emoji": "💴"
@@ -15291,8 +15234,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "💵"
@@ -15304,8 +15247,8 @@ let db = [
   , "tags": [
       "money"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "💶"
@@ -15316,8 +15259,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "💷"
@@ -15328,34 +15271,34 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "💸"
   , "description": "money with wings"
   , "category": "Objects"
   , "aliases": [
-      "money_with_wings"
+      "money with wings"
     ]
   , "tags": [
       "dollar"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "💳"
   , "description": "credit card"
   , "category": "Objects"
   , "aliases": [
-      "credit_card"
+      "credit card"
     ]
   , "tags": [
       "subscription"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🧾"
@@ -15366,8 +15309,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
   }
 , {
     "emoji": "💹"
@@ -15378,8 +15321,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "✉️"
@@ -15392,8 +15335,8 @@ let db = [
       "letter"
     , "email"
     ]
-  , "unicode_version": ""
-  , "ios_version": "6.0"
+  , "unicode version": ""
+  , "ios version": "6.0"
   }
 , {
     "emoji": "📧"
@@ -15405,56 +15348,56 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "📨"
   , "description": "incoming envelope"
   , "category": "Objects"
   , "aliases": [
-      "incoming_envelope"
+      "incoming envelope"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "📩"
   , "description": "envelope with arrow"
   , "category": "Objects"
   , "aliases": [
-      "envelope_with_arrow"
+      "envelope with arrow"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "📤"
   , "description": "outbox tray"
   , "category": "Objects"
   , "aliases": [
-      "outbox_tray"
+      "outbox tray"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "📥"
   , "description": "inbox tray"
   , "category": "Objects"
   , "aliases": [
-      "inbox_tray"
+      "inbox tray"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "📦"
@@ -15466,8 +15409,8 @@ let db = [
   , "tags": [
       "shipping"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "📫"
@@ -15478,44 +15421,44 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "📪"
   , "description": "closed mailbox with lowered flag"
   , "category": "Objects"
   , "aliases": [
-      "mailbox_closed"
+      "mailbox closed"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "📬"
   , "description": "open mailbox with raised flag"
   , "category": "Objects"
   , "aliases": [
-      "mailbox_with_mail"
+      "mailbox with mail"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "📭"
   , "description": "open mailbox with lowered flag"
   , "category": "Objects"
   , "aliases": [
-      "mailbox_with_no_mail"
+      "mailbox with no mail"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "📮"
@@ -15526,20 +15469,20 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🗳️"
   , "description": "ballot box with ballot"
   , "category": "Objects"
   , "aliases": [
-      "ballot_box"
+      "ballot box"
     ]
   , "tags": [
     ]
-  , "unicode_version": "7.0"
-  , "ios_version": "9.1"
+  , "unicode version": "7.0"
+  , "ios version": "9.1"
   }
 , {
     "emoji": "✏️"
@@ -15550,32 +15493,32 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": ""
-  , "ios_version": "6.0"
+  , "unicode version": ""
+  , "ios version": "6.0"
   }
 , {
     "emoji": "✒️"
   , "description": "black nib"
   , "category": "Objects"
   , "aliases": [
-      "black_nib"
+      "black nib"
     ]
   , "tags": [
     ]
-  , "unicode_version": ""
-  , "ios_version": "6.0"
+  , "unicode version": ""
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🖋️"
   , "description": "fountain pen"
   , "category": "Objects"
   , "aliases": [
-      "fountain_pen"
+      "fountain pen"
     ]
   , "tags": [
     ]
-  , "unicode_version": "7.0"
-  , "ios_version": "9.1"
+  , "unicode version": "7.0"
+  , "ios version": "9.1"
   }
 , {
     "emoji": "🖊️"
@@ -15586,8 +15529,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "7.0"
-  , "ios_version": "9.1"
+  , "unicode version": "7.0"
+  , "ios version": "9.1"
   }
 , {
     "emoji": "🖌️"
@@ -15598,8 +15541,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "7.0"
-  , "ios_version": "9.1"
+  , "unicode version": "7.0"
+  , "ios version": "9.1"
   }
 , {
     "emoji": "🖍️"
@@ -15610,8 +15553,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "7.0"
-  , "ios_version": "9.1"
+  , "unicode version": "7.0"
+  , "ios version": "9.1"
   }
 , {
     "emoji": "📝"
@@ -15625,8 +15568,8 @@ let db = [
       "document"
     , "note"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "💼"
@@ -15638,45 +15581,45 @@ let db = [
   , "tags": [
       "business"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "📁"
   , "description": "file folder"
   , "category": "Objects"
   , "aliases": [
-      "file_folder"
+      "file folder"
     ]
   , "tags": [
       "directory"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "📂"
   , "description": "open file folder"
   , "category": "Objects"
   , "aliases": [
-      "open_file_folder"
+      "open file folder"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🗂️"
   , "description": "card index dividers"
   , "category": "Objects"
   , "aliases": [
-      "card_index_dividers"
+      "card index dividers"
     ]
   , "tags": [
     ]
-  , "unicode_version": "7.0"
-  , "ios_version": "9.1"
+  , "unicode version": "7.0"
+  , "ios version": "9.1"
   }
 , {
     "emoji": "📅"
@@ -15689,8 +15632,8 @@ let db = [
       "calendar"
     , "schedule"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "📆"
@@ -15702,86 +15645,86 @@ let db = [
   , "tags": [
       "schedule"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🗒️"
   , "description": "spiral notepad"
   , "category": "Objects"
   , "aliases": [
-      "spiral_notepad"
+      "spiral notepad"
     ]
   , "tags": [
     ]
-  , "unicode_version": "7.0"
-  , "ios_version": "9.1"
+  , "unicode version": "7.0"
+  , "ios version": "9.1"
   }
 , {
     "emoji": "🗓️"
   , "description": "spiral calendar"
   , "category": "Objects"
   , "aliases": [
-      "spiral_calendar"
+      "spiral calendar"
     ]
   , "tags": [
     ]
-  , "unicode_version": "7.0"
-  , "ios_version": "9.1"
+  , "unicode version": "7.0"
+  , "ios version": "9.1"
   }
 , {
     "emoji": "📇"
   , "description": "card index"
   , "category": "Objects"
   , "aliases": [
-      "card_index"
+      "card index"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "📈"
   , "description": "chart increasing"
   , "category": "Objects"
   , "aliases": [
-      "chart_with_upwards_trend"
+      "chart with upwards trend"
     ]
   , "tags": [
       "graph"
     , "metrics"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "📉"
   , "description": "chart decreasing"
   , "category": "Objects"
   , "aliases": [
-      "chart_with_downwards_trend"
+      "chart with downwards trend"
     ]
   , "tags": [
       "graph"
     , "metrics"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "📊"
   , "description": "bar chart"
   , "category": "Objects"
   , "aliases": [
-      "bar_chart"
+      "bar chart"
     ]
   , "tags": [
       "stats"
     , "metrics"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "📋"
@@ -15792,8 +15735,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "📌"
@@ -15805,21 +15748,21 @@ let db = [
   , "tags": [
       "location"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "📍"
   , "description": "round pushpin"
   , "category": "Objects"
   , "aliases": [
-      "round_pushpin"
+      "round pushpin"
     ]
   , "tags": [
       "location"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "📎"
@@ -15830,8 +15773,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🖇️"
@@ -15842,32 +15785,32 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "7.0"
-  , "ios_version": "9.1"
+  , "unicode version": "7.0"
+  , "ios version": "9.1"
   }
 , {
     "emoji": "📏"
   , "description": "straight ruler"
   , "category": "Objects"
   , "aliases": [
-      "straight_ruler"
+      "straight ruler"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "📐"
   , "description": "triangular ruler"
   , "category": "Objects"
   , "aliases": [
-      "triangular_ruler"
+      "triangular ruler"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "✂️"
@@ -15879,32 +15822,32 @@ let db = [
   , "tags": [
       "cut"
     ]
-  , "unicode_version": ""
-  , "ios_version": "6.0"
+  , "unicode version": ""
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🗃️"
   , "description": "card file box"
   , "category": "Objects"
   , "aliases": [
-      "card_file_box"
+      "card file box"
     ]
   , "tags": [
     ]
-  , "unicode_version": "7.0"
-  , "ios_version": "9.1"
+  , "unicode version": "7.0"
+  , "ios version": "9.1"
   }
 , {
     "emoji": "🗄️"
   , "description": "file cabinet"
   , "category": "Objects"
   , "aliases": [
-      "file_cabinet"
+      "file cabinet"
     ]
   , "tags": [
     ]
-  , "unicode_version": "7.0"
-  , "ios_version": "9.1"
+  , "unicode version": "7.0"
+  , "ios version": "9.1"
   }
 , {
     "emoji": "🗑️"
@@ -15916,8 +15859,8 @@ let db = [
   , "tags": [
       "trash"
     ]
-  , "unicode_version": "7.0"
-  , "ios_version": "9.1"
+  , "unicode version": "7.0"
+  , "ios version": "9.1"
   }
 , {
     "emoji": "🔒"
@@ -15930,8 +15873,8 @@ let db = [
       "security"
     , "private"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🔓"
@@ -15943,33 +15886,33 @@ let db = [
   , "tags": [
       "security"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🔏"
   , "description": "locked with pen"
   , "category": "Objects"
   , "aliases": [
-      "lock_with_ink_pen"
+      "lock with ink pen"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🔐"
   , "description": "locked with key"
   , "category": "Objects"
   , "aliases": [
-      "closed_lock_with_key"
+      "closed lock with key"
     ]
   , "tags": [
       "security"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🔑"
@@ -15982,20 +15925,20 @@ let db = [
       "lock"
     , "password"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🗝️"
   , "description": "old key"
   , "category": "Objects"
   , "aliases": [
-      "old_key"
+      "old key"
     ]
   , "tags": [
     ]
-  , "unicode_version": "7.0"
-  , "ios_version": "9.1"
+  , "unicode version": "7.0"
+  , "ios version": "9.1"
   }
 , {
     "emoji": "🔨"
@@ -16007,8 +15950,8 @@ let db = [
   , "tags": [
       "tool"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🪓"
@@ -16019,8 +15962,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "12.0"
-  , "ios_version": "13.0"
+  , "unicode version": "12.0"
+  , "ios version": "13.0"
   }
 , {
     "emoji": "⛏️"
@@ -16031,32 +15974,32 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "5.2"
-  , "ios_version": "9.1"
+  , "unicode version": "5.2"
+  , "ios version": "9.1"
   }
 , {
     "emoji": "⚒️"
   , "description": "hammer and pick"
   , "category": "Objects"
   , "aliases": [
-      "hammer_and_pick"
+      "hammer and pick"
     ]
   , "tags": [
     ]
-  , "unicode_version": "4.1"
-  , "ios_version": "9.1"
+  , "unicode version": "4.1"
+  , "ios version": "9.1"
   }
 , {
     "emoji": "🛠️"
   , "description": "hammer and wrench"
   , "category": "Objects"
   , "aliases": [
-      "hammer_and_wrench"
+      "hammer and wrench"
     ]
   , "tags": [
     ]
-  , "unicode_version": "7.0"
-  , "ios_version": "9.1"
+  , "unicode version": "7.0"
+  , "ios version": "9.1"
   }
 , {
     "emoji": "🗡️"
@@ -16067,20 +16010,20 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "7.0"
-  , "ios_version": "9.1"
+  , "unicode version": "7.0"
+  , "ios version": "9.1"
   }
 , {
     "emoji": "⚔️"
   , "description": "crossed swords"
   , "category": "Objects"
   , "aliases": [
-      "crossed_swords"
+      "crossed swords"
     ]
   , "tags": [
     ]
-  , "unicode_version": "4.1"
-  , "ios_version": "9.1"
+  , "unicode version": "4.1"
+  , "ios version": "9.1"
   }
 , {
     "emoji": "🔫"
@@ -16093,8 +16036,8 @@ let db = [
       "shoot"
     , "weapon"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🪃"
@@ -16105,21 +16048,21 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "13.0"
-  , "ios_version": "14.0"
+  , "unicode version": "13.0"
+  , "ios version": "14.0"
   }
 , {
     "emoji": "🏹"
   , "description": "bow and arrow"
   , "category": "Objects"
   , "aliases": [
-      "bow_and_arrow"
+      "bow and arrow"
     ]
   , "tags": [
       "archery"
     ]
-  , "unicode_version": "8.0"
-  , "ios_version": "9.1"
+  , "unicode version": "8.0"
+  , "ios version": "9.1"
   }
 , {
     "emoji": "🛡️"
@@ -16130,20 +16073,20 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "7.0"
-  , "ios_version": "9.1"
+  , "unicode version": "7.0"
+  , "ios version": "9.1"
   }
 , {
     "emoji": "🪚"
   , "description": "carpentry saw"
   , "category": "Objects"
   , "aliases": [
-      "carpentry_saw"
+      "carpentry saw"
     ]
   , "tags": [
     ]
-  , "unicode_version": "13.0"
-  , "ios_version": "14.0"
+  , "unicode version": "13.0"
+  , "ios version": "14.0"
   }
 , {
     "emoji": "🔧"
@@ -16155,32 +16098,21 @@ let db = [
   , "tags": [
       "tool"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
-, {
-    "emoji": "🪛"
-  , "description": "screwdriver"
-  , "category": "Objects"
-  , "aliases": [
-      "screwdriver"
-    ]
-  , "tags": [
-    ]
-  , "unicode_version": "13.0"
-  , "ios_version": "14.0"
-  }
+
 , {
     "emoji": "🔩"
   , "description": "nut and bolt"
   , "category": "Objects"
   , "aliases": [
-      "nut_and_bolt"
+      "nut and bolt"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "⚙️"
@@ -16191,8 +16123,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "4.1"
-  , "ios_version": "9.1"
+  , "unicode version": "4.1"
+  , "ios version": "9.1"
   }
 , {
     "emoji": "🗜️"
@@ -16203,32 +16135,32 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "7.0"
-  , "ios_version": "9.1"
+  , "unicode version": "7.0"
+  , "ios version": "9.1"
   }
 , {
     "emoji": "⚖️"
   , "description": "balance scale"
   , "category": "Objects"
   , "aliases": [
-      "balance_scale"
+      "balance scale"
     ]
   , "tags": [
     ]
-  , "unicode_version": "4.1"
-  , "ios_version": "9.1"
+  , "unicode version": "4.1"
+  , "ios version": "9.1"
   }
 , {
     "emoji": "🦯"
   , "description": "white cane"
   , "category": "Objects"
   , "aliases": [
-      "probing_cane"
+      "probing cane"
     ]
   , "tags": [
     ]
-  , "unicode_version": "12.0"
-  , "ios_version": "13.0"
+  , "unicode version": "12.0"
+  , "ios version": "13.0"
   }
 , {
     "emoji": "🔗"
@@ -16239,8 +16171,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "⛓️"
@@ -16251,8 +16183,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "5.2"
-  , "ios_version": "9.1"
+  , "unicode version": "5.2"
+  , "ios version": "9.1"
   }
 , {
     "emoji": "🪝"
@@ -16263,8 +16195,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "13.0"
-  , "ios_version": "14.0"
+  , "unicode version": "13.0"
+  , "ios version": "14.0"
   }
 , {
     "emoji": "🧰"
@@ -16275,8 +16207,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
   }
 , {
     "emoji": "🧲"
@@ -16287,8 +16219,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
   }
 , {
     "emoji": "🪜"
@@ -16299,8 +16231,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "13.0"
-  , "ios_version": "14.0"
+  , "unicode version": "13.0"
+  , "ios version": "14.0"
   }
 , {
     "emoji": "⚗️"
@@ -16311,32 +16243,32 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "4.1"
-  , "ios_version": "9.1"
+  , "unicode version": "4.1"
+  , "ios version": "9.1"
   }
 , {
     "emoji": "🧪"
   , "description": "test tube"
   , "category": "Objects"
   , "aliases": [
-      "test_tube"
+      "test tube"
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
   }
 , {
     "emoji": "🧫"
   , "description": "petri dish"
   , "category": "Objects"
   , "aliases": [
-      "petri_dish"
+      "petri dish"
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
   }
 , {
     "emoji": "🧬"
@@ -16347,8 +16279,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
   }
 , {
     "emoji": "🔬"
@@ -16362,8 +16294,8 @@ let db = [
     , "laboratory"
     , "investigate"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🔭"
@@ -16374,8 +16306,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "📡"
@@ -16387,8 +16319,8 @@ let db = [
   , "tags": [
       "signal"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "💉"
@@ -16402,20 +16334,20 @@ let db = [
     , "hospital"
     , "needle"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🩸"
   , "description": "drop of blood"
   , "category": "Objects"
   , "aliases": [
-      "drop_of_blood"
+      "drop of blood"
     ]
   , "tags": [
     ]
-  , "unicode_version": "12.0"
-  , "ios_version": "13.0"
+  , "unicode version": "12.0"
+  , "ios version": "13.0"
   }
 , {
     "emoji": "💊"
@@ -16428,20 +16360,20 @@ let db = [
       "health"
     , "medicine"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🩹"
   , "description": "adhesive bandage"
   , "category": "Objects"
   , "aliases": [
-      "adhesive_bandage"
+      "adhesive bandage"
     ]
   , "tags": [
     ]
-  , "unicode_version": "12.0"
-  , "ios_version": "13.0"
+  , "unicode version": "12.0"
+  , "ios version": "13.0"
   }
 , {
     "emoji": "🩺"
@@ -16452,8 +16384,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "12.0"
-  , "ios_version": "13.0"
+  , "unicode version": "12.0"
+  , "ios version": "13.0"
   }
 , {
     "emoji": "🚪"
@@ -16464,8 +16396,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🛗"
@@ -16476,8 +16408,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "13.0"
-  , "ios_version": "14.0"
+  , "unicode version": "13.0"
+  , "ios version": "14.0"
   }
 , {
     "emoji": "🪞"
@@ -16488,8 +16420,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "13.0"
-  , "ios_version": "14.0"
+  , "unicode version": "13.0"
+  , "ios version": "14.0"
   }
 , {
     "emoji": "🪟"
@@ -16500,8 +16432,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "13.0"
-  , "ios_version": "14.0"
+  , "unicode version": "13.0"
+  , "ios version": "14.0"
   }
 , {
     "emoji": "🛏️"
@@ -16512,20 +16444,20 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "7.0"
-  , "ios_version": "9.1"
+  , "unicode version": "7.0"
+  , "ios version": "9.1"
   }
 , {
     "emoji": "🛋️"
   , "description": "couch and lamp"
   , "category": "Objects"
   , "aliases": [
-      "couch_and_lamp"
+      "couch and lamp"
     ]
   , "tags": [
     ]
-  , "unicode_version": "7.0"
-  , "ios_version": "9.1"
+  , "unicode version": "7.0"
+  , "ios version": "9.1"
   }
 , {
     "emoji": "🪑"
@@ -16536,8 +16468,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "12.0"
-  , "ios_version": "13.0"
+  , "unicode version": "12.0"
+  , "ios version": "13.0"
   }
 , {
     "emoji": "🚽"
@@ -16549,8 +16481,8 @@ let db = [
   , "tags": [
       "wc"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🪠"
@@ -16561,8 +16493,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "13.0"
-  , "ios_version": "14.0"
+  , "unicode version": "13.0"
+  , "ios version": "14.0"
   }
 , {
     "emoji": "🚿"
@@ -16574,8 +16506,8 @@ let db = [
   , "tags": [
       "bath"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🛁"
@@ -16586,20 +16518,20 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🪤"
   , "description": "mouse trap"
   , "category": "Objects"
   , "aliases": [
-      "mouse_trap"
+      "mouse trap"
     ]
   , "tags": [
     ]
-  , "unicode_version": "13.0"
-  , "ios_version": "14.0"
+  , "unicode version": "13.0"
+  , "ios version": "14.0"
   }
 , {
     "emoji": "🪒"
@@ -16610,32 +16542,32 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "12.0"
-  , "ios_version": "13.0"
+  , "unicode version": "12.0"
+  , "ios version": "13.0"
   }
 , {
     "emoji": "🧴"
   , "description": "lotion bottle"
   , "category": "Objects"
   , "aliases": [
-      "lotion_bottle"
+      "lotion bottle"
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
   }
 , {
     "emoji": "🧷"
   , "description": "safety pin"
   , "category": "Objects"
   , "aliases": [
-      "safety_pin"
+      "safety pin"
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
   }
 , {
     "emoji": "🧹"
@@ -16646,8 +16578,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
   }
 , {
     "emoji": "🧺"
@@ -16658,21 +16590,21 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
   }
 , {
     "emoji": "🧻"
   , "description": "roll of paper"
   , "category": "Objects"
   , "aliases": [
-      "roll_of_paper"
+      "roll of paper"
     ]
   , "tags": [
       "toilet"
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
   }
 , {
     "emoji": "🪣"
@@ -16683,8 +16615,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "13.0"
-  , "ios_version": "14.0"
+  , "unicode version": "13.0"
+  , "ios version": "14.0"
   }
 , {
     "emoji": "🧼"
@@ -16695,8 +16627,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
   }
 , {
     "emoji": "🪥"
@@ -16707,8 +16639,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "13.0"
-  , "ios_version": "14.0"
+  , "unicode version": "13.0"
+  , "ios version": "14.0"
   }
 , {
     "emoji": "🧽"
@@ -16719,32 +16651,32 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
   }
 , {
     "emoji": "🧯"
   , "description": "fire extinguisher"
   , "category": "Objects"
   , "aliases": [
-      "fire_extinguisher"
+      "fire extinguisher"
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
   }
 , {
     "emoji": "🛒"
   , "description": "shopping cart"
   , "category": "Objects"
   , "aliases": [
-      "shopping_cart"
+      "shopping cart"
     ]
   , "tags": [
     ]
-  , "unicode_version": "9.0"
-  , "ios_version": "10.2"
+  , "unicode version": "9.0"
+  , "ios version": "10.2"
   }
 , {
     "emoji": "🚬"
@@ -16756,8 +16688,8 @@ let db = [
   , "tags": [
       "cigarette"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "⚰️"
@@ -16769,8 +16701,8 @@ let db = [
   , "tags": [
       "funeral"
     ]
-  , "unicode_version": "4.1"
-  , "ios_version": "9.1"
+  , "unicode version": "4.1"
+  , "ios version": "9.1"
   }
 , {
     "emoji": "🪦"
@@ -16781,20 +16713,20 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "13.0"
-  , "ios_version": "14.0"
+  , "unicode version": "13.0"
+  , "ios version": "14.0"
   }
 , {
     "emoji": "⚱️"
   , "description": "funeral urn"
   , "category": "Objects"
   , "aliases": [
-      "funeral_urn"
+      "funeral urn"
     ]
   , "tags": [
     ]
-  , "unicode_version": "4.1"
-  , "ios_version": "9.1"
+  , "unicode version": "4.1"
+  , "ios version": "9.1"
   }
 , {
     "emoji": "🗿"
@@ -16806,8 +16738,8 @@ let db = [
   , "tags": [
       "stone"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🪧"
@@ -16818,8 +16750,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "13.0"
-  , "ios_version": "14.0"
+  , "unicode version": "13.0"
+  , "ios version": "14.0"
   }
 , {
     "emoji": "🏧"
@@ -16830,32 +16762,32 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🚮"
   , "description": "litter in bin sign"
   , "category": "Symbols"
   , "aliases": [
-      "put_litter_in_its_place"
+      "put litter in its place"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🚰"
   , "description": "potable water"
   , "category": "Symbols"
   , "aliases": [
-      "potable_water"
+      "potable water"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "♿"
@@ -16867,8 +16799,8 @@ let db = [
   , "tags": [
       "accessibility"
     ]
-  , "unicode_version": "4.1"
-  , "ios_version": "6.0"
+  , "unicode version": "4.1"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🚹"
@@ -16879,8 +16811,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🚺"
@@ -16891,8 +16823,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🚻"
@@ -16904,20 +16836,20 @@ let db = [
   , "tags": [
       "toilet"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🚼"
   , "description": "baby symbol"
   , "category": "Symbols"
   , "aliases": [
-      "baby_symbol"
+      "baby symbol"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🚾"
@@ -16930,20 +16862,20 @@ let db = [
       "toilet"
     , "restroom"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🛂"
   , "description": "passport control"
   , "category": "Symbols"
   , "aliases": [
-      "passport_control"
+      "passport control"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🛃"
@@ -16954,33 +16886,33 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🛄"
   , "description": "baggage claim"
   , "category": "Symbols"
   , "aliases": [
-      "baggage_claim"
+      "baggage claim"
     ]
   , "tags": [
       "airport"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🛅"
   , "description": "left luggage"
   , "category": "Symbols"
   , "aliases": [
-      "left_luggage"
+      "left luggage"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "⚠️"
@@ -16992,119 +16924,119 @@ let db = [
   , "tags": [
       "wip"
     ]
-  , "unicode_version": "4.0"
-  , "ios_version": "6.0"
+  , "unicode version": "4.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🚸"
   , "description": "children crossing"
   , "category": "Symbols"
   , "aliases": [
-      "children_crossing"
+      "children crossing"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "⛔"
   , "description": "no entry"
   , "category": "Symbols"
   , "aliases": [
-      "no_entry"
+      "no entry"
     ]
   , "tags": [
       "limit"
     ]
-  , "unicode_version": "5.2"
-  , "ios_version": "6.0"
+  , "unicode version": "5.2"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🚫"
   , "description": "prohibited"
   , "category": "Symbols"
   , "aliases": [
-      "no_entry_sign"
+      "no entry sign"
     ]
   , "tags": [
       "block"
     , "forbidden"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🚳"
   , "description": "no bicycles"
   , "category": "Symbols"
   , "aliases": [
-      "no_bicycles"
+      "no bicycles"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🚭"
   , "description": "no smoking"
   , "category": "Symbols"
   , "aliases": [
-      "no_smoking"
+      "no smoking"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🚯"
   , "description": "no littering"
   , "category": "Symbols"
   , "aliases": [
-      "do_not_litter"
+      "do not litter"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🚱"
   , "description": "non-potable water"
   , "category": "Symbols"
   , "aliases": [
-      "non-potable_water"
+      "non-potable water"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🚷"
   , "description": "no pedestrians"
   , "category": "Symbols"
   , "aliases": [
-      "no_pedestrians"
+      "no pedestrians"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "📵"
   , "description": "no mobile phones"
   , "category": "Symbols"
   , "aliases": [
-      "no_mobile_phones"
+      "no mobile phones"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🔞"
@@ -17115,8 +17047,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "☢️"
@@ -17127,8 +17059,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": ""
-  , "ios_version": "9.1"
+  , "unicode version": ""
+  , "ios version": "9.1"
   }
 , {
     "emoji": "☣️"
@@ -17139,202 +17071,202 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": ""
-  , "ios_version": "9.1"
+  , "unicode version": ""
+  , "ios version": "9.1"
   }
 , {
     "emoji": "⬆️"
   , "description": "up arrow"
   , "category": "Symbols"
   , "aliases": [
-      "arrow_up"
+      "arrow up"
     ]
   , "tags": [
     ]
-  , "unicode_version": "4.0"
-  , "ios_version": "6.0"
+  , "unicode version": "4.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "↗️"
   , "description": "up-right arrow"
   , "category": "Symbols"
   , "aliases": [
-      "arrow_upper_right"
+      "arrow upper right"
     ]
   , "tags": [
     ]
-  , "unicode_version": ""
-  , "ios_version": "6.0"
+  , "unicode version": ""
+  , "ios version": "6.0"
   }
 , {
     "emoji": "➡️"
   , "description": "right arrow"
   , "category": "Symbols"
   , "aliases": [
-      "arrow_right"
+      "arrow right"
     ]
   , "tags": [
     ]
-  , "unicode_version": ""
-  , "ios_version": "6.0"
+  , "unicode version": ""
+  , "ios version": "6.0"
   }
 , {
     "emoji": "↘️"
   , "description": "down-right arrow"
   , "category": "Symbols"
   , "aliases": [
-      "arrow_lower_right"
+      "arrow lower right"
     ]
   , "tags": [
     ]
-  , "unicode_version": ""
-  , "ios_version": "6.0"
+  , "unicode version": ""
+  , "ios version": "6.0"
   }
 , {
     "emoji": "⬇️"
   , "description": "down arrow"
   , "category": "Symbols"
   , "aliases": [
-      "arrow_down"
+      "arrow down"
     ]
   , "tags": [
     ]
-  , "unicode_version": "4.0"
-  , "ios_version": "6.0"
+  , "unicode version": "4.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "↙️"
   , "description": "down-left arrow"
   , "category": "Symbols"
   , "aliases": [
-      "arrow_lower_left"
+      "arrow lower left"
     ]
   , "tags": [
     ]
-  , "unicode_version": ""
-  , "ios_version": "6.0"
+  , "unicode version": ""
+  , "ios version": "6.0"
   }
 , {
     "emoji": "⬅️"
   , "description": "left arrow"
   , "category": "Symbols"
   , "aliases": [
-      "arrow_left"
+      "arrow left"
     ]
   , "tags": [
     ]
-  , "unicode_version": "4.0"
-  , "ios_version": "6.0"
+  , "unicode version": "4.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "↖️"
   , "description": "up-left arrow"
   , "category": "Symbols"
   , "aliases": [
-      "arrow_upper_left"
+      "arrow upper left"
     ]
   , "tags": [
     ]
-  , "unicode_version": ""
-  , "ios_version": "6.0"
+  , "unicode version": ""
+  , "ios version": "6.0"
   }
 , {
     "emoji": "↕️"
   , "description": "up-down arrow"
   , "category": "Symbols"
   , "aliases": [
-      "arrow_up_down"
+      "arrow up down"
     ]
   , "tags": [
     ]
-  , "unicode_version": ""
-  , "ios_version": "6.0"
+  , "unicode version": ""
+  , "ios version": "6.0"
   }
 , {
     "emoji": "↔️"
   , "description": "left-right arrow"
   , "category": "Symbols"
   , "aliases": [
-      "left_right_arrow"
+      "left right arrow"
     ]
   , "tags": [
     ]
-  , "unicode_version": ""
-  , "ios_version": "6.0"
+  , "unicode version": ""
+  , "ios version": "6.0"
   }
 , {
     "emoji": "↩️"
   , "description": "right arrow curving left"
   , "category": "Symbols"
   , "aliases": [
-      "leftwards_arrow_with_hook"
+      "leftwards arrow with hook"
     ]
   , "tags": [
       "return"
     ]
-  , "unicode_version": ""
-  , "ios_version": "6.0"
+  , "unicode version": ""
+  , "ios version": "6.0"
   }
 , {
     "emoji": "↪️"
   , "description": "left arrow curving right"
   , "category": "Symbols"
   , "aliases": [
-      "arrow_right_hook"
+      "arrow right hook"
     ]
   , "tags": [
     ]
-  , "unicode_version": ""
-  , "ios_version": "6.0"
+  , "unicode version": ""
+  , "ios version": "6.0"
   }
 , {
     "emoji": "⤴️"
   , "description": "right arrow curving up"
   , "category": "Symbols"
   , "aliases": [
-      "arrow_heading_up"
+      "arrow heading up"
     ]
   , "tags": [
     ]
-  , "unicode_version": ""
-  , "ios_version": "6.0"
+  , "unicode version": ""
+  , "ios version": "6.0"
   }
 , {
     "emoji": "⤵️"
   , "description": "right arrow curving down"
   , "category": "Symbols"
   , "aliases": [
-      "arrow_heading_down"
+      "arrow heading down"
     ]
   , "tags": [
     ]
-  , "unicode_version": ""
-  , "ios_version": "6.0"
+  , "unicode version": ""
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🔃"
   , "description": "clockwise vertical arrows"
   , "category": "Symbols"
   , "aliases": [
-      "arrows_clockwise"
+      "arrows clockwise"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🔄"
   , "description": "counterclockwise arrows button"
   , "category": "Symbols"
   , "aliases": [
-      "arrows_counterclockwise"
+      "arrows counterclockwise"
     ]
   , "tags": [
       "sync"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🔙"
@@ -17345,8 +17277,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🔚"
@@ -17357,8 +17289,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🔛"
@@ -17369,8 +17301,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🔜"
@@ -17381,8 +17313,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🔝"
@@ -17393,32 +17325,32 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🛐"
   , "description": "place of worship"
   , "category": "Symbols"
   , "aliases": [
-      "place_of_worship"
+      "place of worship"
     ]
   , "tags": [
     ]
-  , "unicode_version": "8.0"
-  , "ios_version": "9.1"
+  , "unicode version": "8.0"
+  , "ios version": "9.1"
   }
 , {
     "emoji": "⚛️"
   , "description": "atom symbol"
   , "category": "Symbols"
   , "aliases": [
-      "atom_symbol"
+      "atom symbol"
     ]
   , "tags": [
     ]
-  , "unicode_version": "4.1"
-  , "ios_version": "9.1"
+  , "unicode version": "4.1"
+  , "ios version": "9.1"
   }
 , {
     "emoji": "🕉️"
@@ -17429,92 +17361,92 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "7.0"
-  , "ios_version": "9.1"
+  , "unicode version": "7.0"
+  , "ios version": "9.1"
   }
 , {
     "emoji": "✡️"
   , "description": "star of David"
   , "category": "Symbols"
   , "aliases": [
-      "star_of_david"
+      "star of david"
     ]
   , "tags": [
     ]
-  , "unicode_version": ""
-  , "ios_version": "9.1"
+  , "unicode version": ""
+  , "ios version": "9.1"
   }
 , {
     "emoji": "☸️"
   , "description": "wheel of dharma"
   , "category": "Symbols"
   , "aliases": [
-      "wheel_of_dharma"
+      "wheel of dharma"
     ]
   , "tags": [
     ]
-  , "unicode_version": ""
-  , "ios_version": "9.1"
+  , "unicode version": ""
+  , "ios version": "9.1"
   }
 , {
     "emoji": "☯️"
   , "description": "yin yang"
   , "category": "Symbols"
   , "aliases": [
-      "yin_yang"
+      "yin yang"
     ]
   , "tags": [
     ]
-  , "unicode_version": ""
-  , "ios_version": "9.1"
+  , "unicode version": ""
+  , "ios version": "9.1"
   }
 , {
     "emoji": "✝️"
   , "description": "latin cross"
   , "category": "Symbols"
   , "aliases": [
-      "latin_cross"
+      "latin cross"
     ]
   , "tags": [
     ]
-  , "unicode_version": ""
-  , "ios_version": "9.1"
+  , "unicode version": ""
+  , "ios version": "9.1"
   }
 , {
     "emoji": "☦️"
   , "description": "orthodox cross"
   , "category": "Symbols"
   , "aliases": [
-      "orthodox_cross"
+      "orthodox cross"
     ]
   , "tags": [
     ]
-  , "unicode_version": ""
-  , "ios_version": "9.1"
+  , "unicode version": ""
+  , "ios version": "9.1"
   }
 , {
     "emoji": "☪️"
   , "description": "star and crescent"
   , "category": "Symbols"
   , "aliases": [
-      "star_and_crescent"
+      "star and crescent"
     ]
   , "tags": [
     ]
-  , "unicode_version": ""
-  , "ios_version": "9.1"
+  , "unicode version": ""
+  , "ios version": "9.1"
   }
 , {
     "emoji": "☮️"
   , "description": "peace symbol"
   , "category": "Symbols"
   , "aliases": [
-      "peace_symbol"
+      "peace symbol"
     ]
   , "tags": [
     ]
-  , "unicode_version": ""
-  , "ios_version": "9.1"
+  , "unicode version": ""
+  , "ios version": "9.1"
   }
 , {
     "emoji": "🕎"
@@ -17525,20 +17457,20 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "8.0"
-  , "ios_version": "9.1"
+  , "unicode version": "8.0"
+  , "ios version": "9.1"
   }
 , {
     "emoji": "🔯"
   , "description": "dotted six-pointed star"
   , "category": "Symbols"
   , "aliases": [
-      "six_pointed_star"
+      "six pointed star"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "♈"
@@ -17549,8 +17481,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": ""
-  , "ios_version": "6.0"
+  , "unicode version": ""
+  , "ios version": "6.0"
   }
 , {
     "emoji": "♉"
@@ -17561,8 +17493,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": ""
-  , "ios_version": "6.0"
+  , "unicode version": ""
+  , "ios version": "6.0"
   }
 , {
     "emoji": "♊"
@@ -17573,8 +17505,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": ""
-  , "ios_version": "6.0"
+  , "unicode version": ""
+  , "ios version": "6.0"
   }
 , {
     "emoji": "♋"
@@ -17585,8 +17517,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": ""
-  , "ios_version": "6.0"
+  , "unicode version": ""
+  , "ios version": "6.0"
   }
 , {
     "emoji": "♌"
@@ -17597,8 +17529,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": ""
-  , "ios_version": "6.0"
+  , "unicode version": ""
+  , "ios version": "6.0"
   }
 , {
     "emoji": "♍"
@@ -17609,8 +17541,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": ""
-  , "ios_version": "6.0"
+  , "unicode version": ""
+  , "ios version": "6.0"
   }
 , {
     "emoji": "♎"
@@ -17621,8 +17553,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": ""
-  , "ios_version": "6.0"
+  , "unicode version": ""
+  , "ios version": "6.0"
   }
 , {
     "emoji": "♏"
@@ -17633,8 +17565,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": ""
-  , "ios_version": "6.0"
+  , "unicode version": ""
+  , "ios version": "6.0"
   }
 , {
     "emoji": "♐"
@@ -17645,8 +17577,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": ""
-  , "ios_version": "6.0"
+  , "unicode version": ""
+  , "ios version": "6.0"
   }
 , {
     "emoji": "♑"
@@ -17657,8 +17589,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": ""
-  , "ios_version": "6.0"
+  , "unicode version": ""
+  , "ios version": "6.0"
   }
 , {
     "emoji": "♒"
@@ -17669,8 +17601,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": ""
-  , "ios_version": "6.0"
+  , "unicode version": ""
+  , "ios version": "6.0"
   }
 , {
     "emoji": "♓"
@@ -17681,8 +17613,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": ""
-  , "ios_version": "6.0"
+  , "unicode version": ""
+  , "ios version": "6.0"
   }
 , {
     "emoji": "⛎"
@@ -17693,21 +17625,21 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🔀"
   , "description": "shuffle tracks button"
   , "category": "Symbols"
   , "aliases": [
-      "twisted_rightwards_arrows"
+      "twisted rightwards arrows"
     ]
   , "tags": [
       "shuffle"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🔁"
@@ -17719,80 +17651,80 @@ let db = [
   , "tags": [
       "loop"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🔂"
   , "description": "repeat single button"
   , "category": "Symbols"
   , "aliases": [
-      "repeat_one"
+      "repeat one"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "▶️"
   , "description": "play button"
   , "category": "Symbols"
   , "aliases": [
-      "arrow_forward"
+      "arrow forward"
     ]
   , "tags": [
     ]
-  , "unicode_version": ""
-  , "ios_version": "6.0"
+  , "unicode version": ""
+  , "ios version": "6.0"
   }
 , {
     "emoji": "⏩"
   , "description": "fast-forward button"
   , "category": "Symbols"
   , "aliases": [
-      "fast_forward"
+      "fast forward"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "⏭️"
   , "description": "next track button"
   , "category": "Symbols"
   , "aliases": [
-      "next_track_button"
+      "next track button"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "9.1"
+  , "unicode version": "6.0"
+  , "ios version": "9.1"
   }
 , {
     "emoji": "⏯️"
   , "description": "play or pause button"
   , "category": "Symbols"
   , "aliases": [
-      "play_or_pause_button"
+      "play or pause button"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "9.1"
+  , "unicode version": "6.0"
+  , "ios version": "9.1"
   }
 , {
     "emoji": "◀️"
   , "description": "reverse button"
   , "category": "Symbols"
   , "aliases": [
-      "arrow_backward"
+      "arrow backward"
     ]
   , "tags": [
     ]
-  , "unicode_version": ""
-  , "ios_version": "6.0"
+  , "unicode version": ""
+  , "ios version": "6.0"
   }
 , {
     "emoji": "⏪"
@@ -17803,116 +17735,116 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "⏮️"
   , "description": "last track button"
   , "category": "Symbols"
   , "aliases": [
-      "previous_track_button"
+      "previous track button"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "9.1"
+  , "unicode version": "6.0"
+  , "ios version": "9.1"
   }
 , {
     "emoji": "🔼"
   , "description": "upwards button"
   , "category": "Symbols"
   , "aliases": [
-      "arrow_up_small"
+      "arrow up small"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "⏫"
   , "description": "fast up button"
   , "category": "Symbols"
   , "aliases": [
-      "arrow_double_up"
+      "arrow double up"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🔽"
   , "description": "downwards button"
   , "category": "Symbols"
   , "aliases": [
-      "arrow_down_small"
+      "arrow down small"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "⏬"
   , "description": "fast down button"
   , "category": "Symbols"
   , "aliases": [
-      "arrow_double_down"
+      "arrow double down"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "⏸️"
   , "description": "pause button"
   , "category": "Symbols"
   , "aliases": [
-      "pause_button"
+      "pause button"
     ]
   , "tags": [
     ]
-  , "unicode_version": "7.0"
-  , "ios_version": "9.1"
+  , "unicode version": "7.0"
+  , "ios version": "9.1"
   }
 , {
     "emoji": "⏹️"
   , "description": "stop button"
   , "category": "Symbols"
   , "aliases": [
-      "stop_button"
+      "stop button"
     ]
   , "tags": [
     ]
-  , "unicode_version": "7.0"
-  , "ios_version": "9.1"
+  , "unicode version": "7.0"
+  , "ios version": "9.1"
   }
 , {
     "emoji": "⏺️"
   , "description": "record button"
   , "category": "Symbols"
   , "aliases": [
-      "record_button"
+      "record button"
     ]
   , "tags": [
     ]
-  , "unicode_version": "7.0"
-  , "ios_version": "9.1"
+  , "unicode version": "7.0"
+  , "ios version": "9.1"
   }
 , {
     "emoji": "⏏️"
   , "description": "eject button"
   , "category": "Symbols"
   , "aliases": [
-      "eject_button"
+      "eject button"
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
   }
 , {
     "emoji": "🎦"
@@ -17925,155 +17857,155 @@ let db = [
       "film"
     , "movie"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🔅"
   , "description": "dim button"
   , "category": "Symbols"
   , "aliases": [
-      "low_brightness"
+      "low brightness"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🔆"
   , "description": "bright button"
   , "category": "Symbols"
   , "aliases": [
-      "high_brightness"
+      "high brightness"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "📶"
   , "description": "antenna bars"
   , "category": "Symbols"
   , "aliases": [
-      "signal_strength"
+      "signal strength"
     ]
   , "tags": [
       "wifi"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "📳"
   , "description": "vibration mode"
   , "category": "Symbols"
   , "aliases": [
-      "vibration_mode"
+      "vibration mode"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "📴"
   , "description": "mobile phone off"
   , "category": "Symbols"
   , "aliases": [
-      "mobile_phone_off"
+      "mobile phone off"
     ]
   , "tags": [
       "mute"
     , "off"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "♀️"
   , "description": "female sign"
   , "category": "Symbols"
   , "aliases": [
-      "female_sign"
+      "female sign"
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
   }
 , {
     "emoji": "♂️"
   , "description": "male sign"
   , "category": "Symbols"
   , "aliases": [
-      "male_sign"
+      "male sign"
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
   }
 , {
     "emoji": "⚧️"
   , "description": "transgender symbol"
   , "category": "Symbols"
   , "aliases": [
-      "transgender_symbol"
+      "transgender symbol"
     ]
   , "tags": [
     ]
-  , "unicode_version": "13.0"
-  , "ios_version": "14.0"
+  , "unicode version": "13.0"
+  , "ios version": "14.0"
   }
 , {
     "emoji": "✖️"
   , "description": "multiply"
   , "category": "Symbols"
   , "aliases": [
-      "heavy_multiplication_x"
+      "heavy multiplication x"
     ]
   , "tags": [
     ]
-  , "unicode_version": ""
-  , "ios_version": "6.0"
+  , "unicode version": ""
+  , "ios version": "6.0"
   }
 , {
     "emoji": "➕"
   , "description": "plus"
   , "category": "Symbols"
   , "aliases": [
-      "heavy_plus_sign"
+      "heavy plus sign"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "➖"
   , "description": "minus"
   , "category": "Symbols"
   , "aliases": [
-      "heavy_minus_sign"
+      "heavy minus sign"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "➗"
   , "description": "divide"
   , "category": "Symbols"
   , "aliases": [
-      "heavy_division_sign"
+      "heavy division sign"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "♾️"
@@ -18084,8 +18016,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
   }
 , {
     "emoji": "‼️"
@@ -18096,8 +18028,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": ""
-  , "ios_version": "6.0"
+  , "unicode version": ""
+  , "ios version": "6.0"
   }
 , {
     "emoji": "⁉️"
@@ -18108,8 +18040,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "3.0"
-  , "ios_version": "6.0"
+  , "unicode version": "3.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "❓"
@@ -18121,32 +18053,32 @@ let db = [
   , "tags": [
       "confused"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "❔"
   , "description": "white question mark"
   , "category": "Symbols"
   , "aliases": [
-      "grey_question"
+      "grey question"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "❕"
   , "description": "white exclamation mark"
   , "category": "Symbols"
   , "aliases": [
-      "grey_exclamation"
+      "grey exclamation"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "❗"
@@ -18154,61 +18086,61 @@ let db = [
   , "category": "Symbols"
   , "aliases": [
       "exclamation"
-    , "heavy_exclamation_mark"
+    , "heavy exclamation mark"
     ]
   , "tags": [
       "bang"
     ]
-  , "unicode_version": "5.2"
-  , "ios_version": "6.0"
+  , "unicode version": "5.2"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "〰️"
   , "description": "wavy dash"
   , "category": "Symbols"
   , "aliases": [
-      "wavy_dash"
+      "wavy dash"
     ]
   , "tags": [
     ]
-  , "unicode_version": ""
-  , "ios_version": "6.0"
+  , "unicode version": ""
+  , "ios version": "6.0"
   }
 , {
     "emoji": "💱"
   , "description": "currency exchange"
   , "category": "Symbols"
   , "aliases": [
-      "currency_exchange"
+      "currency exchange"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "💲"
   , "description": "heavy dollar sign"
   , "category": "Symbols"
   , "aliases": [
-      "heavy_dollar_sign"
+      "heavy dollar sign"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "⚕️"
   , "description": "medical symbol"
   , "category": "Symbols"
   , "aliases": [
-      "medical_symbol"
+      "medical symbol"
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
   }
 , {
     "emoji": "♻️"
@@ -18221,20 +18153,20 @@ let db = [
       "environment"
     , "green"
     ]
-  , "unicode_version": "3.2"
-  , "ios_version": "6.0"
+  , "unicode version": "3.2"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "⚜️"
   , "description": "fleur-de-lis"
   , "category": "Symbols"
   , "aliases": [
-      "fleur_de_lis"
+      "fleur de lis"
     ]
   , "tags": [
     ]
-  , "unicode_version": "4.1"
-  , "ios_version": "9.1"
+  , "unicode version": "4.1"
+  , "ios version": "9.1"
   }
 , {
     "emoji": "🔱"
@@ -18245,20 +18177,20 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "📛"
   , "description": "name badge"
   , "category": "Symbols"
   , "aliases": [
-      "name_badge"
+      "name badge"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🔰"
@@ -18269,8 +18201,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "⭕"
@@ -18281,44 +18213,44 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "5.2"
-  , "ios_version": "6.0"
+  , "unicode version": "5.2"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "✅"
   , "description": "check mark button"
   , "category": "Symbols"
   , "aliases": [
-      "white_check_mark"
+      "white check mark"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "☑️"
   , "description": "check box with check"
   , "category": "Symbols"
   , "aliases": [
-      "ballot_box_with_check"
+      "ballot box with check"
     ]
   , "tags": [
     ]
-  , "unicode_version": ""
-  , "ios_version": "6.0"
+  , "unicode version": ""
+  , "ios version": "6.0"
   }
 , {
     "emoji": "✔️"
   , "description": "check mark"
   , "category": "Symbols"
   , "aliases": [
-      "heavy_check_mark"
+      "heavy check mark"
     ]
   , "tags": [
     ]
-  , "unicode_version": ""
-  , "ios_version": "6.0"
+  , "unicode version": ""
+  , "ios version": "6.0"
   }
 , {
     "emoji": "❌"
@@ -18329,32 +18261,32 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "❎"
   , "description": "cross mark button"
   , "category": "Symbols"
   , "aliases": [
-      "negative_squared_cross_mark"
+      "negative squared cross mark"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "➰"
   , "description": "curly loop"
   , "category": "Symbols"
   , "aliases": [
-      "curly_loop"
+      "curly loop"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "➿"
@@ -18365,44 +18297,44 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "〽️"
   , "description": "part alternation mark"
   , "category": "Symbols"
   , "aliases": [
-      "part_alternation_mark"
+      "part alternation mark"
     ]
   , "tags": [
     ]
-  , "unicode_version": "3.2"
-  , "ios_version": "6.0"
+  , "unicode version": "3.2"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "✳️"
   , "description": "eight-spoked asterisk"
   , "category": "Symbols"
   , "aliases": [
-      "eight_spoked_asterisk"
+      "eight spoked asterisk"
     ]
   , "tags": [
     ]
-  , "unicode_version": ""
-  , "ios_version": "6.0"
+  , "unicode version": ""
+  , "ios version": "6.0"
   }
 , {
     "emoji": "✴️"
   , "description": "eight-pointed star"
   , "category": "Symbols"
   , "aliases": [
-      "eight_pointed_black_star"
+      "eight pointed black star"
     ]
   , "tags": [
     ]
-  , "unicode_version": ""
-  , "ios_version": "6.0"
+  , "unicode version": ""
+  , "ios version": "6.0"
   }
 , {
     "emoji": "❇️"
@@ -18413,8 +18345,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": ""
-  , "ios_version": "6.0"
+  , "unicode version": ""
+  , "ios version": "6.0"
   }
 , {
     "emoji": "©️"
@@ -18425,8 +18357,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": ""
-  , "ios_version": "6.0"
+  , "unicode version": ""
+  , "ios version": "6.0"
   }
 , {
     "emoji": "®️"
@@ -18437,8 +18369,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": ""
-  , "ios_version": "6.0"
+  , "unicode version": ""
+  , "ios version": "6.0"
   }
 , {
     "emoji": "™️"
@@ -18450,8 +18382,8 @@ let db = [
   , "tags": [
       "trademark"
     ]
-  , "unicode_version": ""
-  , "ios_version": "6.0"
+  , "unicode version": ""
+  , "ios version": "6.0"
   }
 , {
     "emoji": "#️⃣"
@@ -18463,8 +18395,8 @@ let db = [
   , "tags": [
       "number"
     ]
-  , "unicode_version": ""
-  , "ios_version": "6.0"
+  , "unicode version": ""
+  , "ios version": "6.0"
   }
 , {
     "emoji": "*️⃣"
@@ -18475,8 +18407,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": ""
-  , "ios_version": "9.1"
+  , "unicode version": ""
+  , "ios version": "9.1"
   }
 , {
     "emoji": "0️⃣"
@@ -18487,8 +18419,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": ""
-  , "ios_version": "6.0"
+  , "unicode version": ""
+  , "ios version": "6.0"
   }
 , {
     "emoji": "1️⃣"
@@ -18499,8 +18431,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": ""
-  , "ios_version": "6.0"
+  , "unicode version": ""
+  , "ios version": "6.0"
   }
 , {
     "emoji": "2️⃣"
@@ -18511,8 +18443,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": ""
-  , "ios_version": "6.0"
+  , "unicode version": ""
+  , "ios version": "6.0"
   }
 , {
     "emoji": "3️⃣"
@@ -18523,8 +18455,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": ""
-  , "ios_version": "6.0"
+  , "unicode version": ""
+  , "ios version": "6.0"
   }
 , {
     "emoji": "4️⃣"
@@ -18535,8 +18467,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": ""
-  , "ios_version": "6.0"
+  , "unicode version": ""
+  , "ios version": "6.0"
   }
 , {
     "emoji": "5️⃣"
@@ -18547,8 +18479,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": ""
-  , "ios_version": "6.0"
+  , "unicode version": ""
+  , "ios version": "6.0"
   }
 , {
     "emoji": "6️⃣"
@@ -18559,8 +18491,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": ""
-  , "ios_version": "6.0"
+  , "unicode version": ""
+  , "ios version": "6.0"
   }
 , {
     "emoji": "7️⃣"
@@ -18571,8 +18503,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": ""
-  , "ios_version": "6.0"
+  , "unicode version": ""
+  , "ios version": "6.0"
   }
 , {
     "emoji": "8️⃣"
@@ -18583,8 +18515,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": ""
-  , "ios_version": "6.0"
+  , "unicode version": ""
+  , "ios version": "6.0"
   }
 , {
     "emoji": "9️⃣"
@@ -18595,33 +18527,33 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": ""
-  , "ios_version": "6.0"
+  , "unicode version": ""
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🔟"
   , "description": "keycap: 10"
   , "category": "Symbols"
   , "aliases": [
-      "keycap_ten"
+      "keycap ten"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🔠"
   , "description": "input latin uppercase"
   , "category": "Symbols"
   , "aliases": [
-      "capital_abcd"
+      "capital abcd"
     ]
   , "tags": [
       "letters"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🔡"
@@ -18632,8 +18564,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🔢"
@@ -18645,8 +18577,8 @@ let db = [
   , "tags": [
       "numbers"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🔣"
@@ -18657,8 +18589,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🔤"
@@ -18670,8 +18602,8 @@ let db = [
   , "tags": [
       "alphabet"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🅰️"
@@ -18682,8 +18614,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🆎"
@@ -18694,8 +18626,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🅱️"
@@ -18706,8 +18638,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🆑"
@@ -18718,8 +18650,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🆒"
@@ -18730,8 +18662,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🆓"
@@ -18742,20 +18674,20 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "ℹ️"
   , "description": "information"
   , "category": "Symbols"
   , "aliases": [
-      "information_source"
+      "information source"
     ]
   , "tags": [
     ]
-  , "unicode_version": "3.0"
-  , "ios_version": "6.0"
+  , "unicode version": "3.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🆔"
@@ -18766,8 +18698,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "Ⓜ️"
@@ -18778,8 +18710,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": ""
-  , "ios_version": "6.0"
+  , "unicode version": ""
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🆕"
@@ -18791,8 +18723,8 @@ let db = [
   , "tags": [
       "fresh"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🆖"
@@ -18803,8 +18735,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🅾️"
@@ -18815,8 +18747,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🆗"
@@ -18828,8 +18760,8 @@ let db = [
   , "tags": [
       "yes"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🅿️"
@@ -18840,8 +18772,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "5.2"
-  , "ios_version": "6.0"
+  , "unicode version": "5.2"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🆘"
@@ -18854,8 +18786,8 @@ let db = [
       "help"
     , "emergency"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🆙"
@@ -18866,8 +18798,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🆚"
@@ -18878,8 +18810,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🈁"
@@ -18890,8 +18822,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🈂️"
@@ -18902,8 +18834,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🈷️"
@@ -18914,8 +18846,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🈶"
@@ -18926,8 +18858,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🈯"
@@ -18938,20 +18870,20 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": ""
-  , "ios_version": "6.0"
+  , "unicode version": ""
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🉐"
   , "description": "Japanese “bargain” button"
   , "category": "Symbols"
   , "aliases": [
-      "ideograph_advantage"
+      "ideograph advantage"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🈹"
@@ -18962,8 +18894,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🈚"
@@ -18974,8 +18906,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": ""
-  , "ios_version": "6.0"
+  , "unicode version": ""
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🈲"
@@ -18986,8 +18918,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🉑"
@@ -18998,8 +18930,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🈸"
@@ -19010,8 +18942,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🈴"
@@ -19022,8 +18954,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🈳"
@@ -19034,8 +18966,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "㊗️"
@@ -19046,8 +18978,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": ""
-  , "ios_version": "6.0"
+  , "unicode version": ""
+  , "ios version": "6.0"
   }
 , {
     "emoji": "㊙️"
@@ -19058,8 +18990,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": ""
-  , "ios_version": "6.0"
+  , "unicode version": ""
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🈺"
@@ -19070,8 +19002,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🈵"
@@ -19082,527 +19014,527 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🔴"
   , "description": "red circle"
   , "category": "Symbols"
   , "aliases": [
-      "red_circle"
+      "red circle"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🟠"
   , "description": "orange circle"
   , "category": "Symbols"
   , "aliases": [
-      "orange_circle"
+      "orange circle"
     ]
   , "tags": [
     ]
-  , "unicode_version": "12.0"
-  , "ios_version": "13.0"
+  , "unicode version": "12.0"
+  , "ios version": "13.0"
   }
 , {
     "emoji": "🟡"
   , "description": "yellow circle"
   , "category": "Symbols"
   , "aliases": [
-      "yellow_circle"
+      "yellow circle"
     ]
   , "tags": [
     ]
-  , "unicode_version": "12.0"
-  , "ios_version": "13.0"
+  , "unicode version": "12.0"
+  , "ios version": "13.0"
   }
 , {
     "emoji": "🟢"
   , "description": "green circle"
   , "category": "Symbols"
   , "aliases": [
-      "green_circle"
+      "green circle"
     ]
   , "tags": [
     ]
-  , "unicode_version": "12.0"
-  , "ios_version": "13.0"
+  , "unicode version": "12.0"
+  , "ios version": "13.0"
   }
 , {
     "emoji": "🔵"
   , "description": "blue circle"
   , "category": "Symbols"
   , "aliases": [
-      "large_blue_circle"
+      "large blue circle"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🟣"
   , "description": "purple circle"
   , "category": "Symbols"
   , "aliases": [
-      "purple_circle"
+      "purple circle"
     ]
   , "tags": [
     ]
-  , "unicode_version": "12.0"
-  , "ios_version": "13.0"
+  , "unicode version": "12.0"
+  , "ios version": "13.0"
   }
 , {
     "emoji": "🟤"
   , "description": "brown circle"
   , "category": "Symbols"
   , "aliases": [
-      "brown_circle"
+      "brown circle"
     ]
   , "tags": [
     ]
-  , "unicode_version": "12.0"
-  , "ios_version": "13.0"
+  , "unicode version": "12.0"
+  , "ios version": "13.0"
   }
 , {
     "emoji": "⚫"
   , "description": "black circle"
   , "category": "Symbols"
   , "aliases": [
-      "black_circle"
+      "black circle"
     ]
   , "tags": [
     ]
-  , "unicode_version": "4.1"
-  , "ios_version": "6.0"
+  , "unicode version": "4.1"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "⚪"
   , "description": "white circle"
   , "category": "Symbols"
   , "aliases": [
-      "white_circle"
+      "white circle"
     ]
   , "tags": [
     ]
-  , "unicode_version": "4.1"
-  , "ios_version": "6.0"
+  , "unicode version": "4.1"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🟥"
   , "description": "red square"
   , "category": "Symbols"
   , "aliases": [
-      "red_square"
+      "red square"
     ]
   , "tags": [
     ]
-  , "unicode_version": "12.0"
-  , "ios_version": "13.0"
+  , "unicode version": "12.0"
+  , "ios version": "13.0"
   }
 , {
     "emoji": "🟧"
   , "description": "orange square"
   , "category": "Symbols"
   , "aliases": [
-      "orange_square"
+      "orange square"
     ]
   , "tags": [
     ]
-  , "unicode_version": "12.0"
-  , "ios_version": "13.0"
+  , "unicode version": "12.0"
+  , "ios version": "13.0"
   }
 , {
     "emoji": "🟨"
   , "description": "yellow square"
   , "category": "Symbols"
   , "aliases": [
-      "yellow_square"
+      "yellow square"
     ]
   , "tags": [
     ]
-  , "unicode_version": "12.0"
-  , "ios_version": "13.0"
+  , "unicode version": "12.0"
+  , "ios version": "13.0"
   }
 , {
     "emoji": "🟩"
   , "description": "green square"
   , "category": "Symbols"
   , "aliases": [
-      "green_square"
+      "green square"
     ]
   , "tags": [
     ]
-  , "unicode_version": "12.0"
-  , "ios_version": "13.0"
+  , "unicode version": "12.0"
+  , "ios version": "13.0"
   }
 , {
     "emoji": "🟦"
   , "description": "blue square"
   , "category": "Symbols"
   , "aliases": [
-      "blue_square"
+      "blue square"
     ]
   , "tags": [
     ]
-  , "unicode_version": "12.0"
-  , "ios_version": "13.0"
+  , "unicode version": "12.0"
+  , "ios version": "13.0"
   }
 , {
     "emoji": "🟪"
   , "description": "purple square"
   , "category": "Symbols"
   , "aliases": [
-      "purple_square"
+      "purple square"
     ]
   , "tags": [
     ]
-  , "unicode_version": "12.0"
-  , "ios_version": "13.0"
+  , "unicode version": "12.0"
+  , "ios version": "13.0"
   }
 , {
     "emoji": "🟫"
   , "description": "brown square"
   , "category": "Symbols"
   , "aliases": [
-      "brown_square"
+      "brown square"
     ]
   , "tags": [
     ]
-  , "unicode_version": "12.0"
-  , "ios_version": "13.0"
+  , "unicode version": "12.0"
+  , "ios version": "13.0"
   }
 , {
     "emoji": "⬛"
   , "description": "black large square"
   , "category": "Symbols"
   , "aliases": [
-      "black_large_square"
+      "black large square"
     ]
   , "tags": [
     ]
-  , "unicode_version": "5.1"
-  , "ios_version": "6.0"
+  , "unicode version": "5.1"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "⬜"
   , "description": "white large square"
   , "category": "Symbols"
   , "aliases": [
-      "white_large_square"
+      "white large square"
     ]
   , "tags": [
     ]
-  , "unicode_version": "5.1"
-  , "ios_version": "6.0"
+  , "unicode version": "5.1"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "◼️"
   , "description": "black medium square"
   , "category": "Symbols"
   , "aliases": [
-      "black_medium_square"
+      "black medium square"
     ]
   , "tags": [
     ]
-  , "unicode_version": "3.2"
-  , "ios_version": "6.0"
+  , "unicode version": "3.2"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "◻️"
   , "description": "white medium square"
   , "category": "Symbols"
   , "aliases": [
-      "white_medium_square"
+      "white medium square"
     ]
   , "tags": [
     ]
-  , "unicode_version": "3.2"
-  , "ios_version": "6.0"
+  , "unicode version": "3.2"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "◾"
   , "description": "black medium-small square"
   , "category": "Symbols"
   , "aliases": [
-      "black_medium_small_square"
+      "black medium small square"
     ]
   , "tags": [
     ]
-  , "unicode_version": "3.2"
-  , "ios_version": "6.0"
+  , "unicode version": "3.2"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "◽"
   , "description": "white medium-small square"
   , "category": "Symbols"
   , "aliases": [
-      "white_medium_small_square"
+      "white medium small square"
     ]
   , "tags": [
     ]
-  , "unicode_version": "3.2"
-  , "ios_version": "6.0"
+  , "unicode version": "3.2"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "▪️"
   , "description": "black small square"
   , "category": "Symbols"
   , "aliases": [
-      "black_small_square"
+      "black small square"
     ]
   , "tags": [
     ]
-  , "unicode_version": ""
-  , "ios_version": "6.0"
+  , "unicode version": ""
+  , "ios version": "6.0"
   }
 , {
     "emoji": "▫️"
   , "description": "white small square"
   , "category": "Symbols"
   , "aliases": [
-      "white_small_square"
+      "white small square"
     ]
   , "tags": [
     ]
-  , "unicode_version": ""
-  , "ios_version": "6.0"
+  , "unicode version": ""
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🔶"
   , "description": "large orange diamond"
   , "category": "Symbols"
   , "aliases": [
-      "large_orange_diamond"
+      "large orange diamond"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🔷"
   , "description": "large blue diamond"
   , "category": "Symbols"
   , "aliases": [
-      "large_blue_diamond"
+      "large blue diamond"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🔸"
   , "description": "small orange diamond"
   , "category": "Symbols"
   , "aliases": [
-      "small_orange_diamond"
+      "small orange diamond"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🔹"
   , "description": "small blue diamond"
   , "category": "Symbols"
   , "aliases": [
-      "small_blue_diamond"
+      "small blue diamond"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🔺"
   , "description": "red triangle pointed up"
   , "category": "Symbols"
   , "aliases": [
-      "small_red_triangle"
+      "small red triangle"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🔻"
   , "description": "red triangle pointed down"
   , "category": "Symbols"
   , "aliases": [
-      "small_red_triangle_down"
+      "small red triangle down"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "💠"
   , "description": "diamond with a dot"
   , "category": "Symbols"
   , "aliases": [
-      "diamond_shape_with_a_dot_inside"
+      "diamond shape with a dot inside"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🔘"
   , "description": "radio button"
   , "category": "Symbols"
   , "aliases": [
-      "radio_button"
+      "radio button"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🔳"
   , "description": "white square button"
   , "category": "Symbols"
   , "aliases": [
-      "white_square_button"
+      "white square button"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🔲"
   , "description": "black square button"
   , "category": "Symbols"
   , "aliases": [
-      "black_square_button"
+      "black square button"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🏁"
   , "description": "chequered flag"
   , "category": "Flags"
   , "aliases": [
-      "checkered_flag"
+      "checkered flag"
     ]
   , "tags": [
       "milestone"
     , "finish"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🚩"
   , "description": "triangular flag"
   , "category": "Flags"
   , "aliases": [
-      "triangular_flag_on_post"
+      "triangular flag on post"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🎌"
   , "description": "crossed flags"
   , "category": "Flags"
   , "aliases": [
-      "crossed_flags"
+      "crossed flags"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🏴"
   , "description": "black flag"
   , "category": "Flags"
   , "aliases": [
-      "black_flag"
+      "black flag"
     ]
   , "tags": [
     ]
-  , "unicode_version": "7.0"
-  , "ios_version": "9.1"
+  , "unicode version": "7.0"
+  , "ios version": "9.1"
   }
 , {
     "emoji": "🏳️"
   , "description": "white flag"
   , "category": "Flags"
   , "aliases": [
-      "white_flag"
+      "white flag"
     ]
   , "tags": [
     ]
-  , "unicode_version": "7.0"
-  , "ios_version": "9.1"
+  , "unicode version": "7.0"
+  , "ios version": "9.1"
   }
 , {
     "emoji": "🏳️‍🌈"
   , "description": "rainbow flag"
   , "category": "Flags"
   , "aliases": [
-      "rainbow_flag"
+      "rainbow flag"
     ]
   , "tags": [
       "pride"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "10.0"
+  , "unicode version": "6.0"
+  , "ios version": "10.0"
   }
 , {
     "emoji": "🏳️‍⚧️"
   , "description": "transgender flag"
   , "category": "Flags"
   , "aliases": [
-      "transgender_flag"
+      "transgender flag"
     ]
   , "tags": [
     ]
-  , "unicode_version": "13.0"
-  , "ios_version": "14.0"
+  , "unicode version": "13.0"
+  , "ios version": "14.0"
   }
 , {
     "emoji": "🏴‍☠️"
   , "description": "pirate flag"
   , "category": "Flags"
   , "aliases": [
-      "pirate_flag"
+      "pirate flag"
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
   }
 , {
     "emoji": "🇦🇨"
   , "description": "flag: Ascension Island"
   , "category": "Flags"
   , "aliases": [
-      "ascension_island"
+      "ascension island"
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
   }
 , {
     "emoji": "🇦🇩"
@@ -19613,20 +19545,20 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇦🇪"
   , "description": "flag: United Arab Emirates"
   , "category": "Flags"
   , "aliases": [
-      "united_arab_emirates"
+      "united arab emirates"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇦🇫"
@@ -19637,20 +19569,20 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇦🇬"
   , "description": "flag: Antigua & Barbuda"
   , "category": "Flags"
   , "aliases": [
-      "antigua_barbuda"
+      "antigua barbuda"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇦🇮"
@@ -19661,8 +19593,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇦🇱"
@@ -19673,8 +19605,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇦🇲"
@@ -19685,8 +19617,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇦🇴"
@@ -19697,8 +19629,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇦🇶"
@@ -19709,8 +19641,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "9.0"
+  , "unicode version": "6.0"
+  , "ios version": "9.0"
   }
 , {
     "emoji": "🇦🇷"
@@ -19721,20 +19653,20 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇦🇸"
   , "description": "flag: American Samoa"
   , "category": "Flags"
   , "aliases": [
-      "american_samoa"
+      "american samoa"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇦🇹"
@@ -19745,8 +19677,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇦🇺"
@@ -19757,8 +19689,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇦🇼"
@@ -19769,20 +19701,20 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇦🇽"
   , "description": "flag: Åland Islands"
   , "category": "Flags"
   , "aliases": [
-      "aland_islands"
+      "aland islands"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "9.0"
+  , "unicode version": "6.0"
+  , "ios version": "9.0"
   }
 , {
     "emoji": "🇦🇿"
@@ -19793,20 +19725,20 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇧🇦"
   , "description": "flag: Bosnia & Herzegovina"
   , "category": "Flags"
   , "aliases": [
-      "bosnia_herzegovina"
+      "bosnia herzegovina"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇧🇧"
@@ -19817,8 +19749,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇧🇩"
@@ -19829,8 +19761,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇧🇪"
@@ -19841,20 +19773,20 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇧🇫"
   , "description": "flag: Burkina Faso"
   , "category": "Flags"
   , "aliases": [
-      "burkina_faso"
+      "burkina faso"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇧🇬"
@@ -19865,8 +19797,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇧🇭"
@@ -19877,8 +19809,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇧🇮"
@@ -19889,8 +19821,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇧🇯"
@@ -19901,20 +19833,20 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇧🇱"
   , "description": "flag: St. Barthélemy"
   , "category": "Flags"
   , "aliases": [
-      "st_barthelemy"
+      "st barthelemy"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "9.0"
+  , "unicode version": "6.0"
+  , "ios version": "9.0"
   }
 , {
     "emoji": "🇧🇲"
@@ -19925,8 +19857,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇧🇳"
@@ -19937,8 +19869,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇧🇴"
@@ -19949,20 +19881,20 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇧🇶"
   , "description": "flag: Caribbean Netherlands"
   , "category": "Flags"
   , "aliases": [
-      "caribbean_netherlands"
+      "caribbean netherlands"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "9.0"
+  , "unicode version": "6.0"
+  , "ios version": "9.0"
   }
 , {
     "emoji": "🇧🇷"
@@ -19973,8 +19905,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇧🇸"
@@ -19985,8 +19917,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇧🇹"
@@ -19997,20 +19929,20 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇧🇻"
   , "description": "flag: Bouvet Island"
   , "category": "Flags"
   , "aliases": [
-      "bouvet_island"
+      "bouvet island"
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
   }
 , {
     "emoji": "🇧🇼"
@@ -20021,8 +19953,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇧🇾"
@@ -20033,8 +19965,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇧🇿"
@@ -20045,8 +19977,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇨🇦"
@@ -20057,57 +19989,57 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇨🇨"
   , "description": "flag: Cocos (Keeling) Islands"
   , "category": "Flags"
   , "aliases": [
-      "cocos_islands"
+      "cocos islands"
     ]
   , "tags": [
       "keeling"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "9.0"
+  , "unicode version": "6.0"
+  , "ios version": "9.0"
   }
 , {
     "emoji": "🇨🇩"
   , "description": "flag: Congo - Kinshasa"
   , "category": "Flags"
   , "aliases": [
-      "congo_kinshasa"
+      "congo kinshasa"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇨🇫"
   , "description": "flag: Central African Republic"
   , "category": "Flags"
   , "aliases": [
-      "central_african_republic"
+      "central african republic"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇨🇬"
   , "description": "flag: Congo - Brazzaville"
   , "category": "Flags"
   , "aliases": [
-      "congo_brazzaville"
+      "congo brazzaville"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇨🇭"
@@ -20118,33 +20050,33 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇨🇮"
   , "description": "flag: Côte d’Ivoire"
   , "category": "Flags"
   , "aliases": [
-      "cote_divoire"
+      "cote divoire"
     ]
   , "tags": [
       "ivory"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇨🇰"
   , "description": "flag: Cook Islands"
   , "category": "Flags"
   , "aliases": [
-      "cook_islands"
+      "cook islands"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇨🇱"
@@ -20155,8 +20087,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇨🇲"
@@ -20167,8 +20099,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇨🇳"
@@ -20180,8 +20112,8 @@ let db = [
   , "tags": [
       "china"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🇨🇴"
@@ -20192,32 +20124,32 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇨🇵"
   , "description": "flag: Clipperton Island"
   , "category": "Flags"
   , "aliases": [
-      "clipperton_island"
+      "clipperton island"
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
   }
 , {
     "emoji": "🇨🇷"
   , "description": "flag: Costa Rica"
   , "category": "Flags"
   , "aliases": [
-      "costa_rica"
+      "costa rica"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇨🇺"
@@ -20228,20 +20160,20 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇨🇻"
   , "description": "flag: Cape Verde"
   , "category": "Flags"
   , "aliases": [
-      "cape_verde"
+      "cape verde"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇨🇼"
@@ -20252,20 +20184,20 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇨🇽"
   , "description": "flag: Christmas Island"
   , "category": "Flags"
   , "aliases": [
-      "christmas_island"
+      "christmas island"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "9.0"
+  , "unicode version": "6.0"
+  , "ios version": "9.0"
   }
 , {
     "emoji": "🇨🇾"
@@ -20276,20 +20208,20 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇨🇿"
   , "description": "flag: Czechia"
   , "category": "Flags"
   , "aliases": [
-      "czech_republic"
+      "czech republic"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇩🇪"
@@ -20302,20 +20234,20 @@ let db = [
       "flag"
     , "germany"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🇩🇬"
   , "description": "flag: Diego Garcia"
   , "category": "Flags"
   , "aliases": [
-      "diego_garcia"
+      "diego garcia"
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
   }
 , {
     "emoji": "🇩🇯"
@@ -20326,8 +20258,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇩🇰"
@@ -20338,8 +20270,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇩🇲"
@@ -20350,20 +20282,20 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇩🇴"
   , "description": "flag: Dominican Republic"
   , "category": "Flags"
   , "aliases": [
-      "dominican_republic"
+      "dominican republic"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇩🇿"
@@ -20374,20 +20306,20 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇪🇦"
   , "description": "flag: Ceuta & Melilla"
   , "category": "Flags"
   , "aliases": [
-      "ceuta_melilla"
+      "ceuta melilla"
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
   }
 , {
     "emoji": "🇪🇨"
@@ -20398,8 +20330,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇪🇪"
@@ -20410,8 +20342,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇪🇬"
@@ -20422,20 +20354,20 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇪🇭"
   , "description": "flag: Western Sahara"
   , "category": "Flags"
   , "aliases": [
-      "western_sahara"
+      "western sahara"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "9.0"
+  , "unicode version": "6.0"
+  , "ios version": "9.0"
   }
 , {
     "emoji": "🇪🇷"
@@ -20446,8 +20378,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇪🇸"
@@ -20459,8 +20391,8 @@ let db = [
   , "tags": [
       "spain"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🇪🇹"
@@ -20471,8 +20403,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇪🇺"
@@ -20480,12 +20412,12 @@ let db = [
   , "category": "Flags"
   , "aliases": [
       "eu"
-    , "european_union"
+    , "european union"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "9.0"
+  , "unicode version": "6.0"
+  , "ios version": "9.0"
   }
 , {
     "emoji": "🇫🇮"
@@ -20496,8 +20428,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇫🇯"
@@ -20508,20 +20440,20 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇫🇰"
   , "description": "flag: Falkland Islands"
   , "category": "Flags"
   , "aliases": [
-      "falkland_islands"
+      "falkland islands"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "9.0"
+  , "unicode version": "6.0"
+  , "ios version": "9.0"
   }
 , {
     "emoji": "🇫🇲"
@@ -20532,20 +20464,20 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "9.0"
+  , "unicode version": "6.0"
+  , "ios version": "9.0"
   }
 , {
     "emoji": "🇫🇴"
   , "description": "flag: Faroe Islands"
   , "category": "Flags"
   , "aliases": [
-      "faroe_islands"
+      "faroe islands"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇫🇷"
@@ -20558,8 +20490,8 @@ let db = [
       "france"
     , "french"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🇬🇦"
@@ -20570,8 +20502,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇬🇧"
@@ -20585,8 +20517,8 @@ let db = [
       "flag"
     , "british"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🇬🇩"
@@ -20597,8 +20529,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇬🇪"
@@ -20609,20 +20541,20 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇬🇫"
   , "description": "flag: French Guiana"
   , "category": "Flags"
   , "aliases": [
-      "french_guiana"
+      "french guiana"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇬🇬"
@@ -20633,8 +20565,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "9.0"
+  , "unicode version": "6.0"
+  , "ios version": "9.0"
   }
 , {
     "emoji": "🇬🇭"
@@ -20645,8 +20577,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇬🇮"
@@ -20657,8 +20589,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇬🇱"
@@ -20669,8 +20601,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "9.0"
+  , "unicode version": "6.0"
+  , "ios version": "9.0"
   }
 , {
     "emoji": "🇬🇲"
@@ -20681,8 +20613,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇬🇳"
@@ -20693,8 +20625,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇬🇵"
@@ -20705,20 +20637,20 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "9.0"
+  , "unicode version": "6.0"
+  , "ios version": "9.0"
   }
 , {
     "emoji": "🇬🇶"
   , "description": "flag: Equatorial Guinea"
   , "category": "Flags"
   , "aliases": [
-      "equatorial_guinea"
+      "equatorial guinea"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇬🇷"
@@ -20729,20 +20661,20 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇬🇸"
   , "description": "flag: South Georgia & South Sandwich Islands"
   , "category": "Flags"
   , "aliases": [
-      "south_georgia_south_sandwich_islands"
+      "south georgia south sandwich islands"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "9.0"
+  , "unicode version": "6.0"
+  , "ios version": "9.0"
   }
 , {
     "emoji": "🇬🇹"
@@ -20753,8 +20685,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇬🇺"
@@ -20765,20 +20697,20 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇬🇼"
   , "description": "flag: Guinea-Bissau"
   , "category": "Flags"
   , "aliases": [
-      "guinea_bissau"
+      "guinea bissau"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇬🇾"
@@ -20789,32 +20721,32 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇭🇰"
   , "description": "flag: Hong Kong SAR China"
   , "category": "Flags"
   , "aliases": [
-      "hong_kong"
+      "hong kong"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇭🇲"
   , "description": "flag: Heard & McDonald Islands"
   , "category": "Flags"
   , "aliases": [
-      "heard_mcdonald_islands"
+      "heard mcdonald islands"
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
   }
 , {
     "emoji": "🇭🇳"
@@ -20825,8 +20757,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇭🇷"
@@ -20837,8 +20769,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇭🇹"
@@ -20849,8 +20781,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇭🇺"
@@ -20861,20 +20793,20 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇮🇨"
   , "description": "flag: Canary Islands"
   , "category": "Flags"
   , "aliases": [
-      "canary_islands"
+      "canary islands"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "9.0"
+  , "unicode version": "6.0"
+  , "ios version": "9.0"
   }
 , {
     "emoji": "🇮🇩"
@@ -20885,8 +20817,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇮🇪"
@@ -20897,8 +20829,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇮🇱"
@@ -20909,20 +20841,20 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇮🇲"
   , "description": "flag: Isle of Man"
   , "category": "Flags"
   , "aliases": [
-      "isle_of_man"
+      "isle of man"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "9.0"
+  , "unicode version": "6.0"
+  , "ios version": "9.0"
   }
 , {
     "emoji": "🇮🇳"
@@ -20933,20 +20865,20 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇮🇴"
   , "description": "flag: British Indian Ocean Territory"
   , "category": "Flags"
   , "aliases": [
-      "british_indian_ocean_territory"
+      "british indian ocean territory"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "9.0"
+  , "unicode version": "6.0"
+  , "ios version": "9.0"
   }
 , {
     "emoji": "🇮🇶"
@@ -20957,8 +20889,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇮🇷"
@@ -20969,8 +20901,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇮🇸"
@@ -20981,8 +20913,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇮🇹"
@@ -20994,8 +20926,8 @@ let db = [
   , "tags": [
       "italy"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🇯🇪"
@@ -21006,8 +20938,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "9.0"
+  , "unicode version": "6.0"
+  , "ios version": "9.0"
   }
 , {
     "emoji": "🇯🇲"
@@ -21018,8 +20950,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇯🇴"
@@ -21030,8 +20962,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇯🇵"
@@ -21043,8 +20975,8 @@ let db = [
   , "tags": [
       "japan"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🇰🇪"
@@ -21055,8 +20987,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇰🇬"
@@ -21067,8 +20999,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇰🇭"
@@ -21079,8 +21011,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇰🇮"
@@ -21091,8 +21023,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇰🇲"
@@ -21103,32 +21035,32 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇰🇳"
   , "description": "flag: St. Kitts & Nevis"
   , "category": "Flags"
   , "aliases": [
-      "st_kitts_nevis"
+      "st kitts nevis"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇰🇵"
   , "description": "flag: North Korea"
   , "category": "Flags"
   , "aliases": [
-      "north_korea"
+      "north korea"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇰🇷"
@@ -21140,8 +21072,8 @@ let db = [
   , "tags": [
       "korea"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🇰🇼"
@@ -21152,20 +21084,20 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇰🇾"
   , "description": "flag: Cayman Islands"
   , "category": "Flags"
   , "aliases": [
-      "cayman_islands"
+      "cayman islands"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇰🇿"
@@ -21176,8 +21108,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇱🇦"
@@ -21188,8 +21120,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇱🇧"
@@ -21200,20 +21132,20 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇱🇨"
   , "description": "flag: St. Lucia"
   , "category": "Flags"
   , "aliases": [
-      "st_lucia"
+      "st lucia"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇱🇮"
@@ -21224,20 +21156,20 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇱🇰"
   , "description": "flag: Sri Lanka"
   , "category": "Flags"
   , "aliases": [
-      "sri_lanka"
+      "sri lanka"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇱🇷"
@@ -21248,8 +21180,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇱🇸"
@@ -21260,8 +21192,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇱🇹"
@@ -21272,8 +21204,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇱🇺"
@@ -21284,8 +21216,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇱🇻"
@@ -21296,8 +21228,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇱🇾"
@@ -21308,8 +21240,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇲🇦"
@@ -21320,8 +21252,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇲🇨"
@@ -21332,8 +21264,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "9.0"
+  , "unicode version": "6.0"
+  , "ios version": "9.0"
   }
 , {
     "emoji": "🇲🇩"
@@ -21344,8 +21276,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇲🇪"
@@ -21356,20 +21288,20 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇲🇫"
   , "description": "flag: St. Martin"
   , "category": "Flags"
   , "aliases": [
-      "st_martin"
+      "st martin"
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
   }
 , {
     "emoji": "🇲🇬"
@@ -21380,20 +21312,20 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇲🇭"
   , "description": "flag: Marshall Islands"
   , "category": "Flags"
   , "aliases": [
-      "marshall_islands"
+      "marshall islands"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "9.0"
+  , "unicode version": "6.0"
+  , "ios version": "9.0"
   }
 , {
     "emoji": "🇲🇰"
@@ -21404,8 +21336,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇲🇱"
@@ -21416,8 +21348,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇲🇲"
@@ -21429,8 +21361,8 @@ let db = [
   , "tags": [
       "burma"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇲🇳"
@@ -21441,8 +21373,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇲🇴"
@@ -21453,20 +21385,20 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇲🇵"
   , "description": "flag: Northern Mariana Islands"
   , "category": "Flags"
   , "aliases": [
-      "northern_mariana_islands"
+      "northern mariana islands"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇲🇶"
@@ -21477,8 +21409,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "9.0"
+  , "unicode version": "6.0"
+  , "ios version": "9.0"
   }
 , {
     "emoji": "🇲🇷"
@@ -21489,8 +21421,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇲🇸"
@@ -21501,8 +21433,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇲🇹"
@@ -21513,8 +21445,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇲🇺"
@@ -21525,8 +21457,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "9.0"
+  , "unicode version": "6.0"
+  , "ios version": "9.0"
   }
 , {
     "emoji": "🇲🇻"
@@ -21537,8 +21469,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇲🇼"
@@ -21549,8 +21481,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇲🇽"
@@ -21561,8 +21493,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇲🇾"
@@ -21573,8 +21505,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇲🇿"
@@ -21585,8 +21517,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇳🇦"
@@ -21597,20 +21529,20 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇳🇨"
   , "description": "flag: New Caledonia"
   , "category": "Flags"
   , "aliases": [
-      "new_caledonia"
+      "new caledonia"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇳🇪"
@@ -21621,20 +21553,20 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇳🇫"
   , "description": "flag: Norfolk Island"
   , "category": "Flags"
   , "aliases": [
-      "norfolk_island"
+      "norfolk island"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "9.0"
+  , "unicode version": "6.0"
+  , "ios version": "9.0"
   }
 , {
     "emoji": "🇳🇬"
@@ -21645,8 +21577,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇳🇮"
@@ -21657,8 +21589,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇳🇱"
@@ -21669,8 +21601,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇳🇴"
@@ -21681,8 +21613,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇳🇵"
@@ -21693,8 +21625,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇳🇷"
@@ -21705,8 +21637,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "9.0"
+  , "unicode version": "6.0"
+  , "ios version": "9.0"
   }
 , {
     "emoji": "🇳🇺"
@@ -21717,20 +21649,20 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇳🇿"
   , "description": "flag: New Zealand"
   , "category": "Flags"
   , "aliases": [
-      "new_zealand"
+      "new zealand"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇴🇲"
@@ -21741,8 +21673,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇵🇦"
@@ -21753,8 +21685,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇵🇪"
@@ -21765,32 +21697,32 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇵🇫"
   , "description": "flag: French Polynesia"
   , "category": "Flags"
   , "aliases": [
-      "french_polynesia"
+      "french polynesia"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "9.0"
+  , "unicode version": "6.0"
+  , "ios version": "9.0"
   }
 , {
     "emoji": "🇵🇬"
   , "description": "flag: Papua New Guinea"
   , "category": "Flags"
   , "aliases": [
-      "papua_new_guinea"
+      "papua new guinea"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇵🇭"
@@ -21801,8 +21733,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇵🇰"
@@ -21813,8 +21745,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇵🇱"
@@ -21825,56 +21757,56 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇵🇲"
   , "description": "flag: St. Pierre & Miquelon"
   , "category": "Flags"
   , "aliases": [
-      "st_pierre_miquelon"
+      "st pierre miquelon"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "9.0"
+  , "unicode version": "6.0"
+  , "ios version": "9.0"
   }
 , {
     "emoji": "🇵🇳"
   , "description": "flag: Pitcairn Islands"
   , "category": "Flags"
   , "aliases": [
-      "pitcairn_islands"
+      "pitcairn islands"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "9.0"
+  , "unicode version": "6.0"
+  , "ios version": "9.0"
   }
 , {
     "emoji": "🇵🇷"
   , "description": "flag: Puerto Rico"
   , "category": "Flags"
   , "aliases": [
-      "puerto_rico"
+      "puerto rico"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇵🇸"
   , "description": "flag: Palestinian Territories"
   , "category": "Flags"
   , "aliases": [
-      "palestinian_territories"
+      "palestinian territories"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇵🇹"
@@ -21885,8 +21817,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇵🇼"
@@ -21897,8 +21829,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇵🇾"
@@ -21909,8 +21841,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇶🇦"
@@ -21921,8 +21853,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇷🇪"
@@ -21933,8 +21865,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "9.0"
+  , "unicode version": "6.0"
+  , "ios version": "9.0"
   }
 , {
     "emoji": "🇷🇴"
@@ -21945,8 +21877,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇷🇸"
@@ -21957,8 +21889,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇷🇺"
@@ -21970,8 +21902,8 @@ let db = [
   , "tags": [
       "russia"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🇷🇼"
@@ -21982,32 +21914,32 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇸🇦"
   , "description": "flag: Saudi Arabia"
   , "category": "Flags"
   , "aliases": [
-      "saudi_arabia"
+      "saudi arabia"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇸🇧"
   , "description": "flag: Solomon Islands"
   , "category": "Flags"
   , "aliases": [
-      "solomon_islands"
+      "solomon islands"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇸🇨"
@@ -22018,8 +21950,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇸🇩"
@@ -22030,8 +21962,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇸🇪"
@@ -22042,8 +21974,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇸🇬"
@@ -22054,20 +21986,20 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇸🇭"
   , "description": "flag: St. Helena"
   , "category": "Flags"
   , "aliases": [
-      "st_helena"
+      "st helena"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "9.0"
+  , "unicode version": "6.0"
+  , "ios version": "9.0"
   }
 , {
     "emoji": "🇸🇮"
@@ -22078,20 +22010,20 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇸🇯"
   , "description": "flag: Svalbard & Jan Mayen"
   , "category": "Flags"
   , "aliases": [
-      "svalbard_jan_mayen"
+      "svalbard jan mayen"
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
   }
 , {
     "emoji": "🇸🇰"
@@ -22102,32 +22034,32 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇸🇱"
   , "description": "flag: Sierra Leone"
   , "category": "Flags"
   , "aliases": [
-      "sierra_leone"
+      "sierra leone"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇸🇲"
   , "description": "flag: San Marino"
   , "category": "Flags"
   , "aliases": [
-      "san_marino"
+      "san marino"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇸🇳"
@@ -22138,8 +22070,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇸🇴"
@@ -22150,8 +22082,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇸🇷"
@@ -22162,56 +22094,56 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇸🇸"
   , "description": "flag: South Sudan"
   , "category": "Flags"
   , "aliases": [
-      "south_sudan"
+      "south sudan"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇸🇹"
   , "description": "flag: São Tomé & Príncipe"
   , "category": "Flags"
   , "aliases": [
-      "sao_tome_principe"
+      "sao tome principe"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇸🇻"
   , "description": "flag: El Salvador"
   , "category": "Flags"
   , "aliases": [
-      "el_salvador"
+      "el salvador"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇸🇽"
   , "description": "flag: Sint Maarten"
   , "category": "Flags"
   , "aliases": [
-      "sint_maarten"
+      "sint maarten"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇸🇾"
@@ -22222,8 +22154,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇸🇿"
@@ -22234,32 +22166,32 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇹🇦"
   , "description": "flag: Tristan da Cunha"
   , "category": "Flags"
   , "aliases": [
-      "tristan_da_cunha"
+      "tristan da cunha"
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
   }
 , {
     "emoji": "🇹🇨"
   , "description": "flag: Turks & Caicos Islands"
   , "category": "Flags"
   , "aliases": [
-      "turks_caicos_islands"
+      "turks caicos islands"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇹🇩"
@@ -22270,20 +22202,20 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "9.0"
+  , "unicode version": "6.0"
+  , "ios version": "9.0"
   }
 , {
     "emoji": "🇹🇫"
   , "description": "flag: French Southern Territories"
   , "category": "Flags"
   , "aliases": [
-      "french_southern_territories"
+      "french southern territories"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇹🇬"
@@ -22294,8 +22226,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇹🇭"
@@ -22306,8 +22238,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇹🇯"
@@ -22318,8 +22250,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇹🇰"
@@ -22330,20 +22262,20 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "9.0"
+  , "unicode version": "6.0"
+  , "ios version": "9.0"
   }
 , {
     "emoji": "🇹🇱"
   , "description": "flag: Timor-Leste"
   , "category": "Flags"
   , "aliases": [
-      "timor_leste"
+      "timor leste"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇹🇲"
@@ -22354,8 +22286,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇹🇳"
@@ -22366,8 +22298,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇹🇴"
@@ -22378,8 +22310,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇹🇷"
@@ -22391,20 +22323,20 @@ let db = [
   , "tags": [
       "turkey"
     ]
-  , "unicode_version": "8.0"
-  , "ios_version": "9.1"
+  , "unicode version": "8.0"
+  , "ios version": "9.1"
   }
 , {
     "emoji": "🇹🇹"
   , "description": "flag: Trinidad & Tobago"
   , "category": "Flags"
   , "aliases": [
-      "trinidad_tobago"
+      "trinidad tobago"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇹🇻"
@@ -22415,8 +22347,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇹🇼"
@@ -22427,8 +22359,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "9.0"
+  , "unicode version": "6.0"
+  , "ios version": "9.0"
   }
 , {
     "emoji": "🇹🇿"
@@ -22439,8 +22371,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇺🇦"
@@ -22451,8 +22383,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇺🇬"
@@ -22463,32 +22395,32 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇺🇲"
   , "description": "flag: U.S. Outlying Islands"
   , "category": "Flags"
   , "aliases": [
-      "us_outlying_islands"
+      "us outlying islands"
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
   }
 , {
     "emoji": "🇺🇳"
   , "description": "flag: United Nations"
   , "category": "Flags"
   , "aliases": [
-      "united_nations"
+      "united nations"
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
   }
 , {
     "emoji": "🇺🇸"
@@ -22502,8 +22434,8 @@ let db = [
     , "united"
     , "america"
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "6.0"
+  , "unicode version": "6.0"
+  , "ios version": "6.0"
   }
 , {
     "emoji": "🇺🇾"
@@ -22514,8 +22446,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇺🇿"
@@ -22526,32 +22458,32 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇻🇦"
   , "description": "flag: Vatican City"
   , "category": "Flags"
   , "aliases": [
-      "vatican_city"
+      "vatican city"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "9.0"
+  , "unicode version": "6.0"
+  , "ios version": "9.0"
   }
 , {
     "emoji": "🇻🇨"
   , "description": "flag: St. Vincent & Grenadines"
   , "category": "Flags"
   , "aliases": [
-      "st_vincent_grenadines"
+      "st vincent grenadines"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇻🇪"
@@ -22562,32 +22494,32 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇻🇬"
   , "description": "flag: British Virgin Islands"
   , "category": "Flags"
   , "aliases": [
-      "british_virgin_islands"
+      "british virgin islands"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇻🇮"
   , "description": "flag: U.S. Virgin Islands"
   , "category": "Flags"
   , "aliases": [
-      "us_virgin_islands"
+      "us virgin islands"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇻🇳"
@@ -22598,8 +22530,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇻🇺"
@@ -22610,20 +22542,20 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇼🇫"
   , "description": "flag: Wallis & Futuna"
   , "category": "Flags"
   , "aliases": [
-      "wallis_futuna"
+      "wallis futuna"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "9.0"
+  , "unicode version": "6.0"
+  , "ios version": "9.0"
   }
 , {
     "emoji": "🇼🇸"
@@ -22634,8 +22566,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇽🇰"
@@ -22646,8 +22578,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇾🇪"
@@ -22658,8 +22590,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇾🇹"
@@ -22670,20 +22602,20 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "9.0"
+  , "unicode version": "6.0"
+  , "ios version": "9.0"
   }
 , {
     "emoji": "🇿🇦"
   , "description": "flag: South Africa"
   , "category": "Flags"
   , "aliases": [
-      "south_africa"
+      "south africa"
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇿🇲"
@@ -22694,8 +22626,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🇿🇼"
@@ -22706,8 +22638,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "6.0"
-  , "ios_version": "8.3"
+  , "unicode version": "6.0"
+  , "ios version": "8.3"
   }
 , {
     "emoji": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
@@ -22718,8 +22650,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
   }
 , {
     "emoji": "🏴󠁧󠁢󠁳󠁣󠁴󠁿"
@@ -22730,8 +22662,8 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
   }
 , {
     "emoji": "🏴󠁧󠁢󠁷󠁬󠁳󠁿"
@@ -22742,7 +22674,7 @@ let db = [
     ]
   , "tags": [
     ]
-  , "unicode_version": "11.0"
-  , "ios_version": "12.1"
+  , "unicode version": "11.0"
+  , "ios version": "12.1"
   }
 ];

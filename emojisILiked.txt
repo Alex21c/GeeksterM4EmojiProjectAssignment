@@ -1,0 +1,13 @@
+smile || smiling
+book
+heart
+flower
+face
+tree
+airplane
+sun
+money
+clock
+music
+mountain
+horse
